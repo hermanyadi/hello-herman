@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Nifty Watch — Daily Index Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#12141c; --surface:#1a1d27; --surface-2:#20232f; --hairline:#2a2e3a;
+    --text:#e8e6e0; --text-muted:#8b8fa3; --amber:#e8a33d;
+    --gain:#3fbf7f; --loss:#e85d5d; --flat:#8b8fa3;
+  }
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; background:var(--bg); color:var(--text);
+    font-family:'Space Grotesk', sans-serif; -webkit-font-smoothing:antialiased; }
+  .mono{ font-family:'IBM Plex Mono', monospace; font-variant-numeric:tabular-nums; }
+
+  header{
+    padding:26px 32px 16px; display:flex; align-items:flex-end; justify-content:space-between;
+    flex-wrap:wrap; gap:14px; border-bottom:1px solid var(--hairline);
+  }
+  .brand{ display:flex; flex-direction:column; gap:4px; }
+  .brand .eyebrow{ font-family:'IBM Plex Mono', monospace; font-size:11px; letter-spacing:.18em;
+    color:var(--amber); text-transform:uppercase; }
+  .brand h1{ margin:0; font-size:26px; font-weight:700; letter-spacing:-.01em; }
+  .meta{ text-align:right; font-size:12.5px; color:var(--text-muted); display:flex; align-items:center; gap:10px; }
+  .meta .dot{ display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--gain); }
+  .meta.stale .dot{ background:var(--amber); }
+  #refreshBtn{
+    background:var(--surface-2); border:1px solid var(--hairline); color:var(--text);
+    padding:7px 14px; border-radius:7px; font-family:'Space Grotesk',sans-serif; font-size:12.5px;
+    cursor:pointer; display:flex; align-items:center; gap:6px;
+  }
+  #refreshBtn:hover{ border-color:var(--amber); color:var(--amber); }
+  #refreshBtn.spinning svg{ animation: spin .8s linear infinite; }
+  @keyframes spin{ to{ transform:rotate(360deg); } }
+  a.action-link{ color:var(--amber); text-decoration:none; font-size:12px; }
+  a.action-link:hover{ text-decoration:underline; }
+
+  .controls{
+    padding:16px 32px; display:flex; gap:12px; align-items:center; flex-wrap:wrap;
+    border-bottom:1px solid var(--hairline); background:var(--surface);
+  }
+  #search{
+    flex:1; min-width:220px; background:var(--surface-2); border:1px solid var(--hairline);
+    color:var(--text); padding:10px 14px; border-radius:8px; font-family:'Space Grotesk',sans-serif;
+    font-size:14px; outline:none;
+  }
+  #search:focus{ border-color:var(--amber); }
+  .cat-pills{ display:flex; gap:6px; flex-wrap:wrap; }
+  .cat-pill{
+    background:var(--surface-2); border:1px solid var(--hairline); color:var(--text-muted);
+    padding:8px 13px; border-radius:20px; font-size:12.5px; cursor:pointer; white-space:nowrap;
+  }
+  .cat-pill.active{ background:var(--amber); border-color:var(--amber); color:#1a1406; font-weight:600; }
+  .summary-pill{
+    font-family:'IBM Plex Mono', monospace; font-size:12px; color:var(--text-muted);
+    background:var(--surface-2); border:1px solid var(--hairline); padding:8px 12px; border-radius:8px;
+    white-space:nowrap; margin-left:auto;
+  }
+  .summary-pill b.gain{ color:var(--gain); } .summary-pill b.loss{ color:var(--loss); }
+
+  .table-wrap{ padding:0 32px 40px; overflow-x:auto; }
+  table{ width:100%; border-collapse:collapse; margin-top:18px; min-width:1080px; }
+  thead th{
+    text-align:left; font-size:11px; letter-spacing:.06em; text-transform:uppercase;
+    color:var(--text-muted); font-weight:500; padding:10px 12px; border-bottom:1px solid var(--hairline);
+    cursor:pointer; user-select:none; position:sticky; top:0; background:var(--bg); white-space:nowrap;
+  }
+  thead th:hover{ color:var(--amber); }
+  thead th.sorted{ color:var(--amber); }
+  thead th.num, td.num{ text-align:right; }
+  tbody td{ padding:12px; border-bottom:1px solid var(--hairline); font-size:13.5px; white-space:nowrap; }
+  tbody tr:hover{ background:var(--surface); }
+  .idx-name{ font-weight:500; }
+  .idx-symbol{ display:block; font-size:10.5px; color:var(--text-muted); font-family:'IBM Plex Mono', monospace; }
+  .cat-tag{ font-size:10px; color:var(--text-muted); font-family:'IBM Plex Mono', monospace; }
+  .chg.up{ color:var(--gain); } .chg.down{ color:var(--loss); } .chg.flat{ color:var(--flat); }
+  .empty-state{ margin:60px auto; max-width:560px; text-align:center; color:var(--text-muted);
+    padding:32px; border:1px dashed var(--hairline); border-radius:12px; }
+  .empty-state code{ background:var(--surface-2); padding:2px 6px; border-radius:4px; color:var(--amber); }
+  footer{ padding:18px 32px 32px; color:var(--text-muted); font-size:11.5px; text-align:center; }
+
+  @media (max-width:640px){
+    header,.controls,.table-wrap{ padding-left:16px; padding-right:16px; }
+    .brand h1{ font-size:20px; }
+    .summary-pill{ margin-left:0; }
+  }
+</style>
+</head>
+<body>
+
+  <header>
+    <div class="brand">
+      <span class="eyebrow">NSE · Daily Snapshot</span>
+      <h1>Nifty Watch</h1>
+    </div>
+    <div class="meta" id="metaBlock">
+      <span class="dot"></span><span id="lastUpdated">Loading…</span>
+      <button id="refreshBtn" title="Re-fetch data/latest.json from the repo">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+          <path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/>
+        </svg>
+        Refresh
+      </button>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="cat-pills" id="catPills"></div>
+    <input type="text" id="search" placeholder="Search indices — try “bank”, “auto”, “IT”…" />
+    <div class="summary-pill" id="summaryPill">—</div>
+  </div>
+
+  <div class="table-wrap" id="tableWrap">
+    <table id="dataTable" style="display:none;">
+      <thead>
+        <tr>
+          <th data-key="index">Index</th>
+          <th class="num" data-key="last">Last</th>
+          <th class="num" data-key="variation">Chg</th>
+          <th class="num sorted" data-key="percentChange">% Chg</th>
+          <th class="num" data-key="open">Open</th>
+          <th class="num" data-key="high">High</th>
+          <th class="num" data-key="low">Low</th>
+          <th class="num" data-key="previousClose">Prev. Close</th>
+          <th class="num" data-key="yearHigh">Yr High</th>
+          <th class="num" data-key="yearLow">Yr Low</th>
+          <th class="num" data-key="pe">PE</th>
+          <th class="num" data-key="pb">PB</th>
+          <th class="num" data-key="dy">DY%</th>
+          <th class="num" data-key="advances">Adv</th>
+          <th class="num" data-key="declines">Dec</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+    <div class="empty-state" id="emptyState" style="display:none;">
+      <p><strong>No data yet.</strong></p>
+      <p>This dashboard reads from <code>data/latest.json</code>, which is written by the
+      "Update Nifty Indices Data" GitHub Action. Go to your repo's
+      <a class="action-link" href="../../actions" id="actionsLink">Actions tab</a>
+      and run that workflow once manually — after that it updates itself every weekday evening.</p>
+    </div>
+  </div>
+
+  <footer>
+    Data source: NSE India (allIndices) · Refreshed once daily on weekdays via GitHub Actions · Not investment advice
+  </footer>
+
+<script>
+  function fmtNum(v, digits = 2) {
+    if (v === null || v === undefined || isNaN(v)) return "—";
+    return Number(v).toLocaleString("en-IN", { minimumFractionDigits: digits, maximumFractionDigits: digits });
+  }
+
+  let allIndices = [];
+  let activeCategory = "ALL";
+  let sortKey = "percentChange";
+  let sortDir = -1;
+
+  function categories() {
+    const set = new Set(allIndices.map(i => i.key).filter(Boolean));
+    return ["ALL", ...Array.from(set).sort()];
+  }
+
+  function renderPills() {
+    const wrap = document.getElementById("catPills");
+    wrap.innerHTML = categories().map(cat => {
+      const label = cat === "ALL" ? "All" : cat.replace(/ INDICES$/i, "").replace(/\b\w/g, c => c.toUpperCase());
+      return `<span class="cat-pill ${cat === activeCategory ? "active" : ""}" data-cat="${cat}">${label}</span>`;
+    }).join("");
+    wrap.querySelectorAll(".cat-pill").forEach(el => {
+      el.addEventListener("click", () => {
+        activeCategory = el.dataset.cat;
+        renderPills();
+        render();
+      });
+    });
+  }
+
+  function render() {
+    const q = document.getElementById("search").value.trim().toLowerCase();
+    let rows = allIndices.filter(idx => activeCategory === "ALL" || idx.key === activeCategory);
+    rows = rows.filter(idx => (idx.index || "").toLowerCase().includes(q));
+
+    rows.sort((a, b) => {
+      const av = a[sortKey], bv = b[sortKey];
+      if (sortKey === "index") return sortDir * String(av || "").localeCompare(String(bv || ""));
+      const an = av === null || av === undefined ? -Infinity : Number(av);
+      const bn = bv === null || bv === undefined ? -Infinity : Number(bv);
+      return sortDir * (bn - an) * -1;
+    });
+
+    let gainers = 0, losers = 0;
+    allIndices.forEach(idx => {
+      if (idx.percentChange > 0) gainers++; else if (idx.percentChange < 0) losers++;
+    });
+    document.getElementById("summaryPill").innerHTML =
+      `${allIndices.length} indices · <b class="gain">${gainers} up</b> · <b class="loss">${losers} down</b>`;
+
+    const tbody = document.getElementById("tableBody");
+    tbody.innerHTML = rows.map(idx => {
+      const pc = idx.percentChange;
+      const cls = pc > 0 ? "up" : pc < 0 ? "down" : "flat";
+      const arrow = pc > 0 ? "▲" : pc < 0 ? "▼" : "•";
+      return `
+        <tr>
+          <td>
+            <span class="idx-name">${idx.index || "—"}</span>
+            <span class="idx-symbol">${idx.indexSymbol || ""} · <span class="cat-tag">${(idx.key||"").replace(/ INDICES$/i,"")}</span></span>
+          </td>
+          <td class="num mono">${fmtNum(idx.last)}</td>
+          <td class="num mono chg ${cls}">${fmtNum(idx.variation)}</td>
+          <td class="num mono chg ${cls}">${arrow} ${fmtNum(Math.abs(pc))}%</td>
+          <td class="num mono">${fmtNum(idx.open)}</td>
+          <td class="num mono">${fmtNum(idx.high)}</td>
+          <td class="num mono">${fmtNum(idx.low)}</td>
+          <td class="num mono">${fmtNum(idx.previousClose)}</td>
+          <td class="num mono">${fmtNum(idx.yearHigh)}</td>
+          <td class="num mono">${fmtNum(idx.yearLow)}</td>
+          <td class="num mono">${fmtNum(idx.pe)}</td>
+          <td class="num mono">${fmtNum(idx.pb)}</td>
+          <td class="num mono">${fmtNum(idx.dy)}</td>
+          <td class="num mono">${fmtNum(idx.advances, 0)}</td>
+          <td class="num mono">${fmtNum(idx.declines, 0)}</td>
+        </tr>`;
+    }).join("");
+  }
+
+  document.querySelectorAll("thead th").forEach(th => {
+    th.addEventListener("click", () => {
+      const key = th.dataset.key;
+      document.querySelectorAll("thead th").forEach(t => t.classList.remove("sorted"));
+      if (sortKey === key) sortDir *= -1; else { sortKey = key; sortDir = -1; }
+      th.classList.add("sorted");
+      render();
+    });
+  });
+  document.getElementById("search").addEventListener("input", render);
+
+  async function loadData() {
+    const res = await fetch("data/latest.json?_=" + Date.now(), { cache: "no-store" });
+    const latest = await res.json();
+    allIndices = latest.indices || [];
+
+    const metaEl = document.getElementById("lastUpdated");
+    const metaBlock = document.getElementById("metaBlock");
+    metaBlock.classList.remove("stale");
+    if (latest.last_updated_utc) {
+      const d = new Date(latest.last_updated_utc);
+      metaEl.textContent = "Updated " + d.toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" });
+      const hoursSince = (Date.now() - d.getTime()) / 36e5;
+      if (hoursSince > 48) metaBlock.classList.add("stale");
+    } else {
+      metaEl.textContent = "No update yet";
+      metaBlock.classList.add("stale");
+    }
+
+    if (allIndices.length === 0) {
+      document.getElementById("emptyState").style.display = "block";
+      document.getElementById("dataTable").style.display = "none";
+    } else {
+      document.getElementById("dataTable").style.display = "table";
+      document.getElementById("emptyState").style.display = "none";
+      renderPills();
+      render();
+    }
+  }
+
+  document.getElementById("refreshBtn").addEventListener("click", async (e) => {
+    const btn = e.currentTarget;
+    btn.classList.add("spinning");
+    try { await loadData(); } catch (err) { console.error(err); }
+    setTimeout(() => btn.classList.remove("spinning"), 500);
+  });
+
+  loadData().catch(e => {
+    document.getElementById("emptyState").style.display = "block";
+    document.getElementById("lastUpdated").textContent = "Data unavailable";
+    console.error(e);
+  });
+</script>
+</body>
+</html>
