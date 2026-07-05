@@ -63,7 +63,7 @@
   .summary-pill b.gain{ color:var(--gain); } .summary-pill b.loss{ color:var(--loss); }
 
   .table-wrap{ padding:0 32px 40px; overflow-x:auto; }
-  table{ width:100%; border-collapse:collapse; margin-top:18px; min-width:1080px; }
+  table{ width:100%; border-collapse:collapse; margin-top:18px; min-width:560px; }
   thead th{
     text-align:left; font-size:11px; letter-spacing:.06em; text-transform:uppercase;
     color:var(--text-muted); font-weight:500; padding:10px 12px; border-bottom:1px solid var(--hairline);
@@ -75,8 +75,6 @@
   tbody td{ padding:12px; border-bottom:1px solid var(--hairline); font-size:13.5px; white-space:nowrap; }
   tbody tr:hover{ background:var(--surface); }
   .idx-name{ font-weight:500; }
-  .idx-symbol{ display:block; font-size:10.5px; color:var(--text-muted); font-family:'IBM Plex Mono', monospace; }
-  .cat-tag{ font-size:10px; color:var(--text-muted); font-family:'IBM Plex Mono', monospace; }
   .chg.up{ color:var(--gain); } .chg.down{ color:var(--loss); } .chg.flat{ color:var(--flat); }
   .empty-state{ margin:60px auto; max-width:560px; text-align:center; color:var(--text-muted);
     padding:32px; border:1px dashed var(--hairline); border-radius:12px; }
@@ -120,19 +118,9 @@
         <tr>
           <th data-key="index">Index</th>
           <th class="num" data-key="last">Last</th>
-          <th class="num" data-key="variation">Chg</th>
-          <th class="num sorted" data-key="percentChange">% Chg</th>
-          <th class="num" data-key="open">Open</th>
-          <th class="num" data-key="high">High</th>
-          <th class="num" data-key="low">Low</th>
-          <th class="num" data-key="previousClose">Prev. Close</th>
-          <th class="num" data-key="yearHigh">Yr High</th>
-          <th class="num" data-key="yearLow">Yr Low</th>
-          <th class="num" data-key="pe">PE</th>
-          <th class="num" data-key="pb">PB</th>
-          <th class="num" data-key="dy">DY%</th>
-          <th class="num" data-key="advances">Adv</th>
-          <th class="num" data-key="declines">Dec</th>
+          <th class="num sorted" data-key="percentChange">% Change</th>
+          <th class="num" data-key="yearHigh">Year High</th>
+          <th class="num" data-key="pctFromYearHigh">% Chg from Year High</th>
         </tr>
       </thead>
       <tbody id="tableBody"></tbody>
@@ -186,9 +174,17 @@
     let rows = allIndices.filter(idx => activeCategory === "ALL" || idx.key === activeCategory);
     rows = rows.filter(idx => (idx.index || "").toLowerCase().includes(q));
 
+    function pctFromYearHigh(idx) {
+      const hasYearHigh = idx.yearHigh !== null && idx.yearHigh !== undefined && Number(idx.yearHigh) !== 0;
+      return hasYearHigh ? ((idx.last - idx.yearHigh) / idx.yearHigh) * 100 : null;
+    }
+
     rows.sort((a, b) => {
-      const av = a[sortKey], bv = b[sortKey];
-      if (sortKey === "index") return sortDir * String(av || "").localeCompare(String(bv || ""));
+      if (sortKey === "index") {
+        return sortDir * String(a.index || "").localeCompare(String(b.index || ""));
+      }
+      const av = sortKey === "pctFromYearHigh" ? pctFromYearHigh(a) : a[sortKey];
+      const bv = sortKey === "pctFromYearHigh" ? pctFromYearHigh(b) : b[sortKey];
       const an = av === null || av === undefined ? -Infinity : Number(av);
       const bn = bv === null || bv === undefined ? -Infinity : Number(bv);
       return sortDir * (bn - an) * -1;
@@ -206,26 +202,20 @@
       const pc = idx.percentChange;
       const cls = pc > 0 ? "up" : pc < 0 ? "down" : "flat";
       const arrow = pc > 0 ? "▲" : pc < 0 ? "▼" : "•";
+      const hasYearHigh = idx.yearHigh !== null && idx.yearHigh !== undefined && Number(idx.yearHigh) !== 0;
+      const yearHighDisplay = hasYearHigh ? fmtNum(idx.yearHigh) : "NA";
+      const pctFromHigh = hasYearHigh ? ((idx.last - idx.yearHigh) / idx.yearHigh) * 100 : null;
+      const pctFromHighDisplay = hasYearHigh ? `${fmtNum(pctFromHigh)}%` : "NA";
+      const pctFromHighCls = pctFromHigh === null ? "flat" : (pctFromHigh >= 0 ? "up" : "down");
       return `
         <tr>
           <td>
             <span class="idx-name">${idx.index || "—"}</span>
-            <span class="idx-symbol">${idx.indexSymbol || ""} · <span class="cat-tag">${(idx.key||"").replace(/ INDICES$/i,"")}</span></span>
           </td>
           <td class="num mono">${fmtNum(idx.last)}</td>
-          <td class="num mono chg ${cls}">${fmtNum(idx.variation)}</td>
           <td class="num mono chg ${cls}">${arrow} ${fmtNum(Math.abs(pc))}%</td>
-          <td class="num mono">${fmtNum(idx.open)}</td>
-          <td class="num mono">${fmtNum(idx.high)}</td>
-          <td class="num mono">${fmtNum(idx.low)}</td>
-          <td class="num mono">${fmtNum(idx.previousClose)}</td>
-          <td class="num mono">${fmtNum(idx.yearHigh)}</td>
-          <td class="num mono">${fmtNum(idx.yearLow)}</td>
-          <td class="num mono">${fmtNum(idx.pe)}</td>
-          <td class="num mono">${fmtNum(idx.pb)}</td>
-          <td class="num mono">${fmtNum(idx.dy)}</td>
-          <td class="num mono">${fmtNum(idx.advances, 0)}</td>
-          <td class="num mono">${fmtNum(idx.declines, 0)}</td>
+          <td class="num mono">${yearHighDisplay}</td>
+          <td class="num mono chg ${pctFromHighCls}">${pctFromHighDisplay}</td>
         </tr>`;
     }).join("");
   }
