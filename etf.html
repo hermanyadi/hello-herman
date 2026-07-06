@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Nifty Watch — Daily Index Board</title>
+<title>Nifty Watch — ETF Board</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -56,12 +56,6 @@
     font-size:14px; outline:none;
   }
   #search:focus{ border-color:var(--amber); }
-  .cat-pills{ display:flex; gap:6px; flex-wrap:wrap; }
-  .cat-pill{
-    background:var(--surface-2); border:1px solid var(--hairline); color:var(--text-muted);
-    padding:8px 13px; border-radius:20px; font-size:12.5px; cursor:pointer; white-space:nowrap;
-  }
-  .cat-pill.active{ background:var(--amber); border-color:var(--amber); color:#1a1406; font-weight:600; }
   .summary-pill{
     font-family:'IBM Plex Mono', monospace; font-size:12px; color:var(--text-muted);
     background:var(--surface-2); border:1px solid var(--hairline); padding:8px 12px; border-radius:8px;
@@ -70,7 +64,7 @@
   .summary-pill b.gain{ color:var(--gain); } .summary-pill b.loss{ color:var(--loss); }
 
   .table-wrap{ padding:0 32px 40px; overflow-x:auto; }
-  table{ width:100%; border-collapse:collapse; margin-top:18px; min-width:560px; }
+  table{ width:100%; border-collapse:collapse; margin-top:18px; min-width:820px; }
   thead th{
     text-align:left; font-size:11px; letter-spacing:.06em; text-transform:uppercase;
     color:var(--text-muted); font-weight:500; padding:10px 12px; border-bottom:1px solid var(--hairline);
@@ -82,6 +76,8 @@
   tbody td{ padding:12px; border-bottom:1px solid var(--hairline); font-size:13.5px; white-space:nowrap; }
   tbody tr:hover{ background:var(--surface); }
   .idx-name{ font-weight:500; }
+  .idx-sub{ display:block; font-size:10.5px; color:var(--text-muted); max-width:260px;
+    white-space:normal; }
   .chg.up{ color:var(--gain); } .chg.down{ color:var(--loss); } .chg.flat{ color:var(--flat); }
   .empty-state{ margin:60px auto; max-width:560px; text-align:center; color:var(--text-muted);
     padding:32px; border:1px dashed var(--hairline); border-radius:12px; }
@@ -102,13 +98,13 @@
       <span class="eyebrow">NSE · Daily Snapshot</span>
       <h1>Nifty Watch</h1>
       <nav class="tabs">
-        <a href="index.html" class="tab active">Indices</a>
-        <a href="etf.html" class="tab">ETFs</a>
+        <a href="index.html" class="tab">Indices</a>
+        <a href="etf.html" class="tab active">ETFs</a>
       </nav>
     </div>
     <div class="meta" id="metaBlock">
       <span class="dot"></span><span id="lastUpdated">Loading…</span>
-      <button id="refreshBtn" title="Re-fetch data/latest.json from the repo">
+      <button id="refreshBtn" title="Re-fetch data/etf.json from the repo">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
           <path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/>
         </svg>
@@ -118,8 +114,7 @@
   </header>
 
   <div class="controls">
-    <div class="cat-pills" id="catPills"></div>
-    <input type="text" id="search" placeholder="Search indices — try “bank”, “auto”, “IT”…" />
+    <input type="text" id="search" placeholder="Search ETFs — try “gold”, “nifty”, “bank”, “liquid”…" />
     <div class="summary-pill" id="summaryPill">—</div>
   </div>
 
@@ -127,26 +122,29 @@
     <table id="dataTable" style="display:none;">
       <thead>
         <tr>
-          <th data-key="index">Index</th>
-          <th class="num" data-key="last">Last</th>
+          <th data-key="symbol">Symbol</th>
+          <th data-key="assets">Underlying Asset</th>
+          <th class="num" data-key="last">Last Price</th>
           <th class="num sorted" data-key="percentChange">% Change</th>
-          <th class="num" data-key="yearHigh">Year High</th>
-          <th class="num" data-key="pctFromYearHigh">% Chg from Year High</th>
+          <th class="num" data-key="volume">Volume</th>
+          <th class="num" data-key="nav">NAV</th>
+          <th class="num" data-key="yearHigh">52wk High</th>
+          <th class="num" data-key="nearYearHigh">% from 52wk High</th>
         </tr>
       </thead>
       <tbody id="tableBody"></tbody>
     </table>
     <div class="empty-state" id="emptyState" style="display:none;">
       <p><strong>No data yet.</strong></p>
-      <p>This dashboard reads from <code>data/latest.json</code>, which is written by the
-      "Update Nifty Indices Data" GitHub Action. Go to your repo's
+      <p>This page reads from <code>data/etf.json</code>, which is written by the
+      "Update Nifty Indices and ETF Data" GitHub Action. Go to your repo's
       <a class="action-link" href="../../actions" id="actionsLink">Actions tab</a>
       and run that workflow once manually — after that it updates itself every weekday evening.</p>
     </div>
   </div>
 
   <footer>
-    Data source: NSE India (allIndices) · Refreshed once daily on weekdays via GitHub Actions · Not investment advice
+    Data source: NSE India (etf) · Refreshed once daily on weekdays via GitHub Actions · Not investment advice
   </footer>
 
 <script>
@@ -155,78 +153,50 @@
     return Number(v).toLocaleString("en-IN", { minimumFractionDigits: digits, maximumFractionDigits: digits });
   }
 
-  let allIndices = [];
-  let activeCategory = "ALL";
+  let allEtfs = [];
   let sortKey = "percentChange";
   let sortDir = -1;
 
-  function categories() {
-    const set = new Set(allIndices.map(i => i.key).filter(Boolean));
-    return ["ALL", ...Array.from(set).sort()];
-  }
-
-  function renderPills() {
-    const wrap = document.getElementById("catPills");
-    wrap.innerHTML = categories().map(cat => {
-      const label = cat === "ALL" ? "All" : cat.replace(/ INDICES$/i, "").replace(/\b\w/g, c => c.toUpperCase());
-      return `<span class="cat-pill ${cat === activeCategory ? "active" : ""}" data-cat="${cat}">${label}</span>`;
-    }).join("");
-    wrap.querySelectorAll(".cat-pill").forEach(el => {
-      el.addEventListener("click", () => {
-        activeCategory = el.dataset.cat;
-        renderPills();
-        render();
-      });
-    });
-  }
-
   function render() {
     const q = document.getElementById("search").value.trim().toLowerCase();
-    let rows = allIndices.filter(idx => activeCategory === "ALL" || idx.key === activeCategory);
-    rows = rows.filter(idx => (idx.index || "").toLowerCase().includes(q));
-
-    function pctFromYearHigh(idx) {
-      const hasYearHigh = idx.yearHigh !== null && idx.yearHigh !== undefined && Number(idx.yearHigh) !== 0;
-      return hasYearHigh ? ((idx.last - idx.yearHigh) / idx.yearHigh) * 100 : null;
-    }
+    let rows = allEtfs.filter(e =>
+      (e.symbol || "").toLowerCase().includes(q) || (e.assets || "").toLowerCase().includes(q)
+    );
 
     rows.sort((a, b) => {
-      if (sortKey === "index") {
-        return sortDir * String(a.index || "").localeCompare(String(b.index || ""));
+      if (sortKey === "symbol" || sortKey === "assets") {
+        return sortDir * String(a[sortKey] || "").localeCompare(String(b[sortKey] || ""));
       }
-      const av = sortKey === "pctFromYearHigh" ? pctFromYearHigh(a) : a[sortKey];
-      const bv = sortKey === "pctFromYearHigh" ? pctFromYearHigh(b) : b[sortKey];
+      const av = a[sortKey], bv = b[sortKey];
       const an = av === null || av === undefined ? -Infinity : Number(av);
       const bn = bv === null || bv === undefined ? -Infinity : Number(bv);
       return sortDir * (bn - an) * -1;
     });
 
     let gainers = 0, losers = 0;
-    allIndices.forEach(idx => {
-      if (idx.percentChange > 0) gainers++; else if (idx.percentChange < 0) losers++;
+    allEtfs.forEach(e => {
+      if (e.percentChange > 0) gainers++; else if (e.percentChange < 0) losers++;
     });
     document.getElementById("summaryPill").innerHTML =
-      `${allIndices.length} indices · <b class="gain">${gainers} up</b> · <b class="loss">${losers} down</b>`;
+      `${allEtfs.length} ETFs · <b class="gain">${gainers} up</b> · <b class="loss">${losers} down</b>`;
 
     const tbody = document.getElementById("tableBody");
-    tbody.innerHTML = rows.map(idx => {
-      const pc = idx.percentChange;
+    tbody.innerHTML = rows.map(e => {
+      const pc = e.percentChange;
       const cls = pc > 0 ? "up" : pc < 0 ? "down" : "flat";
       const arrow = pc > 0 ? "▲" : pc < 0 ? "▼" : "•";
-      const hasYearHigh = idx.yearHigh !== null && idx.yearHigh !== undefined && Number(idx.yearHigh) !== 0;
-      const yearHighDisplay = hasYearHigh ? fmtNum(idx.yearHigh) : "NA";
-      const pctFromHigh = hasYearHigh ? ((idx.last - idx.yearHigh) / idx.yearHigh) * 100 : null;
-      const pctFromHighDisplay = hasYearHigh ? `${fmtNum(pctFromHigh)}%` : "NA";
-      const pctFromHighCls = pctFromHigh === null ? "flat" : (pctFromHigh >= 0 ? "up" : "down");
+      const nearHighCls = e.nearYearHigh === null || e.nearYearHigh === undefined ? "flat"
+        : (e.nearYearHigh <= 0 ? "up" : "down"); // 0 = at high, positive = % below high
       return `
         <tr>
-          <td>
-            <span class="idx-name">${idx.index || "—"}</span>
-          </td>
-          <td class="num mono">${fmtNum(idx.last)}</td>
+          <td><span class="idx-name">${e.symbol || "—"}</span></td>
+          <td><span class="idx-sub">${e.assets || "—"}</span></td>
+          <td class="num mono">${fmtNum(e.last)}</td>
           <td class="num mono chg ${cls}">${arrow} ${fmtNum(Math.abs(pc))}%</td>
-          <td class="num mono">${yearHighDisplay}</td>
-          <td class="num mono chg ${pctFromHighCls}">${pctFromHighDisplay}</td>
+          <td class="num mono">${fmtNum(e.volume, 0)}</td>
+          <td class="num mono">${fmtNum(e.nav)}</td>
+          <td class="num mono">${fmtNum(e.yearHigh)}</td>
+          <td class="num mono chg ${nearHighCls}">${e.nearYearHigh === null || e.nearYearHigh === undefined ? "NA" : fmtNum(e.nearYearHigh) + "%"}</td>
         </tr>`;
     }).join("");
   }
@@ -243,9 +213,9 @@
   document.getElementById("search").addEventListener("input", render);
 
   async function loadData() {
-    const res = await fetch("data/latest.json?_=" + Date.now(), { cache: "no-store" });
+    const res = await fetch("data/etf.json?_=" + Date.now(), { cache: "no-store" });
     const latest = await res.json();
-    allIndices = latest.indices || [];
+    allEtfs = latest.etfs || [];
 
     const metaEl = document.getElementById("lastUpdated");
     const metaBlock = document.getElementById("metaBlock");
@@ -260,13 +230,12 @@
       metaBlock.classList.add("stale");
     }
 
-    if (allIndices.length === 0) {
+    if (allEtfs.length === 0) {
       document.getElementById("emptyState").style.display = "block";
       document.getElementById("dataTable").style.display = "none";
     } else {
       document.getElementById("dataTable").style.display = "table";
       document.getElementById("emptyState").style.display = "none";
-      renderPills();
       render();
     }
   }

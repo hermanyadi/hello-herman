@@ -1,13 +1,17 @@
-# Nifty Watch — Daily Index Dashboard
+# Nifty Watch — Daily Index & ETF Dashboard
 
-A free, static dashboard that shows all ~98 NSE Nifty indices, refreshed once a day.
-No server, no database, no paid hosting.
+A free, static dashboard with two pages: Nifty indices and NSE-listed ETFs, both
+refreshed once a day. No server, no database, no paid hosting.
 
 ## How it works
-- A GitHub Action runs once a day (weekday evenings, IST) and fetches NSE's `allIndices` API
-- It saves the cleaned result to `data/latest.json` in this repo
-- `index.html` is a static page that reads that file and shows a sortable, filterable table
-- GitHub Pages hosts `index.html` for free
+- A GitHub Action runs once a day (weekday evenings, IST) and fetches NSE's
+  `allIndices` and `etf` APIs
+- It saves the cleaned results to `data/latest.json` (indices) and `data/etf.json` (ETFs)
+- `index.html` and `etf.html` are static pages that read those files and show
+  sortable, filterable tables. A tab bar at the top switches between them.
+- Each page's **Refresh** button only re-pulls its own data file — refreshing
+  the Indices page never touches ETF data and vice versa
+- GitHub Pages hosts both pages for free
 
 ## Setup (no command line needed — everything below is done on github.com)
 
@@ -20,9 +24,12 @@ No server, no database, no paid hosting.
 1. On your new repo's page, click **Add file → Upload files**
 2. Drag in all the files from this project, **keeping the folder structure**:
    - `index.html`
+   - `etf.html`
    - `requirements.txt`
    - `scripts/fetch_indices.py`
+   - `scripts/fetch_etf.py`
    - `data/latest.json`
+   - `data/etf.json`
    - `.github/workflows/update-indices.yml`
    - (GitHub's upload box supports dragging whole folders — if it flattens them, upload the `scripts`, `data`, and `.github` folders one at a time so the paths stay correct)
 3. Scroll down, click **Commit changes**
@@ -50,7 +57,7 @@ Repeat step 4 (Actions tab → Update Nifty Indices Data → Run workflow), or j
 won't trigger a brand-new NSE fetch by itself — see note below).
 
 ## Notes & limits
-- **The dashboard's "Refresh" button** only re-reads `data/latest.json` from the repo — it can't call NSE directly from your browser (NSE blocks cross-site browser requests) and can't safely trigger the GitHub Action itself (that would require exposing a private GitHub token on a public page). For genuinely new data, use the Actions tab.
+- **The dashboard's "Refresh" button** only re-reads that page's own data file (`data/latest.json` on the Indices page, `data/etf.json` on the ETF page) from the repo — it can't call NSE directly from your browser (NSE blocks cross-site browser requests) and can't safely trigger the GitHub Action itself (that would require exposing a private GitHub token on a public page). For genuinely new data, use the Actions tab.
 - **Schedule timing**: GitHub's free scheduled Actions can run a few minutes late during high load times — this is normal and fine for a once-a-day refresh.
 - **No login/auth**: this dashboard is fully public if hosted on GitHub Pages (repo must be public for the free tier). Don't put anything sensitive in it.
 - **Cost**: $0. GitHub Pages and Actions are free for public repos at this usage level (one run/day, <50 visits/day is trivial).
@@ -58,12 +65,15 @@ won't trigger a brand-new NSE fetch by itself — see note below).
 ## File structure
 ```
 nifty-watch/
-├── index.html                          # the dashboard itself
+├── index.html                          # Indices tab
+├── etf.html                            # ETFs tab
 ├── requirements.txt                    # Python deps for the Action
 ├── data/
-│   └── latest.json                     # written by the Action, read by the dashboard
+│   ├── latest.json                     # indices data, written by the Action
+│   └── etf.json                        # ETF data, written by the Action
 ├── scripts/
-│   └── fetch_indices.py                # fetches + cleans NSE data
+│   ├── fetch_indices.py                # fetches + cleans NSE indices data
+│   └── fetch_etf.py                    # fetches + cleans NSE ETF data
 └── .github/workflows/
-    └── update-indices.yml              # the daily scheduled job
+    └── update-indices.yml              # the daily scheduled job (runs both fetch scripts)
 ```
