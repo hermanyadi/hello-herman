@@ -1,4 +1,4 @@
-name: Update Nifty Indices Data
+name: Update Nifty Indices and ETF Data
 
 on:
   schedule:
@@ -27,10 +27,14 @@ jobs:
       - name: Fetch latest Nifty indices
         run: python scripts/fetch_indices.py
 
+      - name: Fetch latest ETF data
+        run: python scripts/fetch_etf.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json
-          git diff --quiet --cached || git commit -m "Update Nifty indices data ($(date -u +'%Y-%m-%d'))"
+          git add data/latest.json data/etf.json
+          git diff --quiet --cached || git commit -m "Update Nifty indices + ETF data ($(date -u +'%Y-%m-%d'))"
           git push
+
