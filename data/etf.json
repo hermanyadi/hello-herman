@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-11T14:42:14.410571+00:00",
+  "last_updated_utc": "2026-09-14T16:42:05.182406+00:00",
   "nse_timestamp": "11-Sep-2026 16:00:00",
   "count": 350,
   "etfs": [
@@ -19,8 +19,8 @@
       "yearLow": 119.0,
       "nearYearHigh": 39.70833333333333,
       "nearYearLow": -82.3949579831933,
-      "perChange30d": -2.52,
-      "perChange365d": 81.6
+      "perChange30d": -2.03,
+      "perChange365d": 75.25
     },
     {
       "symbol": "LIQUIDBEES",
@@ -57,8 +57,8 @@
       "yearLow": 89.92,
       "nearYearHigh": 15.492102065613604,
       "nearYearLow": -39.22375444839857,
-      "perChange30d": -0.32,
-      "perChange365d": 37.65
+      "perChange30d": -0.01,
+      "perChange365d": 37.1
     },
     {
       "symbol": "NIFTYBEES",
@@ -76,8 +76,8 @@
       "yearLow": 251.7,
       "nearYearHigh": 11.530190239867666,
       "nearYearLow": -6.23758442590385,
-      "perChange30d": -4.3,
-      "perChange365d": -5.22
+      "perChange30d": -4.03,
+      "perChange365d": -5.77
     },
     {
       "symbol": "LIQUIDCASE",
@@ -95,8 +95,8 @@
       "yearLow": 107.56,
       "nearYearHigh": 0.0,
       "nearYearLow": -7.7724060989215324,
-      "perChange30d": 0.43,
-      "perChange365d": 5.03
+      "perChange30d": 0.36,
+      "perChange365d": 4.97
     },
     {
       "symbol": "TATSILV",
@@ -114,8 +114,8 @@
       "yearLow": 11.63,
       "nearYearHigh": 37.12250712250712,
       "nearYearLow": -89.76784178847807,
-      "perChange30d": -2.57,
-      "perChange365d": 81.29
+      "perChange30d": -2.05,
+      "perChange365d": 75.78
     },
     {
       "symbol": "HDFCSILVER",
@@ -133,8 +133,8 @@
       "yearLow": 119.38,
       "nearYearHigh": 39.598885793871865,
       "nearYearLow": -81.63846540459039,
-      "perChange30d": -2.75,
-      "perChange365d": 79.13
+      "perChange30d": -2.13,
+      "perChange365d": 74.43
     },
     {
       "symbol": "LIQUIDIETF",
@@ -152,7 +152,7 @@
       "yearLow": 955.0,
       "nearYearHigh": 3.956050288612074,
       "nearYearLow": -4.712041884816754,
-      "perChange30d": 0.0,
+      "perChange30d": 0.11,
       "perChange365d": 0.0
     },
     {
@@ -171,8 +171,8 @@
       "yearLow": 124.06,
       "nearYearHigh": 39.27710843373494,
       "nearYearLow": -82.81476704820248,
-      "perChange30d": -2.48,
-      "perChange365d": 81.66
+      "perChange30d": -1.96,
+      "perChange365d": 76.21
     },
     {
       "symbol": "HDFCNIFTY",
@@ -190,8 +190,8 @@
       "yearLow": 247.56,
       "nearYearHigh": 12.773287398966477,
       "nearYearLow": -6.366133462594923,
-      "perChange30d": -4.39,
-      "perChange365d": -5.47
+      "perChange30d": -4.14,
+      "perChange365d": -5.89
     },
     {
       "symbol": "SETFGOLD",
@@ -209,8 +209,8 @@
       "yearLow": 90.61,
       "nearYearHigh": 16.050665800584596,
       "nearYearLow": -42.63326343670678,
-      "perChange30d": -0.39,
-      "perChange365d": 37.69
+      "perChange30d": 0.0,
+      "perChange365d": 37.27
     },
     {
       "symbol": "LIQUID1",
@@ -228,8 +228,8 @@
       "yearLow": 1062.62,
       "nearYearHigh": 1.2439955659564073,
       "nearYearLow": -5.6370104082362555,
-      "perChange30d": 0.44,
-      "perChange365d": 5.12
+      "perChange30d": 0.37,
+      "perChange365d": 5.06
     },
     {
       "symbol": "GOLDIETF",
@@ -247,8 +247,8 @@
       "yearLow": 91.62,
       "nearYearHigh": 17.917721518987342,
       "nearYearLow": -41.55206286836934,
-      "perChange30d": -0.41,
-      "perChange365d": 38.04
+      "perChange30d": 0.02,
+      "perChange365d": 37.48
     },
     {
       "symbol": "LIQUIDBETF",
@@ -266,8 +266,8 @@
       "yearLow": 1009.94,
       "nearYearHigh": 1.5731383931770897,
       "nearYearLow": -8.786660593698635,
-      "perChange30d": 0.42,
-      "perChange365d": 4.91
+      "perChange30d": 0.36,
+      "perChange365d": 4.85
     },
     {
       "symbol": "TATAGOLD",
@@ -285,8 +285,8 @@
       "yearLow": 10.33,
       "nearYearHigh": 16.723163841807903,
       "nearYearLow": -42.69119070667957,
-      "perChange30d": -0.27,
-      "perChange365d": 37.64
+      "perChange30d": 0.0,
+      "perChange365d": 37.25
     },
     {
       "symbol": "BANKBEES",
@@ -304,8 +304,8 @@
       "yearLow": 515.98,
       "nearYearHigh": 8.097153320083258,
       "nearYearLow": -13.812550874064883,
-      "perChange30d": -1.43,
-      "perChange365d": 3.98
+      "perChange30d": -1.68,
+      "perChange365d": 3.52
     },
     {
       "symbol": "LIQUIDPLUS",
@@ -323,8 +323,8 @@
       "yearLow": 1046.56,
       "nearYearHigh": 2.1302835646094325,
       "nearYearLow": -5.399594863170768,
-      "perChange30d": 0.43,
-      "perChange365d": 5.09
+      "perChange30d": 0.36,
+      "perChange365d": 5.03
     },
     {
       "symbol": "SBILIQETF",
@@ -342,8 +342,8 @@
       "yearLow": 999.0,
       "nearYearHigh": 2.8783265415007007,
       "nearYearLow": -5.685685685685681,
-      "perChange30d": 0.43,
-      "perChange365d": 5.06
+      "perChange30d": 0.36,
+      "perChange365d": 5.0
     },
     {
       "symbol": "HDFCGOLD",
@@ -361,8 +361,8 @@
       "yearLow": 93.0,
       "nearYearHigh": 14.990151017728175,
       "nearYearLow": -39.215053763440864,
-      "perChange30d": -0.27,
-      "perChange365d": 37.72
+      "perChange30d": 0.03,
+      "perChange365d": 37.39
     },
     {
       "symbol": "JUNIORBEES",
@@ -380,8 +380,8 @@
       "yearLow": 632.34,
       "nearYearHigh": 4.758668398121295,
       "nearYearLow": -24.10412120061991,
-      "perChange30d": -3.19,
-      "perChange365d": 7.31
+      "perChange30d": -3.2,
+      "perChange365d": 6.79
     },
     {
       "symbol": "SBISILVER",
@@ -396,11 +396,11 @@
       "tradedValue": 358489488.28,
       "nav": 228.4256,
       "yearHigh": 362.0,
-      "yearLow": 119.73,
+      "yearLow": 121.54,
       "nearYearHigh": 38.52486187845304,
-      "nearYearLow": -85.86820345777998,
-      "perChange30d": -2.62,
-      "perChange365d": 81.34
+      "nearYearLow": -83.10021392134274,
+      "perChange30d": -2.1,
+      "perChange365d": 75.28
     },
     {
       "symbol": "MOREALTY",
@@ -418,8 +418,8 @@
       "yearLow": 64.0,
       "nearYearHigh": 13.870740777967633,
       "nearYearLow": -33.890625,
-      "perChange30d": -4.59,
-      "perChange365d": -3.73
+      "perChange30d": -4.97,
+      "perChange365d": -3.93
     },
     {
       "symbol": "SILVER1",
@@ -437,8 +437,8 @@
       "yearLow": 12.06,
       "nearYearHigh": 43.118556701030926,
       "nearYearLow": -83.0016583747927,
-      "perChange30d": -2.44,
-      "perChange365d": -81.84
+      "perChange30d": -1.87,
+      "perChange365d": -82.43
     },
     {
       "symbol": "LIQUIDADD",
@@ -456,8 +456,8 @@
       "yearLow": 1086.86,
       "nearYearHigh": 0.5759107729191735,
       "nearYearLow": -5.311631672892555,
-      "perChange30d": 0.43,
-      "perChange365d": 5.01
+      "perChange30d": 0.36,
+      "perChange365d": 4.95
     },
     {
       "symbol": "METALIETF",
@@ -475,8 +475,8 @@
       "yearLow": 9.58,
       "nearYearHigh": 7.1983062808750855,
       "nearYearLow": -37.265135699373694,
-      "perChange30d": -0.46,
-      "perChange365d": 33.95
+      "perChange30d": 0.23,
+      "perChange365d": 32.06
     },
     {
       "symbol": "BANKNIFTY1",
@@ -494,8 +494,8 @@
       "yearLow": 51.71,
       "nearYearHigh": 10.170010721396856,
       "nearYearLow": -13.421001740475726,
-      "perChange30d": -1.66,
-      "perChange365d": -89.61
+      "perChange30d": -1.79,
+      "perChange365d": -89.64
     },
     {
       "symbol": "GOLD1",
@@ -510,11 +510,11 @@
       "tradedValue": 309044368.92,
       "nav": 126.8347,
       "yearHigh": 158.0,
-      "yearLow": 89.35,
+      "yearLow": 90.2,
       "nearYearHigh": 20.00632911392405,
-      "nearYearLow": -41.454952434247346,
-      "perChange30d": -0.52,
-      "perChange365d": 37.99
+      "nearYearLow": -40.12195121951219,
+      "perChange30d": -0.13,
+      "perChange365d": 37.51
     },
     {
       "symbol": "SILVER",
@@ -532,8 +532,8 @@
       "yearLow": 124.21,
       "nearYearHigh": 38.98195703030466,
       "nearYearLow": -82.69060462120602,
-      "perChange30d": -2.45,
-      "perChange365d": 81.27
+      "perChange30d": -1.98,
+      "perChange365d": 75.85
     },
     {
       "symbol": "SENSEXIETF",
@@ -551,8 +551,8 @@
       "yearLow": 731.0,
       "nearYearHigh": 13.40114418306929,
       "nearYearLow": -18.447332421340633,
-      "perChange30d": -4.11,
-      "perChange365d": -6.93
+      "perChange30d": -3.84,
+      "perChange365d": -7.62
     },
     {
       "symbol": "SILVERAXIS",
@@ -570,7 +570,7 @@
       "yearLow": 123.66,
       "nearYearHigh": 41.873285300376914,
       "nearYearLow": -83.32524664402393,
-      "perChange30d": -2.31,
+      "perChange30d": -1.81,
       "perChange365d": 0.0
     },
     {
@@ -589,7 +589,7 @@
       "yearLow": 91.02,
       "nearYearHigh": 15.939999999999998,
       "nearYearLow": -38.5299934080422,
-      "perChange30d": -0.35,
+      "perChange30d": -0.07,
       "perChange365d": 0.0
     },
     {
@@ -608,7 +608,7 @@
       "yearLow": 24.64,
       "nearYearHigh": 5.513547574039068,
       "nearYearLow": -21.712662337662326,
-      "perChange30d": -2.42,
+      "perChange30d": -3.11,
       "perChange365d": 0.0
     },
     {
@@ -627,8 +627,8 @@
       "yearLow": 12.62,
       "nearYearHigh": 39.46329913180741,
       "nearYearLow": -82.32963549920763,
-      "perChange30d": -2.5,
-      "perChange365d": 80.8
+      "perChange30d": -2.0,
+      "perChange365d": 75.69
     },
     {
       "symbol": "GOLDETF",
@@ -646,8 +646,8 @@
       "yearLow": 106.03,
       "nearYearHigh": 15.129682997118156,
       "nearYearLow": -38.87578987079129,
-      "perChange30d": -0.25,
-      "perChange365d": 37.84
+      "perChange30d": 0.01,
+      "perChange365d": 37.53
     },
     {
       "symbol": "CASHIETF",
@@ -662,11 +662,11 @@
       "tradedValue": 234577424.16,
       "nav": 1078.8705,
       "yearHigh": 1099.28,
-      "yearLow": 1027.29,
+      "yearLow": 1027.43,
       "nearYearHigh": 1.8057273851975757,
-      "nearYearLow": -5.075489881143601,
-      "perChange30d": 0.44,
-      "perChange365d": 5.08
+      "nearYearLow": -5.061172050650653,
+      "perChange30d": 0.37,
+      "perChange365d": 5.02
     },
     {
       "symbol": "GOLDCASE",
@@ -684,8 +684,8 @@
       "yearLow": 16.67,
       "nearYearHigh": 14.602720114531143,
       "nearYearLow": -43.13137372525493,
-      "perChange30d": -0.38,
-      "perChange365d": 38.01
+      "perChange30d": 0.04,
+      "perChange365d": 37.53
     },
     {
       "symbol": "ITBEES",
@@ -703,8 +703,8 @@
       "yearLow": 28.55,
       "nearYearHigh": 27.1289812514118,
       "nearYearLow": -12.994746059544648,
-      "perChange30d": -8.71,
-      "perChange365d": -18.41
+      "perChange30d": -7.58,
+      "perChange365d": -18.27
     },
     {
       "symbol": "HDFCSML250",
@@ -722,8 +722,8 @@
       "yearLow": 142.7,
       "nearYearHigh": 2.391613548964874,
       "nearYearLow": -29.845830413454802,
-      "perChange30d": 0.12,
-      "perChange365d": 7.54
+      "perChange30d": 0.29,
+      "perChange365d": 7.11
     },
     {
       "symbol": "SETFNIF50",
@@ -741,8 +741,8 @@
       "yearLow": 237.9,
       "nearYearHigh": 11.98969825636028,
       "nearYearLow": -6.29676334594367,
-      "perChange30d": -4.31,
-      "perChange365d": -5.18
+      "perChange30d": -4.04,
+      "perChange365d": -5.87
     },
     {
       "symbol": "MID150BEES",
@@ -760,8 +760,8 @@
       "yearLow": 190.43,
       "nearYearHigh": 3.912603681974516,
       "nearYearLow": -24.70724150606521,
-      "perChange30d": -2.55,
-      "perChange365d": 6.71
+      "perChange30d": -2.59,
+      "perChange365d": 6.43
     },
     {
       "symbol": "MON100",
@@ -776,11 +776,11 @@
       "tradedValue": 207021859.2,
       "nav": 271.5596,
       "yearHigh": 354.9,
-      "yearLow": 203.81,
+      "yearLow": 204.51,
       "nearYearHigh": 6.038320653705255,
-      "nearYearLow": -63.61807565870174,
-      "perChange30d": 0.27,
-      "perChange365d": 62.47
+      "nearYearLow": -63.058041171580875,
+      "perChange30d": 0.07,
+      "perChange365d": 60.74
     },
     {
       "symbol": "CPSEETF",
@@ -798,8 +798,8 @@
       "yearLow": 86.06,
       "nearYearHigh": 16.071428571428573,
       "nearYearLow": -9.226121310713452,
-      "perChange30d": 0.05,
-      "perChange365d": 4.5
+      "perChange30d": 0.04,
+      "perChange365d": 2.58
     },
     {
       "symbol": "MAFANG",
@@ -817,8 +817,8 @@
       "yearLow": 149.74,
       "nearYearHigh": 9.467249584091007,
       "nearYearLow": -56.27086950714572,
-      "perChange30d": 12.32,
-      "perChange365d": 42.35
+      "perChange30d": 13.58,
+      "perChange365d": 41.55
     },
     {
       "symbol": "MASPTOP50",
@@ -836,8 +836,8 @@
       "yearLow": 65.0,
       "nearYearHigh": 16.18859806382216,
       "nearYearLow": -43.84615384615385,
-      "perChange30d": 15.88,
-      "perChange365d": 42.57
+      "perChange30d": 16.41,
+      "perChange365d": 41.29
     },
     {
       "symbol": "GOLDADD",
@@ -855,7 +855,7 @@
       "yearLow": 10.39,
       "nearYearHigh": 18.618784530386744,
       "nearYearLow": -41.77093358999037,
-      "perChange30d": -90.03,
+      "perChange30d": -90.0,
       "perChange365d": 0.0
     },
     {
@@ -874,7 +874,7 @@
       "yearLow": 120.72,
       "nearYearHigh": 42.264131064636786,
       "nearYearLow": -81.5772034459907,
-      "perChange30d": -2.81,
+      "perChange30d": -2.14,
       "perChange365d": 0.0
     },
     {
@@ -893,7 +893,7 @@
       "yearLow": 244.0,
       "nearYearHigh": 12.291652608138204,
       "nearYearLow": -6.536885245901635,
-      "perChange30d": -4.34,
+      "perChange30d": -4.05,
       "perChange365d": 0.0
     },
     {
@@ -912,8 +912,8 @@
       "yearLow": 86.85,
       "nearYearHigh": 8.053805550825807,
       "nearYearLow": -148.70466321243524,
-      "perChange30d": 45.28,
-      "perChange365d": 142.87
+      "perChange30d": 44.09,
+      "perChange365d": 140.42
     },
     {
       "symbol": "BANKIETF",
@@ -931,8 +931,8 @@
       "yearLow": 51.17,
       "nearYearHigh": 8.904538341158057,
       "nearYearLow": -13.758061364080513,
-      "perChange30d": -1.46,
-      "perChange365d": 4.03
+      "perChange30d": -1.82,
+      "perChange365d": 3.47
     },
     {
       "symbol": "GROWWPOWER",
@@ -950,8 +950,8 @@
       "yearLow": 7.75,
       "nearYearHigh": 13.18181818181817,
       "nearYearLow": -47.8709677419355,
-      "perChange30d": -1.05,
-      "perChange365d": 15.1
+      "perChange30d": -1.13,
+      "perChange365d": 13.71
     },
     {
       "symbol": "MODEFENCE",
@@ -969,8 +969,8 @@
       "yearLow": 77.8,
       "nearYearHigh": 4.642857142857145,
       "nearYearLow": -37.275064267352185,
-      "perChange30d": 1.48,
-      "perChange365d": 25.76
+      "perChange30d": -0.85,
+      "perChange365d": 20.63
     },
     {
       "symbol": "NIFTYIETF",
@@ -988,8 +988,8 @@
       "yearLow": 250.4,
       "nearYearHigh": 12.550141382258158,
       "nearYearLow": -6.218051118210871,
-      "perChange30d": -4.32,
-      "perChange365d": -5.28
+      "perChange30d": -4.03,
+      "perChange365d": -5.89
     },
     {
       "symbol": "SETFNIFBK",
@@ -1007,8 +1007,8 @@
       "yearLow": 465.64,
       "nearYearHigh": 9.783163857547482,
       "nearYearLow": -25.182544454943734,
-      "perChange30d": -1.48,
-      "perChange365d": 4.03
+      "perChange30d": -1.78,
+      "perChange365d": 3.48
     },
     {
       "symbol": "SILVERADD",
@@ -1026,8 +1026,8 @@
       "yearLow": 11.98,
       "nearYearHigh": 43.717948717948715,
       "nearYearLow": -83.22203672787978,
-      "perChange30d": -90.26,
-      "perChange365d": -81.89
+      "perChange30d": -90.22,
+      "perChange365d": -82.39
     },
     {
       "symbol": "NEXT50BETA",
@@ -1045,7 +1045,7 @@
       "yearLow": 64.34,
       "nearYearHigh": 5.163010544176469,
       "nearYearLow": -21.619521293130237,
-      "perChange30d": -2.95,
+      "perChange30d": -2.67,
       "perChange365d": 0.0
     },
     {
@@ -1083,7 +1083,7 @@
       "yearLow": 121.45,
       "nearYearHigh": 41.810526315789474,
       "nearYearLow": -82.06669411280362,
-      "perChange30d": -2.69,
+      "perChange30d": -1.95,
       "perChange365d": 0.0
     },
     {
@@ -1102,8 +1102,8 @@
       "yearLow": 26.52,
       "nearYearHigh": 25.33333333333333,
       "nearYearLow": -3.4690799396681813,
-      "perChange30d": -6.69,
-      "perChange365d": -21.9
+      "perChange30d": -6.47,
+      "perChange365d": -22.69
     },
     {
       "symbol": "PHARMABEES",
@@ -1121,8 +1121,8 @@
       "yearLow": 21.46,
       "nearYearHigh": 3.5915492957746467,
       "nearYearLow": -27.58620689655171,
-      "perChange30d": -0.73,
-      "perChange365d": 20.54
+      "perChange30d": 0.15,
+      "perChange365d": 19.22
     },
     {
       "symbol": "PSUBNKBEES",
@@ -1137,11 +1137,11 @@
       "tradedValue": 81282907.56,
       "nav": 93.8633,
       "yearHigh": 110.4,
-      "yearLow": 76.02,
+      "yearLow": 76.68,
       "nearYearHigh": 15.434782608695658,
-      "nearYearLow": -22.809786898184697,
-      "perChange30d": -3.35,
-      "perChange365d": 19.07
+      "nearYearLow": -21.752738654147095,
+      "perChange30d": -4.41,
+      "perChange365d": 18.53
     },
     {
       "symbol": "NEXT50IETF",
@@ -1159,8 +1159,8 @@
       "yearLow": 62.6,
       "nearYearHigh": 4.739985070913166,
       "nearYearLow": -22.316293929712444,
-      "perChange30d": -3.1,
-      "perChange365d": 7.28
+      "perChange30d": -2.84,
+      "perChange365d": 6.6
     },
     {
       "symbol": "LIQUID",
@@ -1193,12 +1193,12 @@
       "volume": 1558291.0,
       "tradedValue": 75686193.87,
       "nav": 48.5833,
-      "yearHigh": 61.73,
+      "yearHigh": 61.19,
       "yearLow": 48.25,
-      "nearYearHigh": 21.30244613640045,
+      "nearYearHigh": 20.6079424742605,
       "nearYearLow": -0.6839378238341933,
-      "perChange30d": -7.53,
-      "perChange365d": -19.76
+      "perChange30d": -7.18,
+      "perChange365d": -19.48
     },
     {
       "symbol": "HDFCBSE500",
@@ -1216,8 +1216,8 @@
       "yearLow": 32.65,
       "nearYearHigh": 7.95,
       "nearYearLow": -12.771822358346101,
-      "perChange30d": -4.48,
-      "perChange365d": -0.08
+      "perChange30d": -3.1,
+      "perChange365d": -0.62
     },
     {
       "symbol": "BFSI",
@@ -1235,8 +1235,8 @@
       "yearLow": 24.03,
       "nearYearHigh": 11.15564462257849,
       "nearYearLow": -10.694964627548897,
-      "perChange30d": -3.39,
-      "perChange365d": -1.78
+      "perChange30d": -2.86,
+      "perChange365d": -2.75
     },
     {
       "symbol": "BANKBETF",
@@ -1254,8 +1254,8 @@
       "yearLow": 50.71,
       "nearYearHigh": 10.093896713615017,
       "nearYearLow": -13.291264050483143,
-      "perChange30d": -1.45,
-      "perChange365d": 4.1
+      "perChange30d": -1.59,
+      "perChange365d": 3.6
     },
     {
       "symbol": "GROWWLIQID",
@@ -1273,8 +1273,8 @@
       "yearLow": 105.1,
       "nearYearHigh": 1.7389761334397957,
       "nearYearLow": -5.375832540437684,
-      "perChange30d": 0.41,
-      "perChange365d": 4.8
+      "perChange30d": 0.34,
+      "perChange365d": 4.74
     },
     {
       "symbol": "SMALLCAP",
@@ -1292,8 +1292,8 @@
       "yearLow": 37.34,
       "nearYearHigh": 9.504587155963304,
       "nearYearLow": -32.08355650776646,
-      "perChange30d": 1.49,
-      "perChange365d": 7.55
+      "perChange30d": 1.45,
+      "perChange365d": 7.32
     },
     {
       "symbol": "GROWWGOLD",
@@ -1311,8 +1311,8 @@
       "yearLow": 10.66,
       "nearYearHigh": 17.722222222222218,
       "nearYearLow": -38.930581613508444,
-      "perChange30d": -0.2,
-      "perChange365d": -86.27
+      "perChange30d": 0.07,
+      "perChange365d": -86.31
     },
     {
       "symbol": "GROWWSLVR",
@@ -1330,8 +1330,8 @@
       "yearLow": 12.26,
       "nearYearHigh": 38.705234159779614,
       "nearYearLow": -81.48450244698206,
-      "perChange30d": -2.5,
-      "perChange365d": -82.03
+      "perChange30d": -2.03,
+      "perChange365d": -82.56
     },
     {
       "symbol": "GOLDBETA",
@@ -1349,7 +1349,7 @@
       "yearLow": 90.0,
       "nearYearHigh": 14.596585202544356,
       "nearYearLow": -41.722222222222214,
-      "perChange30d": -0.23,
+      "perChange30d": 0.12,
       "perChange365d": 0.0
     },
     {
@@ -1368,8 +1368,8 @@
       "yearLow": 95.33,
       "nearYearHigh": 14.494518879415356,
       "nearYearLow": -39.91398300639882,
-      "perChange30d": -0.22,
-      "perChange365d": 38.15
+      "perChange30d": 0.05,
+      "perChange365d": 37.51
     },
     {
       "symbol": "ALPHA",
@@ -1387,8 +1387,8 @@
       "yearLow": 42.0,
       "nearYearHigh": 2.680338190322004,
       "nearYearLow": -28.809523809523814,
-      "perChange30d": 0.48,
-      "perChange365d": 10.35
+      "perChange30d": 0.17,
+      "perChange365d": 9.79
     },
     {
       "symbol": "MIDCAPETF",
@@ -1407,7 +1407,7 @@
       "nearYearHigh": 4.680504680504675,
       "nearYearLow": -19.489795918367346,
       "perChange30d": -2.46,
-      "perChange365d": 6.85
+      "perChange365d": 6.71
     },
     {
       "symbol": "EBBETF0430",
@@ -1425,8 +1425,8 @@
       "yearLow": 1501.89,
       "nearYearHigh": 2.1984230157090994,
       "nearYearLow": -7.197597693572758,
-      "perChange30d": -0.42,
-      "perChange365d": 4.98
+      "perChange30d": -0.36,
+      "perChange365d": 4.77
     },
     {
       "symbol": "LTGILTBEES",
@@ -1444,8 +1444,8 @@
       "yearLow": 28.13,
       "nearYearHigh": 2.7442012414243706,
       "nearYearLow": -5.830074653394954,
-      "perChange30d": -0.87,
-      "perChange365d": 3.37
+      "perChange30d": -1.23,
+      "perChange365d": 3.16
     },
     {
       "symbol": "ELIQUID",
@@ -1463,7 +1463,7 @@
       "yearLow": 996.0,
       "nearYearHigh": 0.3453130648199339,
       "nearYearLow": -5.179718875502,
-      "perChange30d": 0.43,
+      "perChange30d": 0.36,
       "perChange365d": 0.0
     },
     {
@@ -1482,8 +1482,8 @@
       "yearLow": 636.01,
       "nearYearHigh": 7.978571428571426,
       "nearYearLow": -21.535824908413396,
-      "perChange30d": -3.53,
-      "perChange365d": 7.3
+      "perChange30d": -3.38,
+      "perChange365d": 6.52
     },
     {
       "symbol": "MOCAPITAL",
@@ -1501,8 +1501,8 @@
       "yearLow": 41.31,
       "nearYearHigh": 5.606986899563321,
       "nearYearLow": -30.815783103364794,
-      "perChange30d": 0.9,
-      "perChange365d": 23.94
+      "perChange30d": 1.37,
+      "perChange365d": 25.06
     },
     {
       "symbol": "NIFTYETF",
@@ -1520,8 +1520,8 @@
       "yearLow": 239.81,
       "nearYearHigh": 11.721155509427442,
       "nearYearLow": -6.405070680955751,
-      "perChange30d": -4.23,
-      "perChange365d": -4.96
+      "perChange30d": -3.92,
+      "perChange365d": -5.58
     },
     {
       "symbol": "AUTOBEES",
@@ -1539,8 +1539,8 @@
       "yearLow": 242.5,
       "nearYearHigh": 8.68094701240135,
       "nearYearLow": -16.90721649484536,
-      "perChange30d": -7.11,
-      "perChange365d": 2.44
+      "perChange30d": -6.62,
+      "perChange365d": 2.34
     },
     {
       "symbol": "CHEMICAL",
@@ -1558,7 +1558,7 @@
       "yearLow": 24.5,
       "nearYearHigh": 5.50314465408805,
       "nearYearLow": -22.6530612244898,
-      "perChange30d": -2.28,
+      "perChange30d": -2.69,
       "perChange365d": 0.0
     },
     {
@@ -1577,8 +1577,8 @@
       "yearLow": 24.18,
       "nearYearHigh": 8.047493403693935,
       "nearYearLow": -15.30190239867659,
-      "perChange30d": 0.8,
-      "perChange365d": 4.0
+      "perChange30d": 0.87,
+      "perChange365d": 3.45
     },
     {
       "symbol": "QGOLDHALF",
@@ -1596,8 +1596,8 @@
       "yearLow": 90.32,
       "nearYearHigh": 16.26027122720289,
       "nearYearLow": -38.7843224092117,
-      "perChange30d": -0.43,
-      "perChange365d": 37.97
+      "perChange30d": 0.05,
+      "perChange365d": 37.52
     },
     {
       "symbol": "PSUBANK",
@@ -1612,11 +1612,11 @@
       "tradedValue": 36616405.8,
       "nav": 84.1227,
       "yearHigh": 101.0,
-      "yearLow": 67.04,
+      "yearLow": 70.13,
       "nearYearHigh": 17.603960396039604,
-      "nearYearLow": -24.134844868735073,
-      "perChange30d": -3.69,
-      "perChange365d": -88.1
+      "nearYearLow": -18.6653358049337,
+      "perChange30d": -4.38,
+      "perChange365d": -88.15
     },
     {
       "symbol": "LIQGRWBEES",
@@ -1634,8 +1634,8 @@
       "yearLow": 995.55,
       "nearYearHigh": 0.4067073688581002,
       "nearYearLow": -6.013761237506918,
-      "perChange30d": 0.41,
-      "perChange365d": 4.79
+      "perChange30d": 0.34,
+      "perChange365d": 4.74
     },
     {
       "symbol": "GROWWNET",
@@ -1653,8 +1653,8 @@
       "yearLow": 7.93,
       "nearYearHigh": 3.5964912280701764,
       "nearYearLow": -38.5876418663304,
-      "perChange30d": 3.3,
-      "perChange365d": 1.2
+      "perChange30d": 3.2,
+      "perChange365d": 2.33
     },
     {
       "symbol": "METAL",
@@ -1672,8 +1672,8 @@
       "yearLow": 8.7,
       "nearYearHigh": 5.941302791696492,
       "nearYearLow": -51.034482758620705,
-      "perChange30d": -0.38,
-      "perChange365d": 34.42
+      "perChange30d": 0.3,
+      "perChange365d": 32.39
     },
     {
       "symbol": "SML100CASE",
@@ -1691,8 +1691,8 @@
       "yearLow": 8.5,
       "nearYearHigh": 3.99320305862361,
       "nearYearLow": -32.94117647058824,
-      "perChange30d": 0.0,
-      "perChange365d": 0.0
+      "perChange30d": 0.71,
+      "perChange365d": 11.01
     },
     {
       "symbol": "HDFCLIQUID",
@@ -1710,8 +1710,8 @@
       "yearLow": 1009.91,
       "nearYearHigh": 0.15008337965537502,
       "nearYearLow": -6.720400827796537,
-      "perChange30d": 0.43,
-      "perChange365d": 4.94
+      "perChange30d": 0.36,
+      "perChange365d": 4.89
     },
     {
       "symbol": "HNGSNGBEES",
@@ -1729,8 +1729,8 @@
       "yearLow": 443.42,
       "nearYearHigh": 19.971720237274095,
       "nearYearLow": -4.663749943620046,
-      "perChange30d": -4.24,
-      "perChange365d": -8.1
+      "perChange30d": -3.88,
+      "perChange365d": -10.31
     },
     {
       "symbol": "NEXT50",
@@ -1748,8 +1748,8 @@
       "yearLow": 617.0,
       "nearYearHigh": 5.281439258995367,
       "nearYearLow": -20.656401944894657,
-      "perChange30d": -3.25,
-      "perChange365d": 7.41
+      "perChange30d": -3.21,
+      "perChange365d": 6.78
     },
     {
       "symbol": "NIFTY1",
@@ -1767,8 +1767,8 @@
       "yearLow": 244.8,
       "nearYearHigh": 11.903313049357687,
       "nearYearLow": -6.450163398692795,
-      "perChange30d": -4.28,
-      "perChange365d": -5.13
+      "perChange30d": -3.85,
+      "perChange365d": -5.49
     },
     {
       "symbol": "EQUAL50",
@@ -1786,8 +1786,8 @@
       "yearLow": 295.16,
       "nearYearHigh": 5.351726551563236,
       "nearYearLow": -9.95053530288655,
-      "perChange30d": -4.54,
-      "perChange365d": 0.96
+      "perChange30d": -3.83,
+      "perChange365d": 0.14
     },
     {
       "symbol": "MOM30IETF",
@@ -1806,7 +1806,7 @@
       "nearYearHigh": 4.711246200607894,
       "nearYearLow": -20.57692307692308,
       "perChange30d": -1.11,
-      "perChange365d": 0.61
+      "perChange365d": 0.06
     },
     {
       "symbol": "MAHKTECH",
@@ -1824,8 +1824,8 @@
       "yearLow": 21.0,
       "nearYearHigh": 37.48243888732791,
       "nearYearLow": -5.9523809523809526,
-      "perChange30d": -7.36,
-      "perChange365d": -15.88
+      "perChange30d": -5.89,
+      "perChange365d": -17.92
     },
     {
       "symbol": "DEFENCE",
@@ -1843,7 +1843,7 @@
       "yearLow": 58.91,
       "nearYearHigh": 4.275700934579436,
       "nearYearLow": -39.0935325072144,
-      "perChange30d": 1.52,
+      "perChange30d": -0.65,
       "perChange365d": 0.0
     },
     {
@@ -1862,8 +1862,8 @@
       "yearLow": 56.15,
       "nearYearHigh": 4.01023890784982,
       "nearYearLow": -20.213713268032063,
-      "perChange30d": -2.15,
-      "perChange365d": 8.13
+      "perChange30d": -2.28,
+      "perChange365d": 7.51
     },
     {
       "symbol": "LIQUIDSHRI",
@@ -1878,11 +1878,11 @@
       "tradedValue": 23177271.0,
       "nav": 1120.8011,
       "yearHigh": 1121.32,
-      "yearLow": 1069.8,
+      "yearLow": 1069.95,
       "nearYearHigh": 0.0017836121713678352,
-      "nearYearLow": -4.813983922228454,
-      "perChange30d": 0.4,
-      "perChange365d": 4.81
+      "nearYearLow": -4.799289686433937,
+      "perChange30d": 0.34,
+      "perChange365d": 4.76
     },
     {
       "symbol": "BSLNIFTY",
@@ -1900,8 +1900,8 @@
       "yearLow": 25.7,
       "nearYearHigh": 16.212121212121215,
       "nearYearLow": -7.587548638132294,
-      "perChange30d": -4.17,
-      "perChange365d": -4.87
+      "perChange30d": -3.87,
+      "perChange365d": -5.49
     },
     {
       "symbol": "MOMENTUM50",
@@ -1919,8 +1919,8 @@
       "yearLow": 44.96,
       "nearYearHigh": 2.26907271752724,
       "nearYearLow": -21.663701067615662,
-      "perChange30d": 0.55,
-      "perChange365d": 5.88
+      "perChange30d": 0.2,
+      "perChange365d": 5.31
     },
     {
       "symbol": "MIDSMALL",
@@ -1938,8 +1938,8 @@
       "yearLow": 42.41,
       "nearYearHigh": 2.713397399660821,
       "nearYearLow": -21.740155623673676,
-      "perChange30d": -1.36,
-      "perChange365d": 5.76
+      "perChange30d": -1.21,
+      "perChange365d": 5.25
     },
     {
       "symbol": "MOMMIDCAP",
@@ -1957,7 +1957,7 @@
       "yearLow": 10.8,
       "nearYearHigh": 13.3422281521014,
       "nearYearLow": -20.27777777777777,
-      "perChange30d": 0.23,
+      "perChange30d": -0.23,
       "perChange365d": 0.0
     },
     {
@@ -1976,8 +1976,8 @@
       "yearLow": 19.89,
       "nearYearHigh": 4.5418006430868125,
       "nearYearLow": -19.406737053795872,
-      "perChange30d": -2.47,
-      "perChange365d": 6.85
+      "perChange30d": -2.55,
+      "perChange365d": 6.61
     },
     {
       "symbol": "MOSMALL250",
@@ -1995,8 +1995,8 @@
       "yearLow": 14.22,
       "nearYearHigh": 4.747162022703809,
       "nearYearLow": -29.81715893108298,
-      "perChange30d": -0.22,
-      "perChange365d": 7.35
+      "perChange30d": -0.11,
+      "perChange365d": 7.03
     },
     {
       "symbol": "TOP10ADD",
@@ -2014,8 +2014,8 @@
       "yearLow": 83.05,
       "nearYearHigh": 16.624611801242242,
       "nearYearLow": -3.4437086092715226,
-      "perChange30d": -4.08,
-      "perChange365d": -9.57
+      "perChange30d": -3.7,
+      "perChange365d": -10.2
     },
     {
       "symbol": "ICICIB22",
@@ -2030,11 +2030,11 @@
       "tradedValue": 18602526.9,
       "nav": 113.9634,
       "yearHigh": 131.0,
-      "yearLow": 106.47,
+      "yearLow": 107.53,
       "nearYearHigh": 13.480916030534347,
-      "nearYearLow": -6.452521837137226,
-      "perChange30d": -2.5,
-      "perChange365d": 5.23
+      "nearYearLow": -5.4031433088440455,
+      "perChange30d": -2.14,
+      "perChange365d": 3.74
     },
     {
       "symbol": "ENERGY",
@@ -2052,7 +2052,7 @@
       "yearLow": 29.0,
       "nearYearHigh": 10.649229332087815,
       "nearYearLow": -31.931034482758612,
-      "perChange30d": -1.49,
+      "perChange30d": -1.24,
       "perChange365d": 0.0
     },
     {
@@ -2071,8 +2071,8 @@
       "yearLow": 24.2,
       "nearYearHigh": 9.408773045136686,
       "nearYearLow": -17.768595041322317,
-      "perChange30d": -6.36,
-      "perChange365d": 3.7
+      "perChange30d": -5.92,
+      "perChange365d": 3.59
     },
     {
       "symbol": "GROWWDEFNC",
@@ -2090,8 +2090,8 @@
       "yearLow": 71.78,
       "nearYearHigh": 4.379347506613108,
       "nearYearLow": -35.9710225689607,
-      "perChange30d": 1.55,
-      "perChange365d": 26.42
+      "perChange30d": -0.69,
+      "perChange365d": 21.05
     },
     {
       "symbol": "HDFCMID150",
@@ -2109,8 +2109,8 @@
       "yearLow": 19.42,
       "nearYearHigh": 7.777777777777781,
       "nearYearLow": -19.670442842430464,
-      "perChange30d": -3.22,
-      "perChange365d": 6.79
+      "perChange30d": -2.82,
+      "perChange365d": 6.05
     },
     {
       "symbol": "OILIETF",
@@ -2128,8 +2128,8 @@
       "yearLow": 9.8,
       "nearYearHigh": 20.071428571428577,
       "nearYearLow": -14.183673469387742,
-      "perChange30d": -2.1,
-      "perChange365d": 0.36
+      "perChange30d": -1.76,
+      "perChange365d": -0.8
     },
     {
       "symbol": "ITIETF",
@@ -2147,8 +2147,8 @@
       "yearLow": 28.54,
       "nearYearHigh": 26.862302483069975,
       "nearYearLow": -13.52487736510161,
-      "perChange30d": -8.43,
-      "perChange365d": -18.08
+      "perChange30d": -7.41,
+      "perChange365d": -17.89
     },
     {
       "symbol": "ABSLLIQUID",
@@ -2185,7 +2185,7 @@
       "yearLow": 7.17,
       "nearYearHigh": 15.486725663716813,
       "nearYearLow": -33.193863319386345,
-      "perChange30d": -4.32,
+      "perChange30d": -5.08,
       "perChange365d": 0.0
     },
     {
@@ -2204,7 +2204,7 @@
       "yearLow": 51.3,
       "nearYearHigh": 20.62415196743555,
       "nearYearLow": -14.03508771929825,
-      "perChange30d": -1.26,
+      "perChange30d": -1.46,
       "perChange365d": 0.0
     },
     {
@@ -2242,8 +2242,8 @@
       "yearLow": 9.63,
       "nearYearHigh": 11.15384615384615,
       "nearYearLow": -19.937694704049843,
-      "perChange30d": -2.37,
-      "perChange365d": 7.27
+      "perChange30d": -2.54,
+      "perChange365d": 6.97
     },
     {
       "symbol": "EGOLD",
@@ -2261,8 +2261,8 @@
       "yearLow": 109.3,
       "nearYearHigh": 18.383346850500136,
       "nearYearLow": -38.10612991765782,
-      "perChange30d": -0.46,
-      "perChange365d": 37.38
+      "perChange30d": -0.1,
+      "perChange365d": 36.94
     },
     {
       "symbol": "NIF100BEES",
@@ -2280,8 +2280,8 @@
       "yearLow": 240.0,
       "nearYearHigh": 9.668965517241386,
       "nearYearLow": -9.149999999999993,
-      "perChange30d": -4.03,
-      "perChange365d": -3.48
+      "perChange30d": -3.88,
+      "perChange365d": -3.9
     },
     {
       "symbol": "BANKETF",
@@ -2299,8 +2299,8 @@
       "yearLow": 507.01,
       "nearYearHigh": 7.905836662581368,
       "nearYearLow": -14.120037080136495,
-      "perChange30d": -1.43,
-      "perChange365d": 4.2
+      "perChange30d": -1.6,
+      "perChange365d": 3.85
     },
     {
       "symbol": "LOWVOLIETF",
@@ -2318,7 +2318,7 @@
       "yearLow": 19.84,
       "nearYearHigh": 19.39574785527788,
       "nearYearLow": -8.921370967741932,
-      "perChange30d": -5.83,
+      "perChange30d": -4.96,
       "perChange365d": -5.34
     },
     {
@@ -2337,7 +2337,7 @@
       "yearLow": 43.35,
       "nearYearHigh": 15.532258064516133,
       "nearYearLow": -20.807381776239897,
-      "perChange30d": -2.3,
+      "perChange30d": -1.12,
       "perChange365d": 0.0
     },
     {
@@ -2356,8 +2356,8 @@
       "yearLow": 15.01,
       "nearYearHigh": 4.514789828749357,
       "nearYearLow": -22.584943371085934,
-      "perChange30d": -2.19,
-      "perChange365d": -89.01
+      "perChange30d": -2.09,
+      "perChange365d": -89.07
     },
     {
       "symbol": "GROWWCAPM",
@@ -2375,7 +2375,7 @@
       "yearLow": 8.02,
       "nearYearHigh": 10.900473933649296,
       "nearYearLow": -40.64837905236908,
-      "perChange30d": 0.8,
+      "perChange30d": 0.71,
       "perChange365d": 0.0
     },
     {
@@ -2394,8 +2394,8 @@
       "yearLow": 20.75,
       "nearYearHigh": 16.6902404526167,
       "nearYearLow": -13.54216867469879,
-      "perChange30d": -2.89,
-      "perChange365d": 0.34
+      "perChange30d": -2.81,
+      "perChange365d": -0.17
     },
     {
       "symbol": "GROWWNIFTY",
@@ -2413,8 +2413,8 @@
       "yearLow": 8.93,
       "nearYearHigh": 19.865319865319872,
       "nearYearLow": -6.606942889137737,
-      "perChange30d": -3.95,
-      "perChange365d": -5.29
+      "perChange30d": -3.46,
+      "perChange365d": -5.48
     },
     {
       "symbol": "MAKEINDIA",
@@ -2432,8 +2432,8 @@
       "yearLow": 140.12,
       "nearYearHigh": 5.955750678759172,
       "nearYearLow": -16.186126177562095,
-      "perChange30d": -3.73,
-      "perChange365d": 8.15
+      "perChange30d": -3.57,
+      "perChange365d": 6.97
     },
     {
       "symbol": "GROWWMETAL",
@@ -2451,7 +2451,7 @@
       "yearLow": 10.03,
       "nearYearHigh": 7.434944237918216,
       "nearYearLow": -24.12761714855434,
-      "perChange30d": -0.48,
+      "perChange30d": 0.4,
       "perChange365d": 0.0
     },
     {
@@ -2470,8 +2470,8 @@
       "yearLow": 304.78,
       "nearYearHigh": 7.728531855955672,
       "nearYearLow": -9.291948290570264,
-      "perChange30d": -4.8,
-      "perChange365d": 0.91
+      "perChange30d": -4.3,
+      "perChange365d": 0.52
     },
     {
       "symbol": "MOSILVER",
@@ -2486,11 +2486,11 @@
       "tradedValue": 10546366.44,
       "nav": 230.3868,
       "yearHigh": 385.0,
-      "yearLow": 123.05,
+      "yearLow": 124.0,
       "nearYearHigh": 41.56103896103896,
-      "nearYearLow": -82.84437220642018,
-      "perChange30d": -2.31,
-      "perChange365d": 79.98
+      "nearYearLow": -81.44354838709677,
+      "perChange30d": -2.04,
+      "perChange365d": 75.58
     },
     {
       "symbol": "HSBCGOLD",
@@ -2508,7 +2508,7 @@
       "yearLow": 119.1,
       "nearYearHigh": 9.829234972677604,
       "nearYearLow": -10.839630562552474,
-      "perChange30d": 0.02,
+      "perChange30d": 0.4,
       "perChange365d": 0.0
     },
     {
@@ -2527,8 +2527,8 @@
       "yearLow": 138.65,
       "nearYearHigh": 2.6141173778743814,
       "nearYearLow": -22.791200865488637,
-      "perChange30d": -0.97,
-      "perChange365d": 13.14
+      "perChange30d": -0.03,
+      "perChange365d": 12.5
     },
     {
       "symbol": "IVZINGOLD",
@@ -2543,10 +2543,10 @@
       "tradedValue": 10014849.56,
       "nav": 132.1297,
       "yearHigh": 156.0,
-      "yearLow": 94.52,
+      "yearLow": 94.63,
       "nearYearHigh": 15.064102564102564,
-      "nearYearLow": -40.18197206940331,
-      "perChange30d": -0.49,
+      "nearYearLow": -40.01902145197084,
+      "perChange30d": 0.38,
       "perChange365d": -98.62
     },
     {
@@ -2565,8 +2565,8 @@
       "yearLow": 124.05,
       "nearYearHigh": 39.57333333333333,
       "nearYearLow": -82.66827891979041,
-      "perChange30d": -2.26,
-      "perChange365d": 80.7
+      "perChange30d": -2.03,
+      "perChange365d": 75.61
     },
     {
       "symbol": "EBBETF0431",
@@ -2581,11 +2581,11 @@
       "tradedValue": 9688364.4,
       "nav": 1437.5933,
       "yearHigh": 1469.0,
-      "yearLow": 1367.02,
+      "yearLow": 1367.25,
       "nearYearHigh": 2.4778761061946963,
-      "nearYearLow": -4.7972963087591936,
-      "perChange30d": -0.57,
-      "perChange365d": 4.76
+      "nearYearLow": -4.779667215213012,
+      "perChange30d": -0.65,
+      "perChange365d": 4.65
     },
     {
       "symbol": "GILT5YBEES",
@@ -2603,8 +2603,8 @@
       "yearLow": 61.45,
       "nearYearHigh": 3.001464128843334,
       "nearYearLow": -7.811228641171679,
-      "perChange30d": -0.32,
-      "perChange365d": 5.62
+      "perChange30d": -0.56,
+      "perChange365d": 5.75
     },
     {
       "symbol": "IT",
@@ -2622,8 +2622,8 @@
       "yearLow": 28.54,
       "nearYearHigh": 27.938862665767587,
       "nearYearLow": -12.33356692361599,
-      "perChange30d": -8.77,
-      "perChange365d": -18.22
+      "perChange30d": -7.54,
+      "perChange365d": -18.08
     },
     {
       "symbol": "LICMFGOLD",
@@ -2641,7 +2641,7 @@
       "yearLow": 98.0,
       "nearYearHigh": 15.77160493827161,
       "nearYearLow": -39.23469387755101,
-      "perChange30d": -0.44,
+      "perChange30d": -0.07,
       "perChange365d": -98.63
     },
     {
@@ -2657,11 +2657,11 @@
       "tradedValue": 8950270.98,
       "nav": 85.2458,
       "yearHigh": 104.0,
-      "yearLow": 67.86,
+      "yearLow": 69.35,
       "nearYearHigh": 18.48076923076923,
-      "nearYearLow": -24.933687002652523,
-      "perChange30d": -3.25,
-      "perChange365d": 19.28
+      "nearYearLow": -22.249459264599867,
+      "perChange30d": -4.37,
+      "perChange365d": 18.32
     },
     {
       "symbol": "AONELIQUID",
@@ -2679,8 +2679,8 @@
       "yearLow": 997.56,
       "nearYearHigh": 1.6307475858540559,
       "nearYearLow": -7.937367175909225,
-      "perChange30d": 0.44,
-      "perChange365d": 5.07
+      "perChange30d": 0.37,
+      "perChange365d": 5.01
     },
     {
       "symbol": "NIFTYADD",
@@ -2698,7 +2698,7 @@
       "yearLow": 232.64,
       "nearYearHigh": 17.699999999999996,
       "nearYearLow": -6.129642365887216,
-      "perChange30d": -4.35,
+      "perChange30d": -4.05,
       "perChange365d": 0.0
     },
     {
@@ -2717,8 +2717,8 @@
       "yearLow": 27.4,
       "nearYearHigh": 5.989583333333334,
       "nearYearLow": -18.576642335766437,
-      "perChange30d": -3.31,
-      "perChange365d": 7.46
+      "perChange30d": -2.61,
+      "perChange365d": 6.68
     },
     {
       "symbol": "CONSUMBEES",
@@ -2736,8 +2736,8 @@
       "yearLow": 114.0,
       "nearYearHigh": 11.351987809945976,
       "nearYearLow": -12.271929824561399,
-      "perChange30d": -5.49,
-      "perChange365d": -7.23
+      "perChange30d": -5.58,
+      "perChange365d": -7.02
     },
     {
       "symbol": "HDFCSENSEX",
@@ -2755,8 +2755,8 @@
       "yearLow": 78.44,
       "nearYearHigh": 13.200649878147846,
       "nearYearLow": -8.975012748597663,
-      "perChange30d": -3.77,
-      "perChange365d": -6.62
+      "perChange30d": -3.28,
+      "perChange365d": -7.19
     },
     {
       "symbol": "HDFCNEXT50",
@@ -2774,8 +2774,8 @@
       "yearLow": 59.99,
       "nearYearHigh": 5.277315229921853,
       "nearYearLow": -23.270545090848476,
-      "perChange30d": -2.56,
-      "perChange365d": 7.46
+      "perChange30d": -2.81,
+      "perChange365d": 6.68
     },
     {
       "symbol": "MOENERGY",
@@ -2812,7 +2812,7 @@
       "yearLow": 14.16,
       "nearYearHigh": 7.619047619047617,
       "nearYearLow": -30.155367231638415,
-      "perChange30d": -0.22,
+      "perChange30d": 0.33,
       "perChange365d": 0.0
     },
     {
@@ -2831,8 +2831,8 @@
       "yearLow": 12.5,
       "nearYearHigh": 16.812499999999996,
       "nearYearLow": -6.480000000000005,
-      "perChange30d": -4.19,
-      "perChange365d": -8.55
+      "perChange30d": -3.49,
+      "perChange365d": -9.17
     },
     {
       "symbol": "EVIETF",
@@ -2850,8 +2850,8 @@
       "yearLow": 26.28,
       "nearYearHigh": 10.888888888888893,
       "nearYearLow": -22.070015220700142,
-      "perChange30d": -6.49,
-      "perChange365d": 0.82
+      "perChange30d": -6.3,
+      "perChange365d": 0.88
     },
     {
       "symbol": "EVINDIA",
@@ -2869,8 +2869,8 @@
       "yearLow": 26.2,
       "nearYearHigh": 8.761415525114156,
       "nearYearLow": -22.02290076335878,
-      "perChange30d": -6.43,
-      "perChange365d": 1.07
+      "perChange30d": -6.35,
+      "perChange365d": 1.01
     },
     {
       "symbol": "TOP100CASE",
@@ -2888,8 +2888,8 @@
       "yearLow": 9.48,
       "nearYearHigh": 10.544511668107178,
       "nearYearLow": -9.177215189873408,
-      "perChange30d": -4.09,
-      "perChange365d": -3.1
+      "perChange30d": -3.82,
+      "perChange365d": -3.82
     },
     {
       "symbol": "AONEGOLD",
@@ -2904,11 +2904,11 @@
       "tradedValue": 6769512.32,
       "nav": 14.1935,
       "yearHigh": 17.73,
-      "yearLow": 10.0,
+      "yearLow": 10.21,
       "nearYearHigh": 20.02256063169769,
-      "nearYearLow": -41.8,
-      "perChange30d": -0.14,
-      "perChange365d": 37.38
+      "nearYearLow": -38.88344760039176,
+      "perChange30d": 0.35,
+      "perChange365d": 37.78
     },
     {
       "symbol": "GROWWEV",
@@ -2926,8 +2926,8 @@
       "yearLow": 26.2,
       "nearYearHigh": 7.650115473441115,
       "nearYearLow": -22.09923664122137,
-      "perChange30d": -6.01,
-      "perChange365d": 1.24
+      "perChange30d": -6.7,
+      "perChange365d": 0.92
     },
     {
       "symbol": "ALPHAETF",
@@ -2945,8 +2945,8 @@
       "yearLow": 21.8,
       "nearYearHigh": 4.092720028975005,
       "nearYearLow": -21.46788990825688,
-      "perChange30d": -1.01,
-      "perChange365d": 4.91
+      "perChange30d": -0.67,
+      "perChange365d": 4.5
     },
     {
       "symbol": "INFRAIETF",
@@ -2964,8 +2964,8 @@
       "yearLow": 86.8,
       "nearYearHigh": 6.712871287128714,
       "nearYearLow": -8.548387096774196,
-      "perChange30d": -2.61,
-      "perChange365d": 1.68
+      "perChange30d": -3.14,
+      "perChange365d": 0.88
     },
     {
       "symbol": "LOWVOL1",
@@ -2983,8 +2983,8 @@
       "yearLow": 18.77,
       "nearYearHigh": 10.04366812227073,
       "nearYearLow": -9.74960042621205,
-      "perChange30d": -5.61,
-      "perChange365d": -4.52
+      "perChange30d": -4.96,
+      "perChange365d": -4.29
     },
     {
       "symbol": "SILVER001",
@@ -3021,8 +3021,8 @@
       "yearLow": 27.22,
       "nearYearHigh": 26.891956211327948,
       "nearYearLow": -12.858192505510655,
-      "perChange30d": -8.76,
-      "perChange365d": -18.18
+      "perChange30d": -7.41,
+      "perChange365d": -17.98
     },
     {
       "symbol": "COMMOIETF",
@@ -3037,11 +3037,11 @@
       "tradedValue": 5475098.9,
       "nav": 99.1023,
       "yearHigh": 110.56,
-      "yearLow": 89.45,
+      "yearLow": 89.69,
       "nearYearHigh": 11.061866859623738,
-      "nearYearLow": -9.92733370598099,
-      "perChange30d": -2.95,
-      "perChange365d": 9.47
+      "nearYearLow": -9.633180956628387,
+      "perChange30d": -1.8,
+      "perChange365d": 8.69
     },
     {
       "symbol": "AONESILVER",
@@ -3059,7 +3059,7 @@
       "yearLow": 7.43,
       "nearYearHigh": 27.33333333333333,
       "nearYearLow": -17.3620457604307,
-      "perChange30d": -2.03,
+      "perChange30d": -1.36,
       "perChange365d": 0.0
     },
     {
@@ -3078,7 +3078,7 @@
       "yearLow": 244.9,
       "nearYearHigh": 12.528573349468884,
       "nearYearLow": -6.2515312372396785,
-      "perChange30d": -4.23,
+      "perChange30d": -3.79,
       "perChange365d": 0.0
     },
     {
@@ -3094,11 +3094,11 @@
       "tradedValue": 5010551.5,
       "nav": 111.9733,
       "yearHigh": 128.77,
-      "yearLow": 100.54,
+      "yearLow": 100.6,
       "nearYearHigh": 13.287256348528393,
-      "nearYearLow": -11.060274517604924,
-      "perChange30d": -3.3,
-      "perChange365d": 9.24
+      "nearYearLow": -10.994035785288274,
+      "perChange30d": -2.82,
+      "perChange365d": 8.13
     },
     {
       "symbol": "AONETOTAL",
@@ -3116,8 +3116,8 @@
       "yearLow": 9.6,
       "nearYearHigh": 6.31494804156674,
       "nearYearLow": -22.083333333333346,
-      "perChange30d": -3.07,
-      "perChange365d": 0.34
+      "perChange30d": -2.9,
+      "perChange365d": -0.51
     },
     {
       "symbol": "SHARIABEES",
@@ -3135,8 +3135,8 @@
       "yearLow": 433.68,
       "nearYearHigh": 18.392847122201236,
       "nearYearLow": -0.5995203836930377,
-      "perChange30d": -8.0,
-      "perChange365d": -13.29
+      "perChange30d": -7.28,
+      "perChange365d": -13.36
     },
     {
       "symbol": "INFRABEES",
@@ -3154,8 +3154,8 @@
       "yearLow": 871.35,
       "nearYearHigh": 7.032308749877237,
       "nearYearLow": -8.64635335972916,
-      "perChange30d": -3.02,
-      "perChange365d": 1.42
+      "perChange30d": -3.41,
+      "perChange365d": 0.72
     },
     {
       "symbol": "HDFCNIFBAN",
@@ -3173,8 +3173,8 @@
       "yearLow": 51.2,
       "nearYearHigh": 10.878852609093697,
       "nearYearLow": -14.082031249999986,
-      "perChange30d": -1.47,
-      "perChange365d": 4.09
+      "perChange30d": -1.62,
+      "perChange365d": 3.59
     },
     {
       "symbol": "HEALTHY",
@@ -3192,8 +3192,8 @@
       "yearLow": 13.58,
       "nearYearHigh": 3.7917374080362287,
       "nearYearLow": -25.184094256259204,
-      "perChange30d": -0.82,
-      "perChange365d": 13.14
+      "perChange30d": -0.41,
+      "perChange365d": 12.24
     },
     {
       "symbol": "SILVER360",
@@ -3208,11 +3208,11 @@
       "tradedValue": 4360857.6,
       "nav": 229.3531,
       "yearHigh": 358.0,
-      "yearLow": 122.15,
+      "yearLow": 122.63,
       "nearYearHigh": 37.5,
-      "nearYearLow": -83.17642243143675,
-      "perChange30d": -1.86,
-      "perChange365d": 81.24
+      "nearYearLow": -82.459430808122,
+      "perChange30d": -1.65,
+      "perChange365d": 76.13
     },
     {
       "symbol": "MULTICAP",
@@ -3230,8 +3230,8 @@
       "yearLow": 14.2,
       "nearYearHigh": 5.657142857142849,
       "nearYearLow": -16.267605633802834,
-      "perChange30d": -2.71,
-      "perChange365d": 2.1
+      "perChange30d": -2.42,
+      "perChange365d": 1.73
     },
     {
       "symbol": "MIDSELIETF",
@@ -3249,8 +3249,8 @@
       "yearLow": 14.55,
       "nearYearHigh": 2.5012260912211945,
       "nearYearLow": -36.632302405498265,
-      "perChange30d": -0.3,
-      "perChange365d": 12.39
+      "perChange30d": -0.6,
+      "perChange365d": 12.0
     },
     {
       "symbol": "HDFCMOMENT",
@@ -3268,8 +3268,8 @@
       "yearLow": 27.13,
       "nearYearHigh": 6.710803490821538,
       "nearYearLow": -14.264651677110216,
-      "perChange30d": -1.37,
-      "perChange365d": 0.39
+      "perChange30d": -1.5,
+      "perChange365d": -0.48
     },
     {
       "symbol": "LIQUIDSBI",
@@ -3306,8 +3306,8 @@
       "yearLow": 13.54,
       "nearYearHigh": 4.407555809959929,
       "nearYearLow": -23.338257016248154,
-      "perChange30d": -1.01,
-      "perChange365d": -88.66
+      "perChange30d": 0.0,
+      "perChange365d": -88.77
     },
     {
       "symbol": "ABSLBANETF",
@@ -3325,8 +3325,8 @@
       "yearLow": 50.97,
       "nearYearHigh": 10.532799507237446,
       "nearYearLow": -13.988620757308226,
-      "perChange30d": -1.43,
-      "perChange365d": 4.11
+      "perChange30d": -1.84,
+      "perChange365d": 3.4
     },
     {
       "symbol": "NV20BEES",
@@ -3344,8 +3344,8 @@
       "yearLow": 122.02,
       "nearYearHigh": 14.6875,
       "nearYearLow": -11.866907064415674,
-      "perChange30d": -3.98,
-      "perChange365d": -8.35
+      "perChange30d": -3.6,
+      "perChange365d": -8.86
     },
     {
       "symbol": "INTERNET",
@@ -3363,8 +3363,8 @@
       "yearLow": 10.72,
       "nearYearHigh": 6.518987341772159,
       "nearYearLow": -37.77985074626864,
-      "perChange30d": 3.99,
-      "perChange365d": 2.2
+      "perChange30d": 4.2,
+      "perChange365d": 3.41
     },
     {
       "symbol": "HDFCPVTBAN",
@@ -3382,8 +3382,8 @@
       "yearLow": 24.31,
       "nearYearHigh": 6.695392774279095,
       "nearYearLow": -15.795968737145209,
-      "perChange30d": 0.07,
-      "perChange365d": 3.6
+      "perChange30d": 0.43,
+      "perChange365d": 2.83
     },
     {
       "symbol": "MNC",
@@ -3401,8 +3401,8 @@
       "yearLow": 27.83,
       "nearYearHigh": 8.050490883590458,
       "nearYearLow": -17.786561264822147,
-      "perChange30d": -6.33,
-      "perChange365d": 6.27
+      "perChange30d": -5.98,
+      "perChange365d": 5.86
     },
     {
       "symbol": "GOLDBND",
@@ -3420,7 +3420,7 @@
       "yearLow": 115.17,
       "nearYearHigh": 16.241119005328592,
       "nearYearLow": -31.02370408960667,
-      "perChange30d": -0.64,
+      "perChange30d": 0.05,
       "perChange365d": 0.0
     },
     {
@@ -3439,8 +3439,8 @@
       "yearLow": 28.71,
       "nearYearHigh": 2.9702970297029694,
       "nearYearLow": -5.816788575409259,
-      "perChange30d": -0.65,
-      "perChange365d": 3.47
+      "perChange30d": -1.04,
+      "perChange365d": 3.3
     },
     {
       "symbol": "BBETF0432",
@@ -3455,11 +3455,11 @@
       "tradedValue": 3588012.8,
       "nav": 1348.2457,
       "yearHigh": 1378.0,
-      "yearLow": 1282.02,
+      "yearLow": 1283.01,
       "nearYearHigh": 2.1770682148040637,
-      "nearYearLow": -5.146565576200061,
-      "perChange30d": -0.2,
-      "perChange365d": 5.33
+      "nearYearLow": -5.065432069898131,
+      "perChange30d": -0.35,
+      "perChange365d": 5.08
     },
     {
       "symbol": "SBIMIDMOM",
@@ -3477,7 +3477,7 @@
       "yearLow": 53.86,
       "nearYearHigh": 5.786832004723936,
       "nearYearLow": -18.492387671741554,
-      "perChange30d": -1.04,
+      "perChange30d": -1.0,
       "perChange365d": 0.0
     },
     {
@@ -3496,7 +3496,7 @@
       "yearLow": 785.0,
       "nearYearHigh": 12.268734717864223,
       "nearYearLow": -6.496815286624204,
-      "perChange30d": -3.94,
+      "perChange30d": -3.53,
       "perChange365d": 0.0
     },
     {
@@ -3515,8 +3515,8 @@
       "yearLow": 39.34,
       "nearYearHigh": 17.092843658829587,
       "nearYearLow": -22.80122013218098,
-      "perChange30d": -2.63,
-      "perChange365d": 19.16
+      "perChange30d": -4.03,
+      "perChange365d": 17.31
     },
     {
       "symbol": "ALPL30IETF",
@@ -3534,8 +3534,8 @@
       "yearLow": 24.35,
       "nearYearHigh": 6.239286938635585,
       "nearYearLow": -12.320328542094455,
-      "perChange30d": -4.08,
-      "perChange365d": -0.95
+      "perChange30d": -3.88,
+      "perChange365d": -1.34
     },
     {
       "symbol": "VAL30IETF",
@@ -3550,11 +3550,11 @@
       "tradedValue": 3328681.84,
       "nav": 15.064,
       "yearHigh": 17.7,
-      "yearLow": 12.93,
+      "yearLow": 13.03,
       "nearYearHigh": 15.084745762711865,
-      "nearYearLow": -16.241299303944313,
-      "perChange30d": -2.78,
-      "perChange365d": 15.63
+      "nearYearLow": -15.349194167306218,
+      "perChange30d": -2.28,
+      "perChange365d": 14.31
     },
     {
       "symbol": "SILVERBND",
@@ -3572,7 +3572,7 @@
       "yearLow": 180.0,
       "nearYearHigh": 41.426735218508995,
       "nearYearLow": -26.58333333333333,
-      "perChange30d": -2.98,
+      "perChange30d": -1.88,
       "perChange365d": 0.0
     },
     {
@@ -3591,8 +3591,8 @@
       "yearLow": 29.84,
       "nearYearHigh": 16.49360057957015,
       "nearYearLow": -15.884718498659511,
-      "perChange30d": -3.95,
-      "perChange365d": 3.91
+      "perChange30d": -3.68,
+      "perChange365d": 3.23
     },
     {
       "symbol": "MOMOMENTUM",
@@ -3610,8 +3610,8 @@
       "yearLow": 54.32,
       "nearYearHigh": 6.608328304164155,
       "nearYearLow": -13.954344624447714,
-      "perChange30d": -1.66,
-      "perChange365d": 0.03
+      "perChange30d": -1.41,
+      "perChange365d": -0.37
     },
     {
       "symbol": "CONSUMER",
@@ -3629,8 +3629,8 @@
       "yearLow": 9.69,
       "nearYearHigh": 6.9858712715855615,
       "nearYearLow": -22.291021671826627,
-      "perChange30d": -3.43,
-      "perChange365d": -3.67
+      "perChange30d": -3.82,
+      "perChange365d": -3.59
     },
     {
       "symbol": "TNIDETF",
@@ -3648,8 +3648,8 @@
       "yearLow": 74.5,
       "nearYearHigh": 15.214022854929313,
       "nearYearLow": -17.51677852348993,
-      "perChange30d": -3.14,
-      "perChange365d": -6.12
+      "perChange30d": -3.44,
+      "perChange365d": -6.33
     },
     {
       "symbol": "SBISMLETF",
@@ -3667,7 +3667,7 @@
       "yearLow": 16.53,
       "nearYearHigh": 2.635740643120717,
       "nearYearLow": -11.736237144585587,
-      "perChange30d": -0.76,
+      "perChange30d": -0.38,
       "perChange365d": 0.0
     },
     {
@@ -3686,8 +3686,8 @@
       "yearLow": 73.33,
       "nearYearHigh": 12.660653889515224,
       "nearYearLow": -5.645711168689487,
-      "perChange30d": -4.06,
-      "perChange365d": -7.05
+      "perChange30d": -3.92,
+      "perChange365d": -7.71
     },
     {
       "symbol": "HDFCPSUBK",
@@ -3705,8 +3705,8 @@
       "yearLow": 69.6,
       "nearYearHigh": 16.928395061728395,
       "nearYearLow": -20.847701149425294,
-      "perChange30d": -3.24,
-      "perChange365d": 19.18
+      "perChange30d": -4.46,
+      "perChange365d": 18.41
     },
     {
       "symbol": "SELECTIPO",
@@ -3724,8 +3724,8 @@
       "yearLow": 37.8,
       "nearYearHigh": 7.009794507393891,
       "nearYearLow": -28.09523809523811,
-      "perChange30d": 0.0,
-      "perChange365d": -2.65
+      "perChange30d": -0.14,
+      "perChange365d": -2.83
     },
     {
       "symbol": "SBIETFIT",
@@ -3743,8 +3743,8 @@
       "yearLow": 285.0,
       "nearYearHigh": 26.396066200742137,
       "nearYearLow": -13.445614035087717,
-      "perChange30d": -8.24,
-      "perChange365d": -18.14
+      "perChange30d": -7.0,
+      "perChange365d": -17.97
     },
     {
       "symbol": "BSE500IETF",
@@ -3762,8 +3762,8 @@
       "yearLow": 34.5,
       "nearYearHigh": 7.609988109393568,
       "nearYearLow": -12.608695652173916,
-      "perChange30d": -3.15,
-      "perChange365d": -0.31
+      "perChange30d": -3.07,
+      "perChange365d": -0.74
     },
     {
       "symbol": "DIVOPPBEES",
@@ -3781,8 +3781,8 @@
       "yearLow": 72.13,
       "nearYearHigh": 13.652543345963945,
       "nearYearLow": -4.256204075973947,
-      "perChange30d": -5.83,
-      "perChange365d": -3.63
+      "perChange30d": -5.13,
+      "perChange365d": -4.05
     },
     {
       "symbol": "MOMIDMTM",
@@ -3800,8 +3800,8 @@
       "yearLow": 54.78,
       "nearYearHigh": 7.6571428571428575,
       "nearYearLow": -17.99926980649872,
-      "perChange30d": -0.65,
-      "perChange365d": 3.76
+      "perChange30d": -1.03,
+      "perChange365d": 3.42
     },
     {
       "symbol": "HEALTHCARE",
@@ -3819,7 +3819,7 @@
       "yearLow": 17.18,
       "nearYearHigh": 3.165403477485514,
       "nearYearLow": -26.42607683352735,
-      "perChange30d": -0.55,
+      "perChange30d": 0.65,
       "perChange365d": 0.0
     },
     {
@@ -3835,11 +3835,11 @@
       "tradedValue": 2362215.3,
       "nav": 150.2491,
       "yearHigh": 175.0,
-      "yearLow": 107.75,
+      "yearLow": 108.0,
       "nearYearHigh": 14.257142857142853,
-      "nearYearLow": -39.257540603248266,
-      "perChange30d": -0.27,
-      "perChange365d": 37.18
+      "nearYearLow": -38.93518518518519,
+      "perChange30d": -0.1,
+      "perChange365d": 36.99
     },
     {
       "symbol": "VALUEAXIS",
@@ -3857,7 +3857,7 @@
       "yearLow": 26.76,
       "nearYearHigh": 15.948717948717945,
       "nearYearLow": -22.496263079222718,
-      "perChange30d": -2.2,
+      "perChange30d": -1.49,
       "perChange365d": 0.0
     },
     {
@@ -3876,7 +3876,7 @@
       "yearLow": 9.8,
       "nearYearHigh": 16.180150125104248,
       "nearYearLow": -2.5510204081632653,
-      "perChange30d": -1.28,
+      "perChange30d": -1.18,
       "perChange365d": 0.0
     },
     {
@@ -3892,11 +3892,11 @@
       "tradedValue": 2145186.54,
       "nav": 84.9858,
       "yearHigh": 99.88,
-      "yearLow": 69.02,
+      "yearLow": 70.67,
       "nearYearHigh": 15.398478173808567,
-      "nearYearLow": -22.42828165749059,
-      "perChange30d": -3.37,
-      "perChange365d": 19.34
+      "nearYearLow": -19.569831611716424,
+      "perChange30d": -4.4,
+      "perChange365d": 19.02
     },
     {
       "symbol": "NETF",
@@ -3914,8 +3914,8 @@
       "yearLow": 240.66,
       "nearYearHigh": 13.117104813929664,
       "nearYearLow": -5.742541344635582,
-      "perChange30d": -4.4,
-      "perChange365d": -5.33
+      "perChange30d": -3.79,
+      "perChange365d": -5.77
     },
     {
       "symbol": "INSUREIETF",
@@ -3952,8 +3952,8 @@
       "yearLow": 9.0,
       "nearYearHigh": 18.833333333333332,
       "nearYearLow": -8.222222222222225,
-      "perChange30d": -3.86,
-      "perChange365d": -4.9
+      "perChange30d": -3.38,
+      "perChange365d": -5.36
     },
     {
       "symbol": "ELM250",
@@ -3971,8 +3971,8 @@
       "yearLow": 14.43,
       "nearYearHigh": 11.297297297297296,
       "nearYearLow": -13.721413721413725,
-      "perChange30d": -4.34,
-      "perChange365d": 0.37
+      "perChange30d": -3.55,
+      "perChange365d": 0.12
     },
     {
       "symbol": "CEMNTGROWW",
@@ -3990,7 +3990,7 @@
       "yearLow": 14.02,
       "nearYearHigh": 11.309157959434543,
       "nearYearLow": -2.9243937232524977,
-      "perChange30d": -5.89,
+      "perChange30d": -4.2,
       "perChange365d": 0.0
     },
     {
@@ -4009,8 +4009,8 @@
       "yearLow": 52.3,
       "nearYearHigh": 5.406626506024101,
       "nearYearLow": -20.095602294455077,
-      "perChange30d": -2.67,
-      "perChange365d": 7.98
+      "perChange30d": -2.58,
+      "perChange365d": 7.74
     },
     {
       "symbol": "MOHEALTH",
@@ -4028,8 +4028,8 @@
       "yearLow": 40.79,
       "nearYearHigh": 2.9389880952380922,
       "nearYearLow": -27.923510664378526,
-      "perChange30d": -0.31,
-      "perChange365d": 15.33
+      "perChange30d": 0.75,
+      "perChange365d": 14.82
     },
     {
       "symbol": "NIF100IETF",
@@ -4047,8 +4047,8 @@
       "yearLow": 23.0,
       "nearYearHigh": 11.237046632124349,
       "nearYearLow": -19.17391304347826,
-      "perChange30d": -4.12,
-      "perChange365d": -3.41
+      "perChange30d": -3.65,
+      "perChange365d": -3.95
     },
     {
       "symbol": "MOMENTUM",
@@ -4066,8 +4066,8 @@
       "yearLow": 27.05,
       "nearYearHigh": 3.666666666666669,
       "nearYearLow": -17.523105360443616,
-      "perChange30d": 0.44,
-      "perChange365d": 2.17
+      "perChange30d": -0.13,
+      "perChange365d": 1.51
     },
     {
       "symbol": "EBBETF0433",
@@ -4085,8 +4085,8 @@
       "yearLow": 1243.25,
       "nearYearHigh": 3.0970436637241496,
       "nearYearLow": -5.248341041624774,
-      "perChange30d": -0.95,
-      "perChange365d": 4.75
+      "perChange30d": -0.63,
+      "perChange365d": 4.72
     },
     {
       "symbol": "NIFTYJBLK",
@@ -4123,7 +4123,7 @@
       "yearLow": 9.12,
       "nearYearHigh": 4.155844155844159,
       "nearYearLow": -21.381578947368435,
-      "perChange30d": 0.18,
+      "perChange30d": 0.36,
       "perChange365d": 5.86
     },
     {
@@ -4142,7 +4142,7 @@
       "yearLow": 45.01,
       "nearYearHigh": 10.745742806811514,
       "nearYearLow": -1.3108198178182702,
-      "perChange30d": -7.33,
+      "perChange30d": -6.89,
       "perChange365d": 0.0
     },
     {
@@ -4161,7 +4161,7 @@
       "yearLow": 126.96,
       "nearYearHigh": 14.32972795804655,
       "nearYearLow": -2.937933207309392,
-      "perChange30d": -0.55,
+      "perChange30d": 0.39,
       "perChange365d": 0.0
     },
     {
@@ -4180,7 +4180,7 @@
       "yearLow": 123.31,
       "nearYearHigh": 19.853175869773377,
       "nearYearLow": -22.179871867650633,
-      "perChange30d": -0.67,
+      "perChange30d": -0.18,
       "perChange365d": 0.0
     },
     {
@@ -4199,8 +4199,8 @@
       "yearLow": 27.32,
       "nearYearHigh": 26.501182033096924,
       "nearYearLow": -13.799414348462662,
-      "perChange30d": -8.34,
-      "perChange365d": -18.11
+      "perChange30d": -7.27,
+      "perChange365d": -18.05
     },
     {
       "symbol": "MOMENTUM30",
@@ -4218,7 +4218,7 @@
       "yearLow": 26.91,
       "nearYearHigh": 18.27180310326378,
       "nearYearLow": -13.52657004830918,
-      "perChange30d": -1.54,
+      "perChange30d": -1.73,
       "perChange365d": 0.0
     },
     {
@@ -4237,8 +4237,8 @@
       "yearLow": 18.0,
       "nearYearHigh": 10.434782608695645,
       "nearYearLow": -14.44444444444445,
-      "perChange30d": -5.7,
-      "perChange365d": -5.36
+      "perChange30d": -5.4,
+      "perChange365d": -5.27
     },
     {
       "symbol": "INFRA",
@@ -4256,7 +4256,7 @@
       "yearLow": 10.14,
       "nearYearHigh": 10.324039186134131,
       "nearYearLow": -17.357001972386584,
-      "perChange30d": -2.3,
+      "perChange30d": -2.93,
       "perChange365d": 0.0
     },
     {
@@ -4275,7 +4275,7 @@
       "yearLow": 22.28,
       "nearYearHigh": 15.612718828152904,
       "nearYearLow": -6.014362657091562,
-      "perChange30d": -3.94,
+      "perChange30d": -4.06,
       "perChange365d": 0.0
     },
     {
@@ -4294,8 +4294,8 @@
       "yearLow": 24.02,
       "nearYearHigh": 12.892095357590964,
       "nearYearLow": -15.611990008326394,
-      "perChange30d": 0.11,
-      "perChange365d": 3.99
+      "perChange30d": 0.36,
+      "perChange365d": 3.3
     },
     {
       "symbol": "ABSLNN50ET",
@@ -4313,8 +4313,8 @@
       "yearLow": 63.02,
       "nearYearHigh": 4.5562056516867875,
       "nearYearLow": -21.659790542684856,
-      "perChange30d": -2.87,
-      "perChange365d": 7.54
+      "perChange30d": -2.97,
+      "perChange365d": 7.0
     },
     {
       "symbol": "NV20",
@@ -4332,8 +4332,8 @@
       "yearLow": 12.62,
       "nearYearHigh": 19.62062833432128,
       "nearYearLow": -7.448494453248822,
-      "perChange30d": -4.71,
-      "perChange365d": -90.85
+      "perChange30d": -3.62,
+      "perChange365d": -90.9
     },
     {
       "symbol": "EQUAL200",
@@ -4351,8 +4351,8 @@
       "yearLow": 11.75,
       "nearYearHigh": 6.8493150684931505,
       "nearYearLow": -15.744680851063828,
-      "perChange30d": -3.41,
-      "perChange365d": 4.3
+      "perChange30d": -3.27,
+      "perChange365d": 3.82
     },
     {
       "symbol": "ABSLPSE",
@@ -4370,8 +4370,8 @@
       "yearLow": 9.21,
       "nearYearHigh": 12.67241379310344,
       "nearYearLow": -9.989142236699239,
-      "perChange30d": -1.17,
-      "perChange365d": 3.8
+      "perChange30d": -0.98,
+      "perChange365d": 2.22
     },
     {
       "symbol": "ESG",
@@ -4389,8 +4389,8 @@
       "yearLow": 37.52,
       "nearYearHigh": 10.519307589880164,
       "nearYearLow": -7.462686567164171,
-      "perChange30d": -4.85,
-      "perChange365d": -6.47
+      "perChange30d": -4.47,
+      "perChange365d": -6.9
     },
     {
       "symbol": "CONSUMIETF",
@@ -4408,8 +4408,8 @@
       "yearLow": 94.65,
       "nearYearHigh": 16.082678558788146,
       "nearYearLow": -25.250924458531422,
-      "perChange30d": -5.47,
-      "perChange365d": -7.24
+      "perChange30d": -5.53,
+      "perChange365d": -7.0
     },
     {
       "symbol": "MID150",
@@ -4427,8 +4427,8 @@
       "yearLow": 18.97,
       "nearYearHigh": 6.813627254509016,
       "nearYearLow": -22.561939905113345,
-      "perChange30d": -2.64,
-      "perChange365d": 7.09
+      "perChange30d": -2.31,
+      "perChange365d": 6.5
     },
     {
       "symbol": "MOMETAL",
@@ -4446,7 +4446,7 @@
       "yearLow": 12.85,
       "nearYearHigh": 9.730848861283643,
       "nearYearLow": -1.7898832684824937,
-      "perChange30d": -0.91,
+      "perChange30d": 0.15,
       "perChange365d": 0.0
     },
     {
@@ -4465,8 +4465,8 @@
       "yearLow": 120.0,
       "nearYearHigh": 16.470588235294127,
       "nearYearLow": -2.358333333333332,
-      "perChange30d": -4.22,
-      "perChange365d": -8.6
+      "perChange30d": -3.54,
+      "perChange365d": -9.06
     },
     {
       "symbol": "GROWWSC250",
@@ -4484,7 +4484,7 @@
       "yearLow": 8.0,
       "nearYearHigh": 2.9170464904284437,
       "nearYearLow": -33.12500000000001,
-      "perChange30d": 0.0,
+      "perChange30d": 0.09,
       "perChange365d": 0.0
     },
     {
@@ -4503,8 +4503,8 @@
       "yearLow": 87.85,
       "nearYearHigh": 17.022471910112365,
       "nearYearLow": -68.12749003984064,
-      "perChange30d": -0.67,
-      "perChange365d": 37.42
+      "perChange30d": 0.27,
+      "perChange365d": 36.98
     },
     {
       "symbol": "BBNPPGOLD",
@@ -4522,8 +4522,8 @@
       "yearLow": 105.15,
       "nearYearHigh": 20.53789731051345,
       "nearYearLow": -39.087018544935795,
-      "perChange30d": -0.27,
-      "perChange365d": 37.41
+      "perChange30d": 0.0,
+      "perChange365d": 36.83
     },
     {
       "symbol": "SMALLGROWW",
@@ -4541,7 +4541,7 @@
       "yearLow": 39.41,
       "nearYearHigh": 2.5177025963808046,
       "nearYearLow": -25.754884547069288,
-      "perChange30d": 1.81,
+      "perChange30d": 1.75,
       "perChange365d": 0.0
     },
     {
@@ -4560,8 +4560,8 @@
       "yearLow": 29.64,
       "nearYearHigh": 10.57692307692308,
       "nearYearLow": -9.817813765182175,
-      "perChange30d": -4.63,
-      "perChange365d": 0.81
+      "perChange30d": -4.24,
+      "perChange365d": 0.56
     },
     {
       "symbol": "GROWWNXT50",
@@ -4579,8 +4579,8 @@
       "yearLow": 60.01,
       "nearYearHigh": 5.130876416200041,
       "nearYearLow": -21.396433927678714,
-      "perChange30d": -4.16,
-      "perChange365d": 6.27
+      "perChange30d": -3.78,
+      "perChange365d": 5.59
     },
     {
       "symbol": "TOP15IETF",
@@ -4598,8 +4598,8 @@
       "yearLow": 9.15,
       "nearYearHigh": 15.580985915492953,
       "nearYearLow": -4.808743169398902,
-      "perChange30d": -5.25,
-      "perChange365d": -8.08
+      "perChange30d": -5.06,
+      "perChange365d": -8.69
     },
     {
       "symbol": "MOTOUR",
@@ -4617,8 +4617,8 @@
       "yearLow": 64.0,
       "nearYearHigh": 19.899297178223016,
       "nearYearLow": -19.3125,
-      "perChange30d": -4.42,
-      "perChange365d": -16.9
+      "perChange30d": -4.15,
+      "perChange365d": -17.04
     },
     {
       "symbol": "TECH",
@@ -4636,8 +4636,8 @@
       "yearLow": 28.0,
       "nearYearHigh": 35.377453956688925,
       "nearYearLow": -14.035714285714286,
-      "perChange30d": -8.73,
-      "perChange365d": -17.37
+      "perChange30d": -7.32,
+      "perChange365d": -17.39
     },
     {
       "symbol": "MOM50",
@@ -4655,8 +4655,8 @@
       "yearLow": 221.55,
       "nearYearHigh": 11.617083736082767,
       "nearYearLow": -11.433085082374173,
-      "perChange30d": -3.54,
-      "perChange365d": -4.69
+      "perChange30d": -2.9,
+      "perChange365d": -5.2
     },
     {
       "symbol": "EMETAL",
@@ -4674,7 +4674,7 @@
       "yearLow": 12.41,
       "nearYearHigh": 14.13543721236029,
       "nearYearLow": -5.237711522965353,
-      "perChange30d": -0.38,
+      "perChange30d": 0.77,
       "perChange365d": 0.0
     },
     {
@@ -4693,8 +4693,8 @@
       "yearLow": 227.01,
       "nearYearHigh": 13.79692131861852,
       "nearYearLow": -6.321307431390698,
-      "perChange30d": -4.14,
-      "perChange365d": -5.35
+      "perChange30d": -4.16,
+      "perChange365d": -5.78
     },
     {
       "symbol": "GROWWN200",
@@ -4712,8 +4712,8 @@
       "yearLow": 9.91,
       "nearYearHigh": 8.072487644151568,
       "nearYearLow": -12.613521695257315,
-      "perChange30d": -3.72,
-      "perChange365d": -0.89
+      "perChange30d": -3.64,
+      "perChange365d": -1.42
     },
     {
       "symbol": "ECAPINSURE",
@@ -4731,8 +4731,8 @@
       "yearLow": 20.5,
       "nearYearHigh": 9.775888717156096,
       "nearYearLow": -13.90243902439025,
-      "perChange30d": -1.31,
-      "perChange365d": 1.7
+      "perChange30d": -1.73,
+      "perChange365d": 1.65
     },
     {
       "symbol": "SMALLIETF",
@@ -4750,7 +4750,7 @@
       "yearLow": 17.43,
       "nearYearHigh": 6.208311954848627,
       "nearYearLow": -4.876649454962716,
-      "perChange30d": -0.05,
+      "perChange30d": -0.92,
       "perChange365d": 0.0
     },
     {
@@ -4769,8 +4769,8 @@
       "yearLow": 23.31,
       "nearYearHigh": 12.172413793103452,
       "nearYearLow": -9.266409266409267,
-      "perChange30d": -4.14,
-      "perChange365d": -3.16
+      "perChange30d": -3.53,
+      "perChange365d": -3.64
     },
     {
       "symbol": "NEXT50ETF",
@@ -4788,7 +4788,7 @@
       "yearLow": 60.15,
       "nearYearHigh": 6.30769230769231,
       "nearYearLow": -21.49625935162095,
-      "perChange30d": -3.0,
+      "perChange30d": -3.03,
       "perChange365d": 0.0
     },
     {
@@ -4807,8 +4807,8 @@
       "yearLow": 252.23,
       "nearYearHigh": 2.6929782261953306,
       "nearYearLow": -4.00428180628791,
-      "perChange30d": -1.84,
-      "perChange365d": 1.82
+      "perChange30d": -1.79,
+      "perChange365d": 2.06
     },
     {
       "symbol": "SBIETFPB",
@@ -4826,8 +4826,8 @@
       "yearLow": 244.18,
       "nearYearHigh": 7.364239280320445,
       "nearYearLow": -15.550004095339492,
-      "perChange30d": 0.53,
-      "perChange365d": 4.12
+      "perChange30d": 0.69,
+      "perChange365d": 3.3
     },
     {
       "symbol": "FLEXIADD",
@@ -4845,7 +4845,7 @@
       "yearLow": 8.73,
       "nearYearHigh": 17.39495798319328,
       "nearYearLow": -12.600229095074452,
-      "perChange30d": -5.69,
+      "perChange30d": -5.42,
       "perChange365d": 0.0
     },
     {
@@ -4864,8 +4864,8 @@
       "yearLow": 138.6,
       "nearYearHigh": 5.898123324396785,
       "nearYearLow": -16.493506493506505,
-      "perChange30d": -3.55,
-      "perChange365d": 8.15
+      "perChange30d": -4.93,
+      "perChange365d": 7.39
     },
     {
       "symbol": "HDFCGROWTH",
@@ -4883,8 +4883,8 @@
       "yearLow": 107.86,
       "nearYearHigh": 12.993248312078023,
       "nearYearLow": -7.528277396625259,
-      "perChange30d": -6.84,
-      "perChange365d": -7.61
+      "perChange30d": -5.55,
+      "perChange365d": -7.5
     },
     {
       "symbol": "LICNETFN50",
@@ -4902,8 +4902,8 @@
       "yearLow": 248.17,
       "nearYearHigh": 10.576271186440675,
       "nearYearLow": -6.29810210742637,
-      "perChange30d": -4.25,
-      "perChange365d": -5.21
+      "perChange30d": -3.43,
+      "perChange365d": -5.52
     },
     {
       "symbol": "VALUE",
@@ -4921,7 +4921,7 @@
       "yearLow": 14.83,
       "nearYearHigh": 19.095987811071616,
       "nearYearLow": -7.417397167902897,
-      "perChange30d": -2.63,
+      "perChange30d": -1.49,
       "perChange365d": 0.0
     },
     {
@@ -4941,7 +4941,7 @@
       "nearYearHigh": 6.459054209919275,
       "nearYearLow": -15.857142857142849,
       "perChange30d": -5.26,
-      "perChange365d": -90.32
+      "perChange365d": -90.35
     },
     {
       "symbol": "CHOICEGOLD",
@@ -4959,7 +4959,7 @@
       "yearLow": 115.79,
       "nearYearHigh": 14.513647501282124,
       "nearYearLow": -29.562138353916577,
-      "perChange30d": -0.25,
+      "perChange30d": -0.03,
       "perChange365d": 0.0
     },
     {
@@ -4978,8 +4978,8 @@
       "yearLow": 27.59,
       "nearYearHigh": 4.127088110055688,
       "nearYearLow": -6.089162740123232,
-      "perChange30d": -0.88,
-      "perChange365d": 3.57
+      "perChange30d": -1.41,
+      "perChange365d": 3.31
     },
     {
       "symbol": "BANKPSU",
@@ -4994,11 +4994,11 @@
       "tradedValue": 633104.8,
       "nav": 84.764,
       "yearHigh": 99.52,
-      "yearLow": 69.46,
+      "yearLow": 70.49,
       "nearYearHigh": 15.263263665594854,
-      "nearYearLow": -21.40800460696805,
-      "perChange30d": -3.15,
-      "perChange365d": 19.8
+      "nearYearLow": -19.63399063696979,
+      "perChange30d": -4.15,
+      "perChange365d": 19.01
     },
     {
       "symbol": "BANK10BETF",
@@ -5016,7 +5016,7 @@
       "yearLow": 20.13,
       "nearYearHigh": 17.91164658634537,
       "nearYearLow": -1.5399900645802398,
-      "perChange30d": -3.44,
+      "perChange30d": -3.76,
       "perChange365d": 0.0
     },
     {
@@ -5035,7 +5035,7 @@
       "yearLow": 230.7,
       "nearYearHigh": 26.995246434826118,
       "nearYearLow": -39.133073255309945,
-      "perChange30d": -8.17,
+      "perChange30d": -7.24,
       "perChange365d": 0.0
     },
     {
@@ -5054,7 +5054,7 @@
       "yearLow": 12.08,
       "nearYearHigh": 12.006319115323844,
       "nearYearLow": -38.32781456953643,
-      "perChange30d": -2.06,
+      "perChange30d": -1.77,
       "perChange365d": 0.0
     },
     {
@@ -5073,8 +5073,8 @@
       "yearLow": 244.32,
       "nearYearHigh": 24.11971830985915,
       "nearYearLow": -5.844793713163077,
-      "perChange30d": -4.45,
-      "perChange365d": -5.74
+      "perChange30d": -3.35,
+      "perChange365d": -5.71
     },
     {
       "symbol": "EMULTIMQ",
@@ -5092,8 +5092,8 @@
       "yearLow": 36.25,
       "nearYearHigh": 3.881488286632976,
       "nearYearLow": -15.448275862068968,
-      "perChange30d": -0.24,
-      "perChange365d": -0.07
+      "perChange30d": -1.04,
+      "perChange365d": -0.74
     },
     {
       "symbol": "TOP20",
@@ -5111,7 +5111,7 @@
       "yearLow": 8.0,
       "nearYearHigh": 13.413413413413414,
       "nearYearLow": -8.125000000000004,
-      "perChange30d": -5.15,
+      "perChange30d": -4.63,
       "perChange365d": 0.0
     },
     {
@@ -5130,8 +5130,8 @@
       "yearLow": 243.2,
       "nearYearHigh": 11.260688897283567,
       "nearYearLow": -6.249999999999996,
-      "perChange30d": -4.0,
-      "perChange365d": -90.5
+      "perChange30d": -3.68,
+      "perChange365d": -90.55
     },
     {
       "symbol": "UNIONGOLD",
@@ -5149,8 +5149,8 @@
       "yearLow": 106.8,
       "nearYearHigh": 16.186440677966104,
       "nearYearLow": -38.90449438202247,
-      "perChange30d": -0.24,
-      "perChange365d": 37.7
+      "perChange30d": 0.41,
+      "perChange365d": 36.87
     },
     {
       "symbol": "HEALTHAXIS",
@@ -5168,7 +5168,7 @@
       "yearLow": 135.2,
       "nearYearHigh": 11.3,
       "nearYearLow": -24.65236686390534,
-      "perChange30d": -0.72,
+      "perChange30d": 0.36,
       "perChange365d": 0.0
     },
     {
@@ -5187,8 +5187,8 @@
       "yearLow": 36.83,
       "nearYearHigh": 5.363554757630163,
       "nearYearLow": -14.499049687754558,
-      "perChange30d": -3.7,
-      "perChange365d": 8.15
+      "perChange30d": -3.52,
+      "perChange365d": 7.57
     },
     {
       "symbol": "SENSEXAXIS",
@@ -5206,7 +5206,7 @@
       "yearLow": 73.52,
       "nearYearHigh": 15.478927203065135,
       "nearYearLow": -5.019042437431988,
-      "perChange30d": -5.01,
+      "perChange30d": -4.41,
       "perChange365d": 0.0
     },
     {
@@ -5225,7 +5225,7 @@
       "yearLow": 56.25,
       "nearYearHigh": 9.987654320987659,
       "nearYearLow": -29.61777777777777,
-      "perChange30d": -2.95,
+      "perChange30d": -3.09,
       "perChange365d": 0.0
     },
     {
@@ -5244,8 +5244,8 @@
       "yearLow": 59.43,
       "nearYearHigh": 4.519699565160109,
       "nearYearLow": -21.924953727073856,
-      "perChange30d": -3.9,
-      "perChange365d": 6.61
+      "perChange30d": -3.7,
+      "perChange365d": 6.38
     },
     {
       "symbol": "BNKETFAXIS",
@@ -5263,7 +5263,7 @@
       "yearLow": 512.51,
       "nearYearHigh": 9.697138093914985,
       "nearYearLow": -14.14411426118515,
-      "perChange30d": -1.49,
+      "perChange30d": -1.84,
       "perChange365d": 0.0
     },
     {
@@ -5282,8 +5282,8 @@
       "yearLow": 137.9,
       "nearYearHigh": 12.165129556433902,
       "nearYearLow": -16.026105873821606,
-      "perChange30d": -3.95,
-      "perChange365d": 8.11
+      "perChange30d": -3.54,
+      "perChange365d": 6.84
     },
     {
       "symbol": "GROWWPSUBK",
@@ -5301,7 +5301,7 @@
       "yearLow": 77.57,
       "nearYearHigh": 7.851738129180828,
       "nearYearLow": -8.327961840917892,
-      "perChange30d": -2.57,
+      "perChange30d": -4.01,
       "perChange365d": 0.0
     },
     {
@@ -5320,7 +5320,7 @@
       "yearLow": 93.2,
       "nearYearHigh": 10.614474283113333,
       "nearYearLow": -5.354077253218878,
-      "perChange30d": -0.71,
+      "perChange30d": -0.41,
       "perChange365d": 0.0
     },
     {
@@ -5339,8 +5339,8 @@
       "yearLow": 250.95,
       "nearYearHigh": 3.0590136241783203,
       "nearYearLow": -5.192269376369807,
-      "perChange30d": -0.93,
-      "perChange365d": 2.49
+      "perChange30d": -1.17,
+      "perChange365d": 2.3
     },
     {
       "symbol": "MOALPHA50",
@@ -5358,8 +5358,8 @@
       "yearLow": 42.1,
       "nearYearHigh": 9.306451612903231,
       "nearYearLow": -33.56294536817101,
-      "perChange30d": 0.21,
-      "perChange365d": 10.08
+      "perChange30d": -0.05,
+      "perChange365d": 9.37
     },
     {
       "symbol": "MIDCAPBETA",
@@ -5377,7 +5377,7 @@
       "yearLow": 192.5,
       "nearYearHigh": 3.987499999999997,
       "nearYearLow": -19.70389610389611,
-      "perChange30d": -2.78,
+      "perChange30d": -2.86,
       "perChange365d": 0.0
     },
     {
@@ -5396,7 +5396,7 @@
       "yearLow": 14.42,
       "nearYearHigh": 17.627118644067796,
       "nearYearLow": -1.1095700416088776,
-      "perChange30d": -3.7,
+      "perChange30d": -2.35,
       "perChange365d": 0.0
     },
     {
@@ -5416,7 +5416,7 @@
       "nearYearHigh": 9.29878048780487,
       "nearYearLow": -16.66666666666668,
       "perChange30d": -5.66,
-      "perChange365d": -90.69
+      "perChange365d": -90.68
     },
     {
       "symbol": "MOQUALITY",
@@ -5434,8 +5434,8 @@
       "yearLow": 176.15,
       "nearYearHigh": 13.563829787234042,
       "nearYearLow": -10.701107011070107,
-      "perChange30d": -5.9,
-      "perChange365d": -0.3
+      "perChange30d": -5.08,
+      "perChange365d": -0.81
     },
     {
       "symbol": "PVTBKGROWW",
@@ -5453,7 +5453,7 @@
       "yearLow": 25.45,
       "nearYearHigh": 7.981061887047681,
       "nearYearLow": -6.9155206286837005,
-      "perChange30d": -0.44,
+      "perChange30d": -0.29,
       "perChange365d": 0.0
     },
     {
@@ -5472,8 +5472,8 @@
       "yearLow": 73.27,
       "nearYearHigh": 12.301587301587311,
       "nearYearLow": -5.568445475638049,
-      "perChange30d": -4.33,
-      "perChange365d": -6.91
+      "perChange30d": -3.7,
+      "perChange365d": -7.41
     },
     {
       "symbol": "SBINMID150",
@@ -5491,7 +5491,7 @@
       "yearLow": 19.81,
       "nearYearHigh": 4.655029093931827,
       "nearYearLow": -15.800100959111573,
-      "perChange30d": -2.71,
+      "perChange30d": -2.84,
       "perChange365d": 0.0
     },
     {
@@ -5510,8 +5510,8 @@
       "yearLow": 251.1,
       "nearYearHigh": 14.476190476190482,
       "nearYearLow": -7.2879330943847,
-      "perChange30d": -4.27,
-      "perChange365d": -90.47
+      "perChange30d": -3.73,
+      "perChange365d": -90.53
     },
     {
       "symbol": "GROWWLOVOL",
@@ -5529,8 +5529,8 @@
       "yearLow": 9.39,
       "nearYearHigh": 8.1981981981982,
       "nearYearLow": -8.519701810436622,
-      "perChange30d": -4.69,
-      "perChange365d": -2.68
+      "perChange30d": -4.25,
+      "perChange365d": -3.33
     },
     {
       "symbol": "SBIETFCON",
@@ -5548,8 +5548,8 @@
       "yearLow": 100.0,
       "nearYearHigh": 11.427931626483543,
       "nearYearLow": -18.659999999999997,
-      "perChange30d": -5.82,
-      "perChange365d": -7.11
+      "perChange30d": -5.74,
+      "perChange365d": -6.89
     },
     {
       "symbol": "AONETMMQ50",
@@ -5567,7 +5567,7 @@
       "yearLow": 8.0,
       "nearYearHigh": 4.415823367065305,
       "nearYearLow": -29.875000000000007,
-      "perChange30d": 0.19,
+      "perChange30d": -0.77,
       "perChange365d": 0.0
     },
     {
@@ -5586,7 +5586,7 @@
       "yearLow": 14.01,
       "nearYearHigh": 4.871794871794868,
       "nearYearLow": -32.40542469664526,
-      "perChange30d": -1.7,
+      "perChange30d": 0.22,
       "perChange365d": 0.0
     },
     {
@@ -5624,7 +5624,7 @@
       "yearLow": 27.17,
       "nearYearHigh": 26.956106870229007,
       "nearYearLow": -12.697828487302168,
-      "perChange30d": -8.59,
+      "perChange30d": -7.66,
       "perChange365d": 0.0
     },
     {
@@ -5643,8 +5643,8 @@
       "yearLow": 183.58,
       "nearYearHigh": 8.67183934276586,
       "nearYearLow": -8.998801612376065,
-      "perChange30d": -5.59,
-      "perChange365d": -5.1
+      "perChange30d": -5.1,
+      "perChange365d": -5.25
     },
     {
       "symbol": "MOIPO",
@@ -5662,7 +5662,7 @@
       "yearLow": 36.5,
       "nearYearHigh": 8.094339622641508,
       "nearYearLow": -33.45205479452055,
-      "perChange30d": 0.21,
+      "perChange30d": -0.12,
       "perChange365d": 0.0
     },
     {
@@ -5700,7 +5700,7 @@
       "yearLow": 51.01,
       "nearYearHigh": 7.94912559618442,
       "nearYearLow": -13.507155459713783,
-      "perChange30d": -1.14,
+      "perChange30d": -1.69,
       "perChange365d": 0.0
     },
     {
@@ -5719,7 +5719,7 @@
       "yearLow": 150.0,
       "nearYearHigh": 20.343251562354247,
       "nearYearLow": -13.866666666666672,
-      "perChange30d": -1.27,
+      "perChange30d": -1.24,
       "perChange365d": 0.0
     },
     {
@@ -5738,7 +5738,7 @@
       "yearLow": 270.68,
       "nearYearHigh": 24.867053715177832,
       "nearYearLow": -13.787498152800351,
-      "perChange30d": -8.69,
+      "perChange30d": -7.11,
       "perChange365d": 0.0
     },
     {
@@ -5757,8 +5757,8 @@
       "yearLow": 18.95,
       "nearYearHigh": 9.552757273122026,
       "nearYearLow": -9.920844327176775,
-      "perChange30d": -5.23,
-      "perChange365d": -4.49
+      "perChange30d": -4.89,
+      "perChange365d": -4.67
     },
     {
       "symbol": "GROWWMC150",
@@ -5776,7 +5776,7 @@
       "yearLow": 193.6,
       "nearYearHigh": 6.865306122448977,
       "nearYearLow": -17.86157024793389,
-      "perChange30d": -3.64,
+      "perChange30d": -3.34,
       "perChange365d": 0.0
     },
     {
@@ -5795,8 +5795,8 @@
       "yearLow": 18.09,
       "nearYearHigh": 12.942191544434857,
       "nearYearLow": -11.553344389165284,
-      "perChange30d": -5.48,
-      "perChange365d": -4.63
+      "perChange30d": -5.12,
+      "perChange365d": -4.59
     },
     {
       "symbol": "MOMNC",
@@ -5814,7 +5814,7 @@
       "yearLow": 27.03,
       "nearYearHigh": 11.17318435754189,
       "nearYearLow": -17.64705882352941,
-      "perChange30d": -6.05,
+      "perChange30d": -5.66,
       "perChange365d": 0.0
     },
     {
@@ -5833,8 +5833,8 @@
       "yearLow": 93.33,
       "nearYearHigh": 13.452484742807329,
       "nearYearLow": -6.36451301832208,
-      "perChange30d": -0.75,
-      "perChange365d": 3.74
+      "perChange30d": -1.12,
+      "perChange365d": 1.99
     },
     {
       "symbol": "MOLOWVOL",
@@ -5852,8 +5852,8 @@
       "yearLow": 33.52,
       "nearYearHigh": 18.063617367076855,
       "nearYearLow": -5.280429594272064,
-      "perChange30d": -5.59,
-      "perChange365d": -7.32
+      "perChange30d": -5.43,
+      "perChange365d": -7.75
     },
     {
       "symbol": "DIVIDEND",
@@ -5871,7 +5871,7 @@
       "yearLow": 33.15,
       "nearYearHigh": 8.204049434656861,
       "nearYearLow": -5.309200603318245,
-      "perChange30d": -3.78,
+      "perChange30d": -3.09,
       "perChange365d": 0.0
     },
     {
@@ -5890,8 +5890,8 @@
       "yearLow": 36.98,
       "nearYearHigh": 9.03640256959316,
       "nearYearLow": -14.872904272579774,
-      "perChange30d": -3.66,
-      "perChange365d": 7.75
+      "perChange30d": -3.17,
+      "perChange365d": 7.64
     },
     {
       "symbol": "MSCI360",
@@ -5909,7 +5909,7 @@
       "yearLow": 9.6,
       "nearYearHigh": 18.79084967320262,
       "nearYearLow": -3.541666666666665,
-      "perChange30d": -3.68,
+      "perChange30d": -3.02,
       "perChange365d": 0.0
     },
     {
@@ -5928,8 +5928,8 @@
       "yearLow": 70.32,
       "nearYearHigh": 11.09086768389888,
       "nearYearLow": -11.03526734926053,
-      "perChange30d": -2.66,
-      "perChange365d": -5.02
+      "perChange30d": -1.22,
+      "perChange365d": -5.47
     },
     {
       "symbol": "ENEXT50",
@@ -5947,7 +5947,7 @@
       "yearLow": 68.59,
       "nearYearHigh": 4.986842105263166,
       "nearYearLow": -5.277737279486791,
-      "perChange30d": -2.68,
+      "perChange30d": -2.31,
       "perChange365d": 0.0
     },
     {
@@ -5966,8 +5966,8 @@
       "yearLow": 194.0,
       "nearYearHigh": 12.609187965059855,
       "nearYearLow": -11.391752577319584,
-      "perChange30d": -5.5,
-      "perChange365d": -5.02
+      "perChange30d": -5.56,
+      "perChange365d": -4.83
     },
     {
       "symbol": "EBANKNIFTY",
@@ -5985,8 +5985,8 @@
       "yearLow": 50.05,
       "nearYearHigh": 17.94206658019888,
       "nearYearLow": -13.766233766233768,
-      "perChange30d": -1.83,
-      "perChange365d": 3.41
+      "perChange30d": -2.2,
+      "perChange365d": 3.26
     },
     {
       "symbol": "MOOILGAS",
@@ -6004,7 +6004,7 @@
       "yearLow": 10.9,
       "nearYearHigh": 2.564102564102555,
       "nearYearLow": -4.587155963302752,
-      "perChange30d": -0.44,
+      "perChange30d": 1.16,
       "perChange365d": 0.0
     },
     {
@@ -6023,7 +6023,7 @@
       "yearLow": 71.87,
       "nearYearHigh": 14.537194775695625,
       "nearYearLow": -4.702935856407396,
-      "perChange30d": -4.36,
+      "perChange30d": -4.1,
       "perChange365d": 0.0
     },
     {
@@ -6042,8 +6042,8 @@
       "yearLow": 26.5,
       "nearYearHigh": 8.61854387056627,
       "nearYearLow": -10.830188679245287,
-      "perChange30d": -3.99,
-      "perChange365d": -1.99
+      "perChange30d": -4.18,
+      "perChange365d": -2.51
     },
     {
       "symbol": "HDFCLOWVOL",
@@ -6061,8 +6061,8 @@
       "yearLow": 18.35,
       "nearYearHigh": 10.053859964093366,
       "nearYearLow": -9.209809264305164,
-      "perChange30d": -5.52,
-      "perChange365d": -4.94
+      "perChange30d": -4.94,
+      "perChange365d": -4.8
     },
     {
       "symbol": "GSEC5IETF",
@@ -6080,8 +6080,8 @@
       "yearLow": 62.0,
       "nearYearHigh": 4.165461382701758,
       "nearYearLow": -6.870967741935492,
-      "perChange30d": -0.21,
-      "perChange365d": 5.49
+      "perChange30d": -0.15,
+      "perChange365d": 5.53
     },
     {
       "symbol": "MON50EQUAL",
@@ -6099,8 +6099,8 @@
       "yearLow": 29.43,
       "nearYearHigh": 9.69444444444445,
       "nearYearLow": -10.46551138294257,
-      "perChange30d": -5.41,
-      "perChange365d": 0.62
+      "perChange30d": -4.1,
+      "perChange365d": 0.25
     },
     {
       "symbol": "EBANK10",
@@ -6118,7 +6118,7 @@
       "yearLow": 16.18,
       "nearYearHigh": 8.100558659217874,
       "nearYearLow": -1.6687268232385635,
-      "perChange30d": -2.08,
+      "perChange30d": -2.43,
       "perChange365d": 0.0
     },
     {
@@ -6137,7 +6137,7 @@
       "yearLow": 27.01,
       "nearYearHigh": 2.823861630780082,
       "nearYearLow": -1.925212884116992,
-      "perChange30d": 0.4,
+      "perChange30d": 0.58,
       "perChange365d": 0.0
     },
     {
@@ -6156,8 +6156,8 @@
       "yearLow": 60.74,
       "nearYearHigh": 3.3268973711569805,
       "nearYearLow": -7.161672703325652,
-      "perChange30d": -0.38,
-      "perChange365d": 5.25
+      "perChange30d": -0.5,
+      "perChange365d": 5.33
     },
     {
       "symbol": "HDFCQUAL",
@@ -6175,8 +6175,8 @@
       "yearLow": 51.91,
       "nearYearHigh": 7.176337481816709,
       "nearYearLow": -10.63378925062609,
-      "perChange30d": -4.62,
-      "perChange365d": -2.89
+      "perChange30d": -4.39,
+      "perChange365d": -2.96
     },
     {
       "symbol": "MONIFTY100",
@@ -6194,7 +6194,7 @@
       "yearLow": 22.38,
       "nearYearHigh": 11.405076868072928,
       "nearYearLow": -10.723860589812343,
-      "perChange30d": -3.99,
+      "perChange30d": -3.95,
       "perChange365d": 0.0
     },
     {
@@ -6232,7 +6232,7 @@
       "yearLow": 77.11,
       "nearYearHigh": 7.706601466992661,
       "nearYearLow": -22.3836078329659,
-      "perChange30d": -2.03,
+      "perChange30d": -2.3,
       "perChange365d": 0.0
     },
     {
@@ -6251,8 +6251,8 @@
       "yearLow": 54.6,
       "nearYearHigh": 10.803030303030306,
       "nearYearLow": -7.820512820512813,
-      "perChange30d": -1.87,
-      "perChange365d": 1.7
+      "perChange30d": -2.02,
+      "perChange365d": 0.39
     },
     {
       "symbol": "NPBET",
@@ -6270,8 +6270,8 @@
       "yearLow": 246.26,
       "nearYearHigh": 7.309446254071661,
       "nearYearLow": -15.55266791196297,
-      "perChange30d": 0.33,
-      "perChange365d": 3.78
+      "perChange30d": 0.4,
+      "perChange365d": 3.43
     },
     {
       "symbol": "LARGEMID50",
@@ -6308,7 +6308,7 @@
       "yearLow": 28.3,
       "nearYearHigh": 14.192818772971435,
       "nearYearLow": -7.243816254416963,
-      "perChange30d": -3.96,
+      "perChange30d": -3.41,
       "perChange365d": 0.0
     },
     {
@@ -6365,7 +6365,7 @@
       "yearLow": 105.63,
       "nearYearHigh": 10.549867273416758,
       "nearYearLow": -11.653886206570105,
-      "perChange30d": -5.87,
+      "perChange30d": -5.98,
       "perChange365d": 0.0
     },
     {
@@ -6384,7 +6384,7 @@
       "yearLow": 35.4,
       "nearYearHigh": 5.740884406516677,
       "nearYearLow": -2.9661016949152663,
-      "perChange30d": -1.71,
+      "perChange30d": -1.65,
       "perChange365d": 0.0
     },
     {
@@ -6403,7 +6403,7 @@
       "yearLow": 17.09,
       "nearYearHigh": 4.555433589462121,
       "nearYearLow": -1.7554125219426606,
-      "perChange30d": 0.23,
+      "perChange30d": 0.0,
       "perChange365d": 0.0
     },
     {
@@ -6422,7 +6422,7 @@
       "yearLow": 25.1,
       "nearYearHigh": 4.782608695652175,
       "nearYearLow": -4.7011952191235045,
-      "perChange30d": -2.7,
+      "perChange30d": -2.77,
       "perChange365d": 0.0
     },
     {
@@ -6441,8 +6441,8 @@
       "yearLow": 248.02,
       "nearYearHigh": 9.055025134104797,
       "nearYearLow": -8.688815418111435,
-      "perChange30d": -3.84,
-      "perChange365d": -3.71
+      "perChange30d": -3.29,
+      "perChange365d": -4.42
     },
     {
       "symbol": "IVZBANKNF",
@@ -6479,8 +6479,8 @@
       "yearLow": 50.03,
       "nearYearHigh": 9.733949338856151,
       "nearYearLow": -13.252048770737549,
-      "perChange30d": -2.55,
-      "perChange365d": 3.15
+      "perChange30d": -2.12,
+      "perChange365d": 2.81
     },
     {
       "symbol": "MSCIADD",
@@ -6498,7 +6498,7 @@
       "yearLow": 26.4,
       "nearYearHigh": 14.577173270254287,
       "nearYearLow": -9.43181818181819,
-      "perChange30d": -4.52,
+      "perChange30d": -3.57,
       "perChange365d": 0.0
     },
     {
@@ -6517,7 +6517,7 @@
       "yearLow": 61.51,
       "nearYearHigh": 3.7536231884058022,
       "nearYearLow": -7.966184360266622,
-      "perChange30d": -0.94,
+      "perChange30d": -0.69,
       "perChange365d": 0.0
     },
     {
@@ -6555,8 +6555,8 @@
       "yearLow": 803.0,
       "nearYearHigh": 13.560296503151879,
       "nearYearLow": -4.849315068493158,
-      "perChange30d": -4.77,
-      "perChange365d": -7.38
+      "perChange30d": -4.33,
+      "perChange365d": -8.28
     },
     {
       "symbol": "ABSLMSCIN",
@@ -6574,7 +6574,7 @@
       "yearLow": 26.34,
       "nearYearHigh": 18.222976796830796,
       "nearYearLow": -9.71905846621108,
-      "perChange30d": -3.92,
+      "perChange30d": -3.6,
       "perChange365d": 0.0
     },
     {
@@ -6593,8 +6593,8 @@
       "yearLow": 28.39,
       "nearYearHigh": 2.681136291094797,
       "nearYearLow": -7.396970764353638,
-      "perChange30d": -0.13,
-      "perChange365d": 4.42
+      "perChange30d": -0.2,
+      "perChange365d": 4.56
     },
     {
       "symbol": "ABGSEC",
@@ -6612,8 +6612,8 @@
       "yearLow": 109.43,
       "nearYearHigh": 3.423728813559327,
       "nearYearLow": -4.139632641871504,
-      "perChange30d": -0.53,
-      "perChange365d": 3.78
+      "perChange30d": -1.32,
+      "perChange365d": 3.94
     },
     {
       "symbol": "GSEC10ABSL",
