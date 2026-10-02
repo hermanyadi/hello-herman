@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-01T17:10:58.302029+00:00",
+  "last_updated_utc": "2026-10-02T16:24:37.970692+00:00",
   "nse_timestamp": "01-Oct-2026 15:30",
   "count": 139,
   "indices": [
@@ -22,7 +22,7 @@
       "advances": 13.0,
       "declines": 37.0,
       "unchanged": 0.0,
-      "perChange30d": -6.79,
+      "perChange30d": -6.24,
       "perChange365d": -9.72
     },
     {
@@ -44,7 +44,7 @@
       "advances": 12.0,
       "declines": 38.0,
       "unchanged": 0.0,
-      "perChange30d": -5.34,
+      "perChange30d": -5.44,
       "perChange365d": 1.31
     },
     {
@@ -66,7 +66,7 @@
       "advances": 4.0,
       "declines": 10.0,
       "unchanged": 0.0,
-      "perChange30d": -5.15,
+      "perChange30d": -4.76,
       "perChange365d": -1.62
     },
     {
@@ -88,7 +88,7 @@
       "advances": 6.0,
       "declines": 14.0,
       "unchanged": 0.0,
-      "perChange30d": -5.57,
+      "perChange30d": -4.87,
       "perChange365d": -6.92
     },
     {
@@ -110,7 +110,7 @@
       "advances": 8.0,
       "declines": 17.0,
       "unchanged": 0.0,
-      "perChange30d": -8.44,
+      "perChange30d": -7.51,
       "perChange365d": 6.81
     },
     {
@@ -132,7 +132,7 @@
       "advances": 42.0,
       "declines": 108.0,
       "unchanged": 0.0,
-      "perChange30d": -6.81,
+      "perChange30d": -6.41,
       "perChange365d": 0.0
     },
     {
@@ -154,7 +154,7 @@
       "advances": 25.0,
       "declines": 75.0,
       "unchanged": 0.0,
-      "perChange30d": -6.52,
+      "perChange30d": -6.09,
       "perChange365d": -7.79
     },
     {
@@ -176,7 +176,7 @@
       "advances": 51.0,
       "declines": 149.0,
       "unchanged": 0.0,
-      "perChange30d": -6.67,
+      "perChange30d": -6.23,
       "perChange365d": -5.83
     },
     {
@@ -198,7 +198,7 @@
       "advances": 110.0,
       "declines": 390.0,
       "unchanged": 1.0,
-      "perChange30d": -6.35,
+      "perChange30d": -5.88,
       "perChange365d": -4.67
     },
     {
@@ -220,7 +220,7 @@
       "advances": 15.0,
       "declines": 35.0,
       "unchanged": 0.0,
-      "perChange30d": -7.72,
+      "perChange30d": -7.06,
       "perChange365d": 4.7
     },
     {
@@ -242,7 +242,7 @@
       "advances": 26.0,
       "declines": 74.0,
       "unchanged": 0.0,
-      "perChange30d": -7.27,
+      "perChange30d": -6.78,
       "perChange365d": 2.98
     },
     {
@@ -264,7 +264,7 @@
       "advances": 22.0,
       "declines": 78.0,
       "unchanged": 0.0,
-      "perChange30d": -4.16,
+      "perChange30d": -3.8,
       "perChange365d": 7.34
     },
     {
@@ -286,7 +286,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": 25.67,
+      "perChange30d": 24.59,
       "perChange365d": 40.33
     },
     {
@@ -308,7 +308,7 @@
       "advances": 38.0,
       "declines": 112.0,
       "unchanged": 0.0,
-      "perChange30d": -6.92,
+      "perChange30d": -6.36,
       "perChange365d": 2.0
     },
     {
@@ -330,7 +330,7 @@
       "advances": 12.0,
       "declines": 38.0,
       "unchanged": 0.0,
-      "perChange30d": -3.78,
+      "perChange30d": -3.36,
       "perChange365d": 12.49
     },
     {
@@ -352,7 +352,7 @@
       "advances": 47.0,
       "declines": 203.0,
       "unchanged": 1.0,
-      "perChange30d": -4.22,
+      "perChange30d": -3.65,
       "perChange365d": 4.27
     },
     {
@@ -374,7 +374,7 @@
       "advances": 85.0,
       "declines": 315.0,
       "unchanged": 1.0,
-      "perChange30d": -5.99,
+      "perChange30d": -5.43,
       "perChange365d": 2.7
     },
     {
@@ -396,7 +396,7 @@
       "advances": 110.0,
       "declines": 390.0,
       "unchanged": 1.0,
-      "perChange30d": -6.04,
+      "perChange30d": -5.54,
       "perChange365d": -2.3
     },
     {
@@ -418,7 +418,7 @@
       "advances": 63.0,
       "declines": 187.0,
       "unchanged": 0.0,
-      "perChange30d": -6.72,
+      "perChange30d": -6.23,
       "perChange365d": -2.96
     },
     {
@@ -440,7 +440,7 @@
       "advances": 156.0,
       "declines": 593.0,
       "unchanged": 6.0,
-      "perChange30d": -6.13,
+      "perChange30d": -5.65,
       "perChange365d": -4.0
     },
     {
@@ -462,7 +462,7 @@
       "advances": 46.0,
       "declines": 203.0,
       "unchanged": 5.0,
-      "perChange30d": -1.42,
+      "perChange30d": -0.84,
       "perChange365d": 11.66
     },
     {
@@ -484,7 +484,7 @@
       "advances": 110.0,
       "declines": 390.0,
       "unchanged": 1.0,
-      "perChange30d": -5.88,
+      "perChange30d": -5.36,
       "perChange365d": -0.46
     },
     {
@@ -506,7 +506,7 @@
       "advances": 90.0,
       "declines": 409.0,
       "unchanged": 6.0,
-      "perChange30d": -3.4,
+      "perChange30d": -2.84,
       "perChange365d": 0.0
     },
     {
@@ -528,7 +528,7 @@
       "advances": 85.0,
       "declines": 315.0,
       "unchanged": 1.0,
-      "perChange30d": -5.57,
+      "perChange30d": -5.01,
       "perChange365d": 0.0
     },
     {
@@ -550,7 +550,7 @@
       "advances": 0.0,
       "declines": 15.0,
       "unchanged": 0.0,
-      "perChange30d": -10.9,
+      "perChange30d": -9.28,
       "perChange365d": -5.17
     },
     {
@@ -572,7 +572,7 @@
       "advances": 6.0,
       "declines": 14.0,
       "unchanged": 0.0,
-      "perChange30d": -6.12,
+      "perChange30d": -5.44,
       "perChange365d": -7.17
     },
     {
@@ -594,7 +594,7 @@
       "advances": 2.0,
       "declines": 13.0,
       "unchanged": 0.0,
-      "perChange30d": -5.74,
+      "perChange30d": -5.3,
       "perChange365d": -20.53
     },
     {
@@ -616,7 +616,7 @@
       "advances": 8.0,
       "declines": 2.0,
       "unchanged": 0.0,
-      "perChange30d": -10.13,
+      "perChange30d": -9.0,
       "perChange365d": -16.52
     },
     {
@@ -638,7 +638,7 @@
       "advances": 0.0,
       "declines": 10.0,
       "unchanged": 0.0,
-      "perChange30d": -0.97,
+      "perChange30d": 0.8,
       "perChange365d": -3.61
     },
     {
@@ -660,7 +660,7 @@
       "advances": 1.0,
       "declines": 14.0,
       "unchanged": 0.0,
-      "perChange30d": -5.53,
+      "perChange30d": -5.29,
       "perChange365d": 23.46
     },
     {
@@ -682,7 +682,7 @@
       "advances": 8.0,
       "declines": 12.0,
       "unchanged": 0.0,
-      "perChange30d": -1.8,
+      "perChange30d": -1.75,
       "perChange365d": 21.06
     },
     {
@@ -704,7 +704,7 @@
       "advances": 2.0,
       "declines": 10.0,
       "unchanged": 0.0,
-      "perChange30d": -6.68,
+      "perChange30d": -6.74,
       "perChange365d": 5.85
     },
     {
@@ -726,7 +726,7 @@
       "advances": 4.0,
       "declines": 6.0,
       "unchanged": 0.0,
-      "perChange30d": -3.84,
+      "perChange30d": -3.29,
       "perChange365d": -1.06
     },
     {
@@ -748,7 +748,7 @@
       "advances": 1.0,
       "declines": 9.0,
       "unchanged": 0.0,
-      "perChange30d": -6.32,
+      "perChange30d": -6.51,
       "perChange365d": -4.81
     },
     {
@@ -770,7 +770,7 @@
       "advances": 9.0,
       "declines": 11.0,
       "unchanged": 0.0,
-      "perChange30d": -3.45,
+      "perChange30d": -3.21,
       "perChange365d": 12.41
     },
     {
@@ -792,7 +792,7 @@
       "advances": 1.0,
       "declines": 13.0,
       "unchanged": 0.0,
-      "perChange30d": -9.88,
+      "perChange30d": -9.6,
       "perChange365d": -3.87
     },
     {
@@ -814,7 +814,7 @@
       "advances": 3.0,
       "declines": 12.0,
       "unchanged": 0.0,
-      "perChange30d": -5.99,
+      "perChange30d": -6.3,
       "perChange365d": -7.34
     },
     {
@@ -836,7 +836,7 @@
       "advances": 13.0,
       "declines": 17.0,
       "unchanged": 0.0,
-      "perChange30d": -2.28,
+      "perChange30d": -2.13,
       "perChange365d": 16.83
     },
     {
@@ -858,7 +858,7 @@
       "advances": 9.0,
       "declines": 21.0,
       "unchanged": 0.0,
-      "perChange30d": -9.01,
+      "perChange30d": -8.68,
       "perChange365d": -2.09
     },
     {
@@ -880,7 +880,7 @@
       "advances": 6.0,
       "declines": 24.0,
       "unchanged": 0.0,
-      "perChange30d": -8.04,
+      "perChange30d": -7.7,
       "perChange365d": 14.24
     },
     {
@@ -902,7 +902,7 @@
       "advances": 12.0,
       "declines": 8.0,
       "unchanged": 0.0,
-      "perChange30d": -7.08,
+      "perChange30d": -6.41,
       "perChange365d": 2.55
     },
     {
@@ -924,7 +924,7 @@
       "advances": 2.0,
       "declines": 18.0,
       "unchanged": 0.0,
-      "perChange30d": -7.07,
+      "perChange30d": -7.01,
       "perChange365d": -3.4
     },
     {
@@ -946,7 +946,7 @@
       "advances": 16.0,
       "declines": 28.0,
       "unchanged": 0.0,
-      "perChange30d": -2.99,
+      "perChange30d": -2.81,
       "perChange365d": 0.0
     },
     {
@@ -968,7 +968,7 @@
       "advances": 2.0,
       "declines": 13.0,
       "unchanged": 0.0,
-      "perChange30d": -3.47,
+      "perChange30d": -3.49,
       "perChange365d": 0.0
     },
     {
@@ -990,7 +990,7 @@
       "advances": 1.0,
       "declines": 11.0,
       "unchanged": 0.0,
-      "perChange30d": -7.06,
+      "perChange30d": -6.64,
       "perChange365d": 0.0
     },
     {
@@ -1012,7 +1012,7 @@
       "advances": 13.0,
       "declines": 37.0,
       "unchanged": 0.0,
-      "perChange30d": -7.5,
+      "perChange30d": -7.04,
       "perChange365d": -8.72
     },
     {
@@ -1034,7 +1034,7 @@
       "advances": 4.0,
       "declines": 11.0,
       "unchanged": 0.0,
-      "perChange30d": -9.13,
+      "perChange30d": -8.29,
       "perChange365d": -10.05
     },
     {
@@ -1056,7 +1056,7 @@
       "advances": 8.0,
       "declines": 22.0,
       "unchanged": 0.0,
-      "perChange30d": -7.62,
+      "perChange30d": -6.98,
       "perChange365d": -5.83
     },
     {
@@ -1078,7 +1078,7 @@
       "advances": 7.0,
       "declines": 13.0,
       "unchanged": 0.0,
-      "perChange30d": -6.4,
+      "perChange30d": -5.98,
       "perChange365d": -11.91
     },
     {
@@ -1100,7 +1100,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -13.51,
+      "perChange30d": -12.49,
       "perChange365d": -22.27
     },
     {
@@ -1122,7 +1122,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -13.56,
+      "perChange30d": -12.52,
       "perChange365d": -23.94
     },
     {
@@ -1144,7 +1144,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": 7.55,
+      "perChange30d": 6.92,
       "perChange365d": 13.32
     },
     {
@@ -1166,7 +1166,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": 7.59,
+      "perChange30d": 6.94,
       "perChange365d": 14.47
     },
     {
@@ -1188,7 +1188,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": 3.81,
+      "perChange30d": 1.86,
       "perChange365d": -6.69
     },
     {
@@ -1210,7 +1210,7 @@
       "advances": 16.0,
       "declines": 34.0,
       "unchanged": 0.0,
-      "perChange30d": -4.98,
+      "perChange30d": -4.61,
       "perChange365d": 9.15
     },
     {
@@ -1232,7 +1232,7 @@
       "advances": 13.0,
       "declines": 37.0,
       "unchanged": 0.0,
-      "perChange30d": -7.01,
+      "perChange30d": -6.53,
       "perChange365d": -4.15
     },
     {
@@ -1254,7 +1254,7 @@
       "advances": 25.0,
       "declines": 75.0,
       "unchanged": 0.0,
-      "perChange30d": -6.42,
+      "perChange30d": -6.2,
       "perChange365d": -1.65
     },
     {
@@ -1276,7 +1276,7 @@
       "advances": 8.0,
       "declines": 22.0,
       "unchanged": 0.0,
-      "perChange30d": -7.77,
+      "perChange30d": -7.22,
       "perChange365d": -7.21
     },
     {
@@ -1298,7 +1298,7 @@
       "advances": 10.0,
       "declines": 20.0,
       "unchanged": 0.0,
-      "perChange30d": -8.47,
+      "perChange30d": -7.83,
       "perChange365d": -7.97
     },
     {
@@ -1320,7 +1320,7 @@
       "advances": 8.0,
       "declines": 22.0,
       "unchanged": 0.0,
-      "perChange30d": -7.44,
+      "perChange30d": -7.03,
       "perChange365d": -4.71
     },
     {
@@ -1342,7 +1342,7 @@
       "advances": 11.0,
       "declines": 19.0,
       "unchanged": 0.0,
-      "perChange30d": -5.01,
+      "perChange30d": -4.87,
       "perChange365d": -3.05
     },
     {
@@ -1364,7 +1364,7 @@
       "advances": 16.0,
       "declines": 34.0,
       "unchanged": 0.0,
-      "perChange30d": -7.65,
+      "perChange30d": -6.6,
       "perChange365d": -5.06
     },
     {
@@ -1386,7 +1386,7 @@
       "advances": 11.0,
       "declines": 19.0,
       "unchanged": 0.0,
-      "perChange30d": -5.73,
+      "perChange30d": -5.66,
       "perChange365d": 3.33
     },
     {
@@ -1408,7 +1408,7 @@
       "advances": 16.0,
       "declines": 34.0,
       "unchanged": 0.0,
-      "perChange30d": -5.72,
+      "perChange30d": -5.32,
       "perChange365d": 1.49
     },
     {
@@ -1430,7 +1430,7 @@
       "advances": 19.0,
       "declines": 31.0,
       "unchanged": 0.0,
-      "perChange30d": -4.53,
+      "perChange30d": -4.0,
       "perChange365d": 2.86
     },
     {
@@ -1452,7 +1452,7 @@
       "advances": 28.0,
       "declines": 72.0,
       "unchanged": 0.0,
-      "perChange30d": -5.47,
+      "perChange30d": -4.58,
       "perChange365d": 4.02
     },
     {
@@ -1474,7 +1474,7 @@
       "advances": 22.0,
       "declines": 78.0,
       "unchanged": 0.0,
-      "perChange30d": -3.12,
+      "perChange30d": -2.29,
       "perChange365d": 5.29
     },
     {
@@ -1496,7 +1496,7 @@
       "advances": 3.0,
       "declines": 7.0,
       "unchanged": 0.0,
-      "perChange30d": -7.0,
+      "perChange30d": -6.45,
       "perChange365d": -13.71
     },
     {
@@ -1518,7 +1518,7 @@
       "advances": 6.0,
       "declines": 24.0,
       "unchanged": 0.0,
-      "perChange30d": -6.93,
+      "perChange30d": -6.2,
       "perChange365d": -4.55
     },
     {
@@ -1540,7 +1540,7 @@
       "advances": 6.0,
       "declines": 24.0,
       "unchanged": 0.0,
-      "perChange30d": -6.97,
+      "perChange30d": -6.45,
       "perChange365d": -9.4
     },
     {
@@ -1562,7 +1562,7 @@
       "advances": 7.0,
       "declines": 43.0,
       "unchanged": 0.0,
-      "perChange30d": -6.61,
+      "perChange30d": -6.45,
       "perChange365d": 9.36
     },
     {
@@ -1584,7 +1584,7 @@
       "advances": 15.0,
       "declines": 35.0,
       "unchanged": 0.0,
-      "perChange30d": -6.72,
+      "perChange30d": -6.14,
       "perChange365d": -7.55
     },
     {
@@ -1606,7 +1606,7 @@
       "advances": 9.0,
       "declines": 21.0,
       "unchanged": 0.0,
-      "perChange30d": -6.67,
+      "perChange30d": -5.96,
       "perChange365d": -9.07
     },
     {
@@ -1628,7 +1628,7 @@
       "advances": 10.0,
       "declines": 40.0,
       "unchanged": 0.0,
-      "perChange30d": -4.57,
+      "perChange30d": -3.72,
       "perChange365d": -7.21
     },
     {
@@ -1650,7 +1650,7 @@
       "advances": 4.0,
       "declines": 11.0,
       "unchanged": 0.0,
-      "perChange30d": -7.83,
+      "perChange30d": -7.15,
       "perChange365d": -13.4
     },
     {
@@ -1672,7 +1672,7 @@
       "advances": 7.0,
       "declines": 23.0,
       "unchanged": 0.0,
-      "perChange30d": -6.2,
+      "perChange30d": -6.03,
       "perChange365d": -6.85
     },
     {
@@ -1694,7 +1694,7 @@
       "advances": 4.0,
       "declines": 26.0,
       "unchanged": 0.0,
-      "perChange30d": -5.96,
+      "perChange30d": -6.34,
       "perChange365d": 4.19
     },
     {
@@ -1716,7 +1716,7 @@
       "advances": 110.0,
       "declines": 390.0,
       "unchanged": 1.0,
-      "perChange30d": -5.73,
+      "perChange30d": -5.26,
       "perChange365d": -0.65
     },
     {
@@ -1738,7 +1738,7 @@
       "advances": 14.0,
       "declines": 36.0,
       "unchanged": 0.0,
-      "perChange30d": -5.07,
+      "perChange30d": -4.34,
       "perChange365d": -2.55
     },
     {
@@ -1760,7 +1760,7 @@
       "advances": 11.0,
       "declines": 39.0,
       "unchanged": 0.0,
-      "perChange30d": -5.72,
+      "perChange30d": -6.03,
       "perChange365d": 3.35
     },
     {
@@ -1782,7 +1782,7 @@
       "advances": 5.0,
       "declines": 15.0,
       "unchanged": 0.0,
-      "perChange30d": -7.48,
+      "perChange30d": -6.96,
       "perChange365d": -10.3
     },
     {
@@ -1804,7 +1804,7 @@
       "advances": 12.0,
       "declines": 38.0,
       "unchanged": 0.0,
-      "perChange30d": -8.01,
+      "perChange30d": -7.47,
       "perChange365d": -3.8
     },
     {
@@ -1826,7 +1826,7 @@
       "advances": 13.0,
       "declines": 37.0,
       "unchanged": 0.0,
-      "perChange30d": -6.5,
+      "perChange30d": -6.23,
       "perChange365d": -6.24
     },
     {
@@ -1848,7 +1848,7 @@
       "advances": 10.0,
       "declines": 40.0,
       "unchanged": 0.0,
-      "perChange30d": -5.59,
+      "perChange30d": -5.62,
       "perChange365d": -7.8
     },
     {
@@ -1864,13 +1864,13 @@
       "previousClose": 8179.27,
       "yearHigh": null,
       "yearLow": null,
-      "pe": null,
-      "pb": null,
-      "dy": null,
+      "pe": 0.0,
+      "pb": 0.0,
+      "dy": 0.0,
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -8.08,
+      "perChange30d": -7.51,
       "perChange365d": -16.84
     },
     {
@@ -1892,7 +1892,7 @@
       "advances": 10.0,
       "declines": 20.0,
       "unchanged": 0.0,
-      "perChange30d": -7.98,
+      "perChange30d": -6.7,
       "perChange365d": 0.0
     },
     {
@@ -1914,7 +1914,7 @@
       "advances": 13.0,
       "declines": 37.0,
       "unchanged": 0.0,
-      "perChange30d": -5.15,
+      "perChange30d": -4.43,
       "perChange365d": 0.0
     },
     {
@@ -1936,7 +1936,7 @@
       "advances": 4.0,
       "declines": 26.0,
       "unchanged": 0.0,
-      "perChange30d": -5.91,
+      "perChange30d": -6.42,
       "perChange365d": 1.15
     },
     {
@@ -1958,7 +1958,7 @@
       "advances": 5.0,
       "declines": 25.0,
       "unchanged": 0.0,
-      "perChange30d": -7.8,
+      "perChange30d": -7.18,
       "perChange365d": -10.46
     },
     {
@@ -1980,7 +1980,7 @@
       "advances": 0.0,
       "declines": 11.0,
       "unchanged": 0.0,
-      "perChange30d": -4.18,
+      "perChange30d": -4.82,
       "perChange365d": -5.61
     },
     {
@@ -2002,7 +2002,7 @@
       "advances": 13.0,
       "declines": 27.0,
       "unchanged": 0.0,
-      "perChange30d": -3.75,
+      "perChange30d": -4.31,
       "perChange365d": 3.43
     },
     {
@@ -2024,7 +2024,7 @@
       "advances": 7.0,
       "declines": 23.0,
       "unchanged": 0.0,
-      "perChange30d": -6.56,
+      "perChange30d": -6.59,
       "perChange365d": -4.63
     },
     {
@@ -2046,7 +2046,7 @@
       "advances": 3.0,
       "declines": 12.0,
       "unchanged": 0.0,
-      "perChange30d": -6.81,
+      "perChange30d": -6.39,
       "perChange365d": -1.63
     },
     {
@@ -2068,7 +2068,7 @@
       "advances": 4.0,
       "declines": 11.0,
       "unchanged": 0.0,
-      "perChange30d": -7.64,
+      "perChange30d": -6.46,
       "perChange365d": 7.86
     },
     {
@@ -2090,7 +2090,7 @@
       "advances": 6.0,
       "declines": 24.0,
       "unchanged": 0.0,
-      "perChange30d": -7.82,
+      "perChange30d": -7.05,
       "perChange365d": 0.33
     },
     {
@@ -2112,7 +2112,7 @@
       "advances": 2.0,
       "declines": 18.0,
       "unchanged": 0.0,
-      "perChange30d": -4.67,
+      "perChange30d": -5.03,
       "perChange365d": -6.3
     },
     {
@@ -2134,7 +2134,7 @@
       "advances": 13.0,
       "declines": 17.0,
       "unchanged": 0.0,
-      "perChange30d": -5.85,
+      "perChange30d": -5.13,
       "perChange365d": -9.97
     },
     {
@@ -2156,7 +2156,7 @@
       "advances": 18.0,
       "declines": 42.0,
       "unchanged": 0.0,
-      "perChange30d": -6.74,
+      "perChange30d": -6.31,
       "perChange365d": -9.7
     },
     {
@@ -2178,7 +2178,7 @@
       "advances": 17.0,
       "declines": 33.0,
       "unchanged": 0.0,
-      "perChange30d": -9.55,
+      "perChange30d": -8.88,
       "perChange365d": -8.64
     },
     {
@@ -2200,7 +2200,7 @@
       "advances": 22.0,
       "declines": 57.0,
       "unchanged": 0.0,
-      "perChange30d": -6.99,
+      "perChange30d": -6.48,
       "perChange365d": -5.69
     },
     {
@@ -2222,7 +2222,7 @@
       "advances": 17.0,
       "declines": 60.0,
       "unchanged": 0.0,
-      "perChange30d": -7.36,
+      "perChange30d": -6.6,
       "perChange365d": 2.16
     },
     {
@@ -2244,7 +2244,7 @@
       "advances": 2.0,
       "declines": 8.0,
       "unchanged": 0.0,
-      "perChange30d": -8.48,
+      "perChange30d": -8.16,
       "perChange365d": -9.71
     },
     {
@@ -2266,7 +2266,7 @@
       "advances": 14.0,
       "declines": 61.0,
       "unchanged": 0.0,
-      "perChange30d": -7.11,
+      "perChange30d": -6.35,
       "perChange365d": 1.66
     },
     {
@@ -2288,7 +2288,7 @@
       "advances": 11.0,
       "declines": 64.0,
       "unchanged": 0.0,
-      "perChange30d": -6.03,
+      "perChange30d": -5.84,
       "perChange365d": -2.11
     },
     {
@@ -2310,7 +2310,7 @@
       "advances": 4.0,
       "declines": 18.0,
       "unchanged": 0.0,
-      "perChange30d": -5.24,
+      "perChange30d": -4.98,
       "perChange365d": 14.6
     },
     {
@@ -2332,7 +2332,7 @@
       "advances": 1.0,
       "declines": 10.0,
       "unchanged": 0.0,
-      "perChange30d": -2.99,
+      "perChange30d": -2.71,
       "perChange365d": -14.48
     },
     {
@@ -2354,7 +2354,7 @@
       "advances": 5.0,
       "declines": 12.0,
       "unchanged": 0.0,
-      "perChange30d": -6.48,
+      "perChange30d": -5.81,
       "perChange365d": 19.81
     },
     {
@@ -2376,7 +2376,7 @@
       "advances": 4.0,
       "declines": 33.0,
       "unchanged": 0.0,
-      "perChange30d": -9.68,
+      "perChange30d": -8.17,
       "perChange365d": -3.65
     },
     {
@@ -2398,7 +2398,7 @@
       "advances": 13.0,
       "declines": 62.0,
       "unchanged": 0.0,
-      "perChange30d": -8.62,
+      "perChange30d": -8.1,
       "perChange365d": -7.77
     },
     {
@@ -2420,7 +2420,7 @@
       "advances": 7.0,
       "declines": 33.0,
       "unchanged": 0.0,
-      "perChange30d": -7.76,
+      "perChange30d": -7.68,
       "perChange365d": -3.3
     },
     {
@@ -2442,7 +2442,7 @@
       "advances": 2.0,
       "declines": 28.0,
       "unchanged": 0.0,
-      "perChange30d": -8.02,
+      "perChange30d": -6.93,
       "perChange365d": -4.47
     },
     {
@@ -2464,7 +2464,7 @@
       "advances": 21.0,
       "declines": 56.0,
       "unchanged": 0.0,
-      "perChange30d": -7.0,
+      "perChange30d": -6.49,
       "perChange365d": -5.82
     },
     {
@@ -2486,7 +2486,7 @@
       "advances": 6.0,
       "declines": 24.0,
       "unchanged": 0.0,
-      "perChange30d": -8.12,
+      "perChange30d": -7.53,
       "perChange365d": -9.09
     },
     {
@@ -2508,7 +2508,7 @@
       "advances": 12.0,
       "declines": 38.0,
       "unchanged": 0.0,
-      "perChange30d": -5.72,
+      "perChange30d": -5.57,
       "perChange365d": -3.63
     },
     {
@@ -2530,7 +2530,7 @@
       "advances": 31.0,
       "declines": 69.0,
       "unchanged": 0.0,
-      "perChange30d": 0.49,
+      "perChange30d": 0.42,
       "perChange365d": 10.97
     },
     {
@@ -2552,7 +2552,7 @@
       "advances": 9.0,
       "declines": 21.0,
       "unchanged": 0.0,
-      "perChange30d": -6.22,
+      "perChange30d": -5.72,
       "perChange365d": -9.25
     },
     {
@@ -2574,7 +2574,7 @@
       "advances": 8.0,
       "declines": 22.0,
       "unchanged": 0.0,
-      "perChange30d": -6.5,
+      "perChange30d": -6.09,
       "perChange365d": -11.78
     },
     {
@@ -2596,7 +2596,7 @@
       "advances": 14.0,
       "declines": 61.0,
       "unchanged": 0.0,
-      "perChange30d": -8.0,
+      "perChange30d": -7.38,
       "perChange365d": -9.38
     },
     {
@@ -2618,7 +2618,7 @@
       "advances": 10.0,
       "declines": 15.0,
       "unchanged": 0.0,
-      "perChange30d": -7.86,
+      "perChange30d": -6.97,
       "perChange365d": -8.33
     },
     {
@@ -2640,7 +2640,7 @@
       "advances": 0.0,
       "declines": 30.0,
       "unchanged": 0.0,
-      "perChange30d": -8.46,
+      "perChange30d": -7.21,
       "perChange365d": -6.49
     },
     {
@@ -2662,7 +2662,7 @@
       "advances": 8.0,
       "declines": 10.0,
       "unchanged": 0.0,
-      "perChange30d": -8.36,
+      "perChange30d": -7.62,
       "perChange365d": -13.74
     },
     {
@@ -2684,7 +2684,7 @@
       "advances": 59.0,
       "declines": 144.0,
       "unchanged": 1.0,
-      "perChange30d": -6.6,
+      "perChange30d": -5.77,
       "perChange365d": -5.96
     },
     {
@@ -2706,7 +2706,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": 2.89,
+      "perChange30d": 2.53,
       "perChange365d": -2.21
     },
     {
@@ -2728,7 +2728,7 @@
       "advances": 3.0,
       "declines": 21.0,
       "unchanged": 0.0,
-      "perChange30d": -9.25,
+      "perChange30d": -8.91,
       "perChange365d": 0.0
     },
     {
@@ -2750,7 +2750,7 @@
       "advances": 11.0,
       "declines": 32.0,
       "unchanged": 0.0,
-      "perChange30d": -3.4,
+      "perChange30d": -2.01,
       "perChange365d": -15.39
     },
     {
@@ -2772,7 +2772,7 @@
       "advances": 23.0,
       "declines": 77.0,
       "unchanged": 0.0,
-      "perChange30d": -4.85,
+      "perChange30d": -4.7,
       "perChange365d": 0.0
     },
     {
@@ -2794,7 +2794,7 @@
       "advances": 2.0,
       "declines": 15.0,
       "unchanged": 0.0,
-      "perChange30d": -7.44,
+      "perChange30d": -6.74,
       "perChange365d": -26.66
     },
     {
@@ -2816,7 +2816,7 @@
       "advances": 9.0,
       "declines": 41.0,
       "unchanged": 0.0,
-      "perChange30d": -8.45,
+      "perChange30d": -8.22,
       "perChange365d": -2.68
     },
     {
@@ -2838,7 +2838,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -1.15,
+      "perChange30d": -1.03,
       "perChange365d": 2.18
     },
     {
@@ -2860,7 +2860,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -1.1,
+      "perChange30d": -0.98,
       "perChange365d": 1.22
     },
     {
@@ -2882,7 +2882,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -1.7,
+      "perChange30d": -1.57,
       "perChange365d": -5.42
     },
     {
@@ -2926,7 +2926,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -1.8,
+      "perChange30d": -1.63,
       "perChange365d": 2.49
     },
     {
@@ -2948,7 +2948,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -0.67,
+      "perChange30d": -0.34,
       "perChange365d": 1.13
     },
     {
@@ -2970,7 +2970,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -1.13,
+      "perChange30d": -0.96,
       "perChange365d": 2.21
     },
     {
@@ -2992,7 +2992,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -0.04,
+      "perChange30d": 0.01,
       "perChange365d": 3.92
     },
     {
@@ -3014,7 +3014,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -0.25,
+      "perChange30d": -0.24,
       "perChange365d": 3.36
     },
     {
@@ -3036,7 +3036,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -0.49,
+      "perChange30d": -0.42,
       "perChange365d": 2.67
     },
     {
@@ -3058,7 +3058,7 @@
       "advances": null,
       "declines": null,
       "unchanged": null,
-      "perChange30d": -0.58,
+      "perChange30d": -0.48,
       "perChange365d": 2.49
     }
   ]
