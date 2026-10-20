@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-19T17:15:02.620450+00:00",
+  "last_updated_utc": "2026-10-20T15:28:13.980946+00:00",
   "nse_timestamp": "19-Oct-2026 15:30",
   "count": 139,
   "indices": [
@@ -23,7 +23,7 @@
       "declines": 41.0,
       "unchanged": 0.0,
       "perChange30d": -1.96,
-      "perChange365d": -10.97
+      "perChange365d": -11.43
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -45,7 +45,7 @@
       "declines": 39.0,
       "unchanged": 1.0,
       "perChange30d": -4.62,
-      "perChange365d": -0.95
+      "perChange365d": -1.09
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -67,7 +67,7 @@
       "declines": 8.0,
       "unchanged": 0.0,
       "perChange30d": -1.54,
-      "perChange365d": -3.86
+      "perChange365d": -4.39
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -89,7 +89,7 @@
       "declines": 18.0,
       "unchanged": 0.0,
       "perChange30d": -2.05,
-      "perChange365d": -9.27
+      "perChange365d": -9.16
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -111,7 +111,7 @@
       "declines": 21.0,
       "unchanged": 0.0,
       "perChange30d": -6.45,
-      "perChange365d": 3.07
+      "perChange365d": 2.51
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -155,7 +155,7 @@
       "declines": 80.0,
       "unchanged": 1.0,
       "perChange30d": -2.46,
-      "perChange365d": -9.25
+      "perChange365d": -9.66
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -177,7 +177,7 @@
       "declines": 164.0,
       "unchanged": 2.0,
       "perChange30d": -3.18,
-      "perChange365d": -7.7
+      "perChange365d": -8.16
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -199,7 +199,7 @@
       "declines": 414.0,
       "unchanged": 4.0,
       "perChange30d": -3.5,
-      "perChange365d": -6.6
+      "perChange365d": -7.06
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -221,7 +221,7 @@
       "declines": 42.0,
       "unchanged": 0.0,
       "perChange30d": -6.24,
-      "perChange365d": 0.59
+      "perChange365d": -0.27
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -243,7 +243,7 @@
       "declines": 84.0,
       "unchanged": 1.0,
       "perChange30d": -5.95,
-      "perChange365d": -0.7
+      "perChange365d": -1.44
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -265,7 +265,7 @@
       "declines": 79.0,
       "unchanged": 1.0,
       "perChange30d": -4.73,
-      "perChange365d": 4.49
+      "perChange365d": 4.01
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -287,7 +287,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": 28.97,
-      "perChange365d": 26.31
+      "perChange365d": 29.31
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -309,7 +309,7 @@
       "declines": 126.0,
       "unchanged": 1.0,
       "perChange30d": -6.12,
-      "perChange365d": -1.3
+      "perChange365d": -1.94
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -331,7 +331,7 @@
       "declines": 34.0,
       "unchanged": 1.0,
       "perChange30d": -4.33,
-      "perChange365d": 9.44
+      "perChange365d": 8.7
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -353,7 +353,7 @@
       "declines": 208.0,
       "unchanged": 2.0,
       "perChange30d": -4.66,
-      "perChange365d": 2.1
+      "perChange365d": 1.56
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -375,7 +375,7 @@
       "declines": 334.0,
       "unchanged": 3.0,
       "perChange30d": -5.62,
-      "perChange365d": -0.2
+      "perChange365d": -0.8
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -397,7 +397,7 @@
       "declines": 414.0,
       "unchanged": 4.0,
       "perChange30d": -3.94,
-      "perChange365d": -4.37
+      "perChange365d": -4.86
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -419,7 +419,7 @@
       "declines": 206.0,
       "unchanged": 2.0,
       "perChange30d": -4.31,
-      "perChange365d": -5.29
+      "perChange365d": -5.81
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -441,7 +441,7 @@
       "declines": 638.0,
       "unchanged": 7.0,
       "perChange30d": -3.51,
-      "perChange365d": -5.99
+      "perChange365d": -6.48
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -463,7 +463,7 @@
       "declines": 224.0,
       "unchanged": 3.0,
       "perChange30d": -4.07,
-      "perChange365d": 8.28
+      "perChange365d": 7.2
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -485,7 +485,7 @@
       "declines": 414.0,
       "unchanged": 4.0,
       "perChange30d": -4.42,
-      "perChange365d": -2.75
+      "perChange365d": -3.27
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -551,7 +551,7 @@
       "declines": 13.0,
       "unchanged": 0.0,
       "perChange30d": -5.67,
-      "perChange365d": -6.01
+      "perChange365d": -5.86
     },
     {
       "key": "SECTORAL INDICES",
@@ -573,7 +573,7 @@
       "declines": 18.0,
       "unchanged": 0.0,
       "perChange30d": -2.6,
-      "perChange365d": -9.58
+      "perChange365d": -9.63
     },
     {
       "key": "SECTORAL INDICES",
@@ -595,7 +595,7 @@
       "declines": 15.0,
       "unchanged": 0.0,
       "perChange30d": -3.28,
-      "perChange365d": -22.33
+      "perChange365d": -22.3
     },
     {
       "key": "SECTORAL INDICES",
@@ -617,7 +617,7 @@
       "declines": 9.0,
       "unchanged": 1.0,
       "perChange30d": 9.22,
-      "perChange365d": -9.83
+      "perChange365d": -10.7
     },
     {
       "key": "SECTORAL INDICES",
@@ -639,7 +639,7 @@
       "declines": 5.0,
       "unchanged": 0.0,
       "perChange30d": 5.8,
-      "perChange365d": 8.18
+      "perChange365d": 7.24
     },
     {
       "key": "SECTORAL INDICES",
@@ -661,7 +661,7 @@
       "declines": 14.0,
       "unchanged": 0.0,
       "perChange30d": -7.56,
-      "perChange365d": 18.31
+      "perChange365d": 18.39
     },
     {
       "key": "SECTORAL INDICES",
@@ -683,7 +683,7 @@
       "declines": 16.0,
       "unchanged": 1.0,
       "perChange30d": -4.1,
-      "perChange365d": 15.1
+      "perChange365d": 14.15
     },
     {
       "key": "SECTORAL INDICES",
@@ -705,7 +705,7 @@
       "declines": 2.0,
       "unchanged": 0.0,
       "perChange30d": -0.28,
-      "perChange365d": 8.58
+      "perChange365d": 5.55
     },
     {
       "key": "SECTORAL INDICES",
@@ -727,7 +727,7 @@
       "declines": 9.0,
       "unchanged": 0.0,
       "perChange30d": -0.37,
-      "perChange365d": -3.72
+      "perChange365d": -4.36
     },
     {
       "key": "SECTORAL INDICES",
@@ -749,7 +749,7 @@
       "declines": 10.0,
       "unchanged": 0.0,
       "perChange30d": -3.33,
-      "perChange365d": -12.61
+      "perChange365d": -13.02
     },
     {
       "key": "SECTORAL INDICES",
@@ -771,7 +771,7 @@
       "declines": 16.0,
       "unchanged": 1.0,
       "perChange30d": -6.36,
-      "perChange365d": 4.65
+      "perChange365d": 3.7
     },
     {
       "key": "SECTORAL INDICES",
@@ -793,7 +793,7 @@
       "declines": 13.0,
       "unchanged": 0.0,
       "perChange30d": -5.3,
-      "perChange365d": -8.14
+      "perChange365d": -8.16
     },
     {
       "key": "SECTORAL INDICES",
@@ -815,7 +815,7 @@
       "declines": 9.0,
       "unchanged": 0.0,
       "perChange30d": -3.69,
-      "perChange365d": -8.29
+      "perChange365d": -9.58
     },
     {
       "key": "SECTORAL INDICES",
@@ -837,7 +837,7 @@
       "declines": 23.0,
       "unchanged": 0.0,
       "perChange30d": -7.14,
-      "perChange365d": 10.26
+      "perChange365d": 9.88
     },
     {
       "key": "SECTORAL INDICES",
@@ -859,7 +859,7 @@
       "declines": 26.0,
       "unchanged": 0.0,
       "perChange30d": -6.95,
-      "perChange365d": -5.3
+      "perChange365d": -6.01
     },
     {
       "key": "SECTORAL INDICES",
@@ -881,7 +881,7 @@
       "declines": 24.0,
       "unchanged": 0.0,
       "perChange30d": -7.37,
-      "perChange365d": 8.99
+      "perChange365d": 6.82
     },
     {
       "key": "SECTORAL INDICES",
@@ -903,7 +903,7 @@
       "declines": 15.0,
       "unchanged": 1.0,
       "perChange30d": 3.51,
-      "perChange365d": 3.88
+      "perChange365d": 2.98
     },
     {
       "key": "SECTORAL INDICES",
@@ -925,7 +925,7 @@
       "declines": 17.0,
       "unchanged": 0.0,
       "perChange30d": -4.75,
-      "perChange365d": -4.95
+      "perChange365d": -4.93
     },
     {
       "key": "SECTORAL INDICES",
@@ -1013,7 +1013,7 @@
       "declines": 34.0,
       "unchanged": 1.0,
       "perChange30d": -0.73,
-      "perChange365d": -7.16
+      "perChange365d": -7.91
     },
     {
       "key": "STRATEGY INDICES",
@@ -1035,7 +1035,7 @@
       "declines": 14.0,
       "unchanged": 0.0,
       "perChange30d": 0.18,
-      "perChange365d": -9.65
+      "perChange365d": -10.23
     },
     {
       "key": "STRATEGY INDICES",
@@ -1057,7 +1057,7 @@
       "declines": 26.0,
       "unchanged": 0.0,
       "perChange30d": -0.36,
-      "perChange365d": -5.92
+      "perChange365d": -6.14
     },
     {
       "key": "STRATEGY INDICES",
@@ -1079,7 +1079,7 @@
       "declines": 17.0,
       "unchanged": 0.0,
       "perChange30d": -0.51,
-      "perChange365d": -11.77
+      "perChange365d": -12.11
     },
     {
       "key": "STRATEGY INDICES",
@@ -1101,7 +1101,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -4.47,
-      "perChange365d": -24.51
+      "perChange365d": -25.26
     },
     {
       "key": "STRATEGY INDICES",
@@ -1123,7 +1123,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -4.51,
-      "perChange365d": -26.13
+      "perChange365d": -26.86
     },
     {
       "key": "STRATEGY INDICES",
@@ -1145,7 +1145,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": 2.21,
-      "perChange365d": 14.83
+      "perChange365d": 15.35
     },
     {
       "key": "STRATEGY INDICES",
@@ -1167,7 +1167,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": 2.26,
-      "perChange365d": 15.97
+      "perChange365d": 16.52
     },
     {
       "key": "STRATEGY INDICES",
@@ -1189,7 +1189,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": 2.73,
-      "perChange365d": -6.46
+      "perChange365d": -7.36
     },
     {
       "key": "STRATEGY INDICES",
@@ -1211,7 +1211,7 @@
       "declines": 33.0,
       "unchanged": 1.0,
       "perChange30d": -4.44,
-      "perChange365d": 4.6
+      "perChange365d": 4.24
     },
     {
       "key": "STRATEGY INDICES",
@@ -1233,7 +1233,7 @@
       "declines": 41.0,
       "unchanged": 0.0,
       "perChange30d": -3.24,
-      "perChange365d": -5.84
+      "perChange365d": -6.37
     },
     {
       "key": "STRATEGY INDICES",
@@ -1255,7 +1255,7 @@
       "declines": 80.0,
       "unchanged": 1.0,
       "perChange30d": -3.95,
-      "perChange365d": -3.37
+      "perChange365d": -3.7
     },
     {
       "key": "STRATEGY INDICES",
@@ -1277,7 +1277,7 @@
       "declines": 26.0,
       "unchanged": 1.0,
       "perChange30d": -3.18,
-      "perChange365d": -9.85
+      "perChange365d": -10.36
     },
     {
       "key": "STRATEGY INDICES",
@@ -1299,7 +1299,7 @@
       "declines": 27.0,
       "unchanged": 0.0,
       "perChange30d": -1.62,
-      "perChange365d": -8.82
+      "perChange365d": -8.97
     },
     {
       "key": "STRATEGY INDICES",
@@ -1321,7 +1321,7 @@
       "declines": 24.0,
       "unchanged": 1.0,
       "perChange30d": -5.2,
-      "perChange365d": -8.58
+      "perChange365d": -8.85
     },
     {
       "key": "STRATEGY INDICES",
@@ -1343,7 +1343,7 @@
       "declines": 23.0,
       "unchanged": 1.0,
       "perChange30d": -4.93,
-      "perChange365d": -9.06
+      "perChange365d": -9.31
     },
     {
       "key": "STRATEGY INDICES",
@@ -1365,7 +1365,7 @@
       "declines": 40.0,
       "unchanged": 1.0,
       "perChange30d": -4.71,
-      "perChange365d": -7.03
+      "perChange365d": -7.08
     },
     {
       "key": "STRATEGY INDICES",
@@ -1387,7 +1387,7 @@
       "declines": 23.0,
       "unchanged": 0.0,
       "perChange30d": -5.35,
-      "perChange365d": -2.1
+      "perChange365d": -2.45
     },
     {
       "key": "STRATEGY INDICES",
@@ -1409,7 +1409,7 @@
       "declines": 41.0,
       "unchanged": 0.0,
       "perChange30d": -5.67,
-      "perChange365d": -3.24
+      "perChange365d": -3.86
     },
     {
       "key": "STRATEGY INDICES",
@@ -1431,7 +1431,7 @@
       "declines": 33.0,
       "unchanged": 1.0,
       "perChange30d": -4.58,
-      "perChange365d": -3.19
+      "perChange365d": -3.72
     },
     {
       "key": "STRATEGY INDICES",
@@ -1453,7 +1453,7 @@
       "declines": 76.0,
       "unchanged": 1.0,
       "perChange30d": -4.01,
-      "perChange365d": 1.64
+      "perChange365d": 1.2
     },
     {
       "key": "STRATEGY INDICES",
@@ -1475,7 +1475,7 @@
       "declines": 79.0,
       "unchanged": 0.0,
       "perChange30d": -3.42,
-      "perChange365d": 4.48
+      "perChange365d": 3.98
     },
     {
       "key": "STRATEGY INDICES",
@@ -1497,7 +1497,7 @@
       "declines": 8.0,
       "unchanged": 0.0,
       "perChange30d": 0.22,
-      "perChange365d": -13.95
+      "perChange365d": -14.71
     },
     {
       "key": "STRATEGY INDICES",
@@ -1519,7 +1519,7 @@
       "declines": 24.0,
       "unchanged": 1.0,
       "perChange30d": -4.05,
-      "perChange365d": -7.98
+      "perChange365d": -7.93
     },
     {
       "key": "STRATEGY INDICES",
@@ -1541,7 +1541,7 @@
       "declines": 23.0,
       "unchanged": 1.0,
       "perChange30d": -3.9,
-      "perChange365d": -11.65
+      "perChange365d": -11.86
     },
     {
       "key": "STRATEGY INDICES",
@@ -1563,7 +1563,7 @@
       "declines": 39.0,
       "unchanged": 1.0,
       "perChange30d": -5.89,
-      "perChange365d": 6.19
+      "perChange365d": 5.39
     },
     {
       "key": "STRATEGY INDICES",
@@ -1585,7 +1585,7 @@
       "declines": 42.0,
       "unchanged": 1.0,
       "perChange30d": -3.07,
-      "perChange365d": -9.88
+      "perChange365d": -10.2
     },
     {
       "key": "STRATEGY INDICES",
@@ -1607,7 +1607,7 @@
       "declines": 26.0,
       "unchanged": 1.0,
       "perChange30d": -2.14,
-      "perChange365d": -10.96
+      "perChange365d": -11.11
     },
     {
       "key": "STRATEGY INDICES",
@@ -1629,7 +1629,7 @@
       "declines": 40.0,
       "unchanged": 0.0,
       "perChange30d": -3.45,
-      "perChange365d": -8.26
+      "perChange365d": -8.8
     },
     {
       "key": "STRATEGY INDICES",
@@ -1651,7 +1651,7 @@
       "declines": 13.0,
       "unchanged": 0.0,
       "perChange30d": -0.2,
-      "perChange365d": -13.47
+      "perChange365d": -14.07
     },
     {
       "key": "STRATEGY INDICES",
@@ -1673,7 +1673,7 @@
       "declines": 20.0,
       "unchanged": 1.0,
       "perChange30d": -5.42,
-      "perChange365d": -11.31
+      "perChange365d": -11.33
     },
     {
       "key": "STRATEGY INDICES",
@@ -1695,7 +1695,7 @@
       "declines": 18.0,
       "unchanged": 0.0,
       "perChange30d": -4.19,
-      "perChange365d": 3.37
+      "perChange365d": 2.21
     },
     {
       "key": "STRATEGY INDICES",
@@ -1717,7 +1717,7 @@
       "declines": 414.0,
       "unchanged": 4.0,
       "perChange30d": -5.22,
-      "perChange365d": -2.53
+      "perChange365d": -2.98
     },
     {
       "key": "STRATEGY INDICES",
@@ -1739,7 +1739,7 @@
       "declines": 36.0,
       "unchanged": 0.0,
       "perChange30d": -4.42,
-      "perChange365d": -7.63
+      "perChange365d": -7.81
     },
     {
       "key": "STRATEGY INDICES",
@@ -1761,7 +1761,7 @@
       "declines": 31.0,
       "unchanged": 0.0,
       "perChange30d": -4.99,
-      "perChange365d": 2.54
+      "perChange365d": 1.61
     },
     {
       "key": "STRATEGY INDICES",
@@ -1783,7 +1783,7 @@
       "declines": 18.0,
       "unchanged": 0.0,
       "perChange30d": -0.53,
-      "perChange365d": -10.59
+      "perChange365d": -11.15
     },
     {
       "key": "STRATEGY INDICES",
@@ -1805,7 +1805,7 @@
       "declines": 43.0,
       "unchanged": 0.0,
       "perChange30d": -2.38,
-      "perChange365d": -4.72
+      "perChange365d": -5.1
     },
     {
       "key": "STRATEGY INDICES",
@@ -1827,7 +1827,7 @@
       "declines": 42.0,
       "unchanged": 1.0,
       "perChange30d": -2.61,
-      "perChange365d": -8.02
+      "perChange365d": -8.77
     },
     {
       "key": "STRATEGY INDICES",
@@ -1849,7 +1849,7 @@
       "declines": 37.0,
       "unchanged": 1.0,
       "perChange30d": -4.13,
-      "perChange365d": -9.05
+      "perChange365d": -9.78
     },
     {
       "key": "STRATEGY INDICES",
@@ -1864,14 +1864,14 @@
       "previousClose": 8446.36,
       "yearHigh": null,
       "yearLow": null,
-      "pe": null,
-      "pb": null,
-      "dy": null,
+      "pe": 0.0,
+      "pb": 0.0,
+      "dy": 0.0,
       "advances": null,
       "declines": null,
       "unchanged": null,
       "perChange30d": -0.94,
-      "perChange365d": -17.46
+      "perChange365d": -17.93
     },
     {
       "key": "STRATEGY INDICES",
@@ -1937,7 +1937,7 @@
       "declines": 24.0,
       "unchanged": 0.0,
       "perChange30d": -5.51,
-      "perChange365d": -1.68
+      "perChange365d": -2.15
     },
     {
       "key": "THEMATIC INDICES",
@@ -1959,7 +1959,7 @@
       "declines": 25.0,
       "unchanged": 1.0,
       "perChange30d": -4.56,
-      "perChange365d": -13.33
+      "perChange365d": -13.45
     },
     {
       "key": "THEMATIC INDICES",
@@ -1981,7 +1981,7 @@
       "declines": 8.0,
       "unchanged": 0.0,
       "perChange30d": -4.68,
-      "perChange365d": -8.0
+      "perChange365d": -8.25
     },
     {
       "key": "THEMATIC INDICES",
@@ -2003,7 +2003,7 @@
       "declines": 32.0,
       "unchanged": 0.0,
       "perChange30d": -4.76,
-      "perChange365d": 1.64
+      "perChange365d": 1.15
     },
     {
       "key": "THEMATIC INDICES",
@@ -2025,7 +2025,7 @@
       "declines": 21.0,
       "unchanged": 0.0,
       "perChange30d": -4.46,
-      "perChange365d": -7.2
+      "perChange365d": -8.4
     },
     {
       "key": "THEMATIC INDICES",
@@ -2047,7 +2047,7 @@
       "declines": 13.0,
       "unchanged": 0.0,
       "perChange30d": 0.22,
-      "perChange365d": -0.79
+      "perChange365d": -2.0
     },
     {
       "key": "THEMATIC INDICES",
@@ -2069,7 +2069,7 @@
       "declines": 13.0,
       "unchanged": 0.0,
       "perChange30d": -6.66,
-      "perChange365d": 2.17
+      "perChange365d": 1.3
     },
     {
       "key": "THEMATIC INDICES",
@@ -2091,7 +2091,7 @@
       "declines": 26.0,
       "unchanged": 0.0,
       "perChange30d": -7.72,
-      "perChange365d": -3.2
+      "perChange365d": -3.12
     },
     {
       "key": "THEMATIC INDICES",
@@ -2113,7 +2113,7 @@
       "declines": 15.0,
       "unchanged": 0.0,
       "perChange30d": -4.23,
-      "perChange365d": -7.11
+      "perChange365d": -7.38
     },
     {
       "key": "THEMATIC INDICES",
@@ -2135,7 +2135,7 @@
       "declines": 26.0,
       "unchanged": 0.0,
       "perChange30d": 0.09,
-      "perChange365d": -10.05
+      "perChange365d": -10.24
     },
     {
       "key": "THEMATIC INDICES",
@@ -2157,7 +2157,7 @@
       "declines": 53.0,
       "unchanged": 1.0,
       "perChange30d": -2.77,
-      "perChange365d": -11.13
+      "perChange365d": -11.45
     },
     {
       "key": "THEMATIC INDICES",
@@ -2179,7 +2179,7 @@
       "declines": 43.0,
       "unchanged": 1.0,
       "perChange30d": 0.13,
-      "perChange365d": -6.52
+      "perChange365d": -6.79
     },
     {
       "key": "THEMATIC INDICES",
@@ -2201,7 +2201,7 @@
       "declines": 64.0,
       "unchanged": 1.0,
       "perChange30d": -2.65,
-      "perChange365d": -6.54
+      "perChange365d": -6.77
     },
     {
       "key": "THEMATIC INDICES",
@@ -2223,7 +2223,7 @@
       "declines": 61.0,
       "unchanged": 1.0,
       "perChange30d": -5.34,
-      "perChange365d": -0.2
+      "perChange365d": -0.52
     },
     {
       "key": "THEMATIC INDICES",
@@ -2245,7 +2245,7 @@
       "declines": 10.0,
       "unchanged": 0.0,
       "perChange30d": -0.22,
-      "perChange365d": -6.45
+      "perChange365d": -7.29
     },
     {
       "key": "THEMATIC INDICES",
@@ -2267,7 +2267,7 @@
       "declines": 61.0,
       "unchanged": 0.0,
       "perChange30d": -4.84,
-      "perChange365d": -0.65
+      "perChange365d": -1.11
     },
     {
       "key": "THEMATIC INDICES",
@@ -2289,7 +2289,7 @@
       "declines": 58.0,
       "unchanged": 0.0,
       "perChange30d": -5.13,
-      "perChange365d": -5.25
+      "perChange365d": -6.15
     },
     {
       "key": "THEMATIC INDICES",
@@ -2311,7 +2311,7 @@
       "declines": 20.0,
       "unchanged": 1.0,
       "perChange30d": -2.43,
-      "perChange365d": 12.31
+      "perChange365d": 12.05
     },
     {
       "key": "THEMATIC INDICES",
@@ -2333,7 +2333,7 @@
       "declines": 7.0,
       "unchanged": 0.0,
       "perChange30d": -4.77,
-      "perChange365d": -16.2
+      "perChange365d": -16.83
     },
     {
       "key": "THEMATIC INDICES",
@@ -2355,7 +2355,7 @@
       "declines": 14.0,
       "unchanged": 0.0,
       "perChange30d": -2.54,
-      "perChange365d": 12.03
+      "perChange365d": 11.66
     },
     {
       "key": "THEMATIC INDICES",
@@ -2377,7 +2377,7 @@
       "declines": 32.0,
       "unchanged": 0.0,
       "perChange30d": -5.92,
-      "perChange365d": -4.17
+      "perChange365d": -4.34
     },
     {
       "key": "THEMATIC INDICES",
@@ -2399,7 +2399,7 @@
       "declines": 65.0,
       "unchanged": 0.0,
       "perChange30d": -5.22,
-      "perChange365d": -9.75
+      "perChange365d": -9.86
     },
     {
       "key": "THEMATIC INDICES",
@@ -2421,7 +2421,7 @@
       "declines": 37.0,
       "unchanged": 0.0,
       "perChange30d": -3.72,
-      "perChange365d": -4.04
+      "perChange365d": -4.71
     },
     {
       "key": "THEMATIC INDICES",
@@ -2443,7 +2443,7 @@
       "declines": 21.0,
       "unchanged": 0.0,
       "perChange30d": -5.12,
-      "perChange365d": -5.83
+      "perChange365d": -6.05
     },
     {
       "key": "THEMATIC INDICES",
@@ -2465,7 +2465,7 @@
       "declines": 62.0,
       "unchanged": 1.0,
       "perChange30d": -2.63,
-      "perChange365d": -6.64
+      "perChange365d": -6.87
     },
     {
       "key": "THEMATIC INDICES",
@@ -2487,7 +2487,7 @@
       "declines": 28.0,
       "unchanged": 0.0,
       "perChange30d": -4.64,
-      "perChange365d": -12.95
+      "perChange365d": -12.88
     },
     {
       "key": "THEMATIC INDICES",
@@ -2509,7 +2509,7 @@
       "declines": 37.0,
       "unchanged": 0.0,
       "perChange30d": -3.76,
-      "perChange365d": -6.78
+      "perChange365d": -6.81
     },
     {
       "key": "THEMATIC INDICES",
@@ -2531,7 +2531,7 @@
       "declines": 100.0,
       "unchanged": 1.0,
       "perChange30d": -3.93,
-      "perChange365d": 7.54
+      "perChange365d": 7.83
     },
     {
       "key": "THEMATIC INDICES",
@@ -2553,7 +2553,7 @@
       "declines": 27.0,
       "unchanged": 0.0,
       "perChange30d": -4.55,
-      "perChange365d": -13.64
+      "perChange365d": -13.48
     },
     {
       "key": "THEMATIC INDICES",
@@ -2575,7 +2575,7 @@
       "declines": 29.0,
       "unchanged": 0.0,
       "perChange30d": -3.85,
-      "perChange365d": -14.47
+      "perChange365d": -14.49
     },
     {
       "key": "THEMATIC INDICES",
@@ -2597,7 +2597,7 @@
       "declines": 61.0,
       "unchanged": 0.0,
       "perChange30d": -4.93,
-      "perChange365d": -11.15
+      "perChange365d": -11.55
     },
     {
       "key": "THEMATIC INDICES",
@@ -2619,7 +2619,7 @@
       "declines": 19.0,
       "unchanged": 0.0,
       "perChange30d": -0.54,
-      "perChange365d": -9.25
+      "perChange365d": -9.6
     },
     {
       "key": "THEMATIC INDICES",
@@ -2641,7 +2641,7 @@
       "declines": 23.0,
       "unchanged": 0.0,
       "perChange30d": -5.49,
-      "perChange365d": -8.15
+      "perChange365d": -8.06
     },
     {
       "key": "THEMATIC INDICES",
@@ -2663,7 +2663,7 @@
       "declines": 16.0,
       "unchanged": 0.0,
       "perChange30d": 0.35,
-      "perChange365d": -11.99
+      "perChange365d": -12.73
     },
     {
       "key": "THEMATIC INDICES",
@@ -2685,7 +2685,7 @@
       "declines": 166.0,
       "unchanged": 2.0,
       "perChange30d": -3.06,
-      "perChange365d": -6.71
+      "perChange365d": -7.13
     },
     {
       "key": "THEMATIC INDICES",
@@ -2707,7 +2707,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -0.63,
-      "perChange365d": -2.57
+      "perChange365d": -3.5
     },
     {
       "key": "THEMATIC INDICES",
@@ -2751,7 +2751,7 @@
       "declines": 25.0,
       "unchanged": 0.0,
       "perChange30d": 2.04,
-      "perChange365d": -5.26
+      "perChange365d": -5.91
     },
     {
       "key": "THEMATIC INDICES",
@@ -2795,7 +2795,7 @@
       "declines": 12.0,
       "unchanged": 0.0,
       "perChange30d": -6.51,
-      "perChange365d": -26.48
+      "perChange365d": -26.8
     },
     {
       "key": "THEMATIC INDICES",
@@ -2817,7 +2817,7 @@
       "declines": 42.0,
       "unchanged": 0.0,
       "perChange30d": -4.94,
-      "perChange365d": -4.58
+      "perChange365d": -5.29
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -2839,7 +2839,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -1.59,
-      "perChange365d": 0.91
+      "perChange365d": 0.85
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -2861,7 +2861,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -1.64,
-      "perChange365d": -0.03
+      "perChange365d": -0.14
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -2883,7 +2883,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -2.28,
-      "perChange365d": -6.68
+      "perChange365d": -6.73
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -2905,7 +2905,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -1.0,
-      "perChange365d": 2.4
+      "perChange365d": 2.3
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -2927,7 +2927,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -1.67,
-      "perChange365d": 1.49
+      "perChange365d": 1.46
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -2949,7 +2949,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -1.42,
-      "perChange365d": -0.78
+      "perChange365d": -0.72
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -2971,7 +2971,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -1.51,
-      "perChange365d": 0.87
+      "perChange365d": 0.82
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -2993,7 +2993,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -0.46,
-      "perChange365d": 2.91
+      "perChange365d": 2.86
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -3015,7 +3015,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -0.74,
-      "perChange365d": 1.97
+      "perChange365d": 1.92
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -3037,7 +3037,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -0.98,
-      "perChange365d": 1.14
+      "perChange365d": 1.08
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -3059,7 +3059,7 @@
       "declines": null,
       "unchanged": null,
       "perChange30d": -1.22,
-      "perChange365d": 0.74
+      "perChange365d": 0.69
     }
   ]
 }
